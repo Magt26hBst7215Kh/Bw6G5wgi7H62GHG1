@@ -10,6 +10,6 @@ vless://403d8c69-4370-42ae-b6ff-df6681f5322e@mory1prog-sg.onrender.com:443?path=
 
 vless://403d8c69-4370-42ae-b6ff-df6681f5322e@insiders.pw:443?path=%2F&security=tls&encryption=none&host=mory1prog-sg.onrender.com&type=ws&sni=mory1prog-sg.onrender.com#%F0%9F%87%B8%F0%9F%87%ACren1sg+domain1worker
 
-vless://403d8c69-4370-42ae-b6ff-df6681f5322e@insiders.pw:443?path=%2F&security=tls&encryption=none&host=rep1sgw.mhtg1-argovpn.gq&type=ws&sni=rep1sgw.mhtg1-argovpn.gq#%F0%9F%87%B8%F0%9F%87%ACren1sg+worker
+vless://403d8c69-4370-42ae-b6ff-df6681f5322e@insiders.pw:443?path=%2F&security=tls&encryption=none&host=ren1sgw.mhtg1-argovpn.gq&type=ws&sni=ren1sgw.mhtg1-argovpn.gq#%F0%9F%87%B8%F0%9F%87%ACren1sg+worker
 
-vless://403d8c69-4370-42ae-b6ff-df6681f5322e@insiders.pw:443?path=%2F&security=tls&encryption=none&host=rep1sgp.mhtg1-argovpn.gq&type=ws&sni=rep1sgp.mhtg1-argovpn.gq#%F0%9F%87%B8%F0%9F%87%ACren1sg+worker2
+vless://403d8c69-4370-42ae-b6ff-df6681f5322e@insiders.pw:443?path=%2F&security=tls&encryption=none&host=ren1sgp.mhtg1-argovpn.gq&type=ws&sni=ren1sgp.mhtg1-argovpn.gq#%F0%9F%87%B8%F0%9F%87%ACren1sg+worker2
