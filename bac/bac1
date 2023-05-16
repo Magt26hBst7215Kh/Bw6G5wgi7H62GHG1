@@ -1,41 +1,75 @@
-trojan://by.khodemory@127.0.0.1:8080?path=%40black_player_pro&security=tls&type=ws#-%7B+%F0%9F%87%BA%F0%9F%87%B2+B4a+Configs+%F0%9F%87%BA%F0%9F%87%B2+%7D-
+trojan://by.khodemory@127.0.0.1:8080/?type=ws&path=%40black_player_pro&security=tls#-%7B%2B%F0%9F%87%BA%F0%9F%87%B2%2BOkt%2BConfigs%2B%F0%9F%87%BA%F0%9F%87%B2%2B%7D-
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDJlNTk2Mi1lYjY3LTQzYjktYjc2NS00NDY1MDhhOTRkNTc=@precisely-tourist-channel-immune.trycloudflare.com:443#%F0%9F%87%BA%F0%9F%87%B2bac1+domain+SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQ@khodmory1-mortezahtgamer.cloud.okteto.net:443#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain%2BSS
 
-vmess://eyJhZGQiOiJwcmVjaXNlbHktdG91cmlzdC1jaGFubmVsLWltbXVuZS50cnljbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicHJlY2lzZWx5LXRvdXJpc3QtY2hhbm5lbC1pbW11bmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjNkMmU1OTYyLWViNjctNDNiOS1iNzY1LTQ0NjUwOGE5NGQ1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm0/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7JiYWMxIGRvbWFpbiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJwcmVjaXNlbHktdG91cmlzdC1jaGFubmVsLWltbXVuZS50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJraG9kbW9yeTEtbW9ydGV6YWh0Z2FtZXIuY2xvdWQub2t0ZXRvLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2hvZG1vcnkxLW1vcnRlemFodGdhbWVyLmNsb3VkLm9rdGV0by5uZXQiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIGRvbWFpbiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJraG9kbW9yeTEtbW9ydGV6YWh0Z2FtZXIuY2xvdWQub2t0ZXRvLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@precisely-tourist-channel-immune.trycloudflare.com:443?path=%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=precisely-tourist-channel-immune.trycloudflare.com&type=ws&sni=precisely-tourist-channel-immune.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2bac1+domain+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@khodmory1-mortezahtgamer.cloud.okteto.net:443/?type=ws&encryption=none&host=khodmory1-mortezahtgamer.cloud.okteto.net&path=%2Fkhodemory-vls&security=tls&sni=khodmory1-mortezahtgamer.cloud.okteto.net#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@precisely-tourist-channel-immune.trycloudflare.com:443?path=%2Fkhodenory-tr%3Fed2048&security=tls&host=precisely-tourist-channel-immune.trycloudflare.com&type=ws&sni=precisely-tourist-channel-immune.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2bac1+domain+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@khodmory1-mortezahtgamer.cloud.okteto.net:443/?type=ws&host=khodmory1-mortezahtgamer.cloud.okteto.net&path=%2Fkhodemory-trs&security=tls&sni=khodmory1-mortezahtgamer.cloud.okteto.net#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain%2BTR
 
-vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicHJlY2lzZWx5LXRvdXJpc3QtY2hhbm5lbC1pbW11bmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjNkMmU1OTYyLWViNjctNDNiOS1iNzY1LTQ0NjUwOGE5NGQ1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm0/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7JiYWMxIGRvbWFpbjF3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoicHJlY2lzZWx5LXRvdXJpc3QtY2hhbm5lbC1pbW11bmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2hvZG1vcnkxLW1vcnRlemFodGdhbWVyLmNsb3VkLm9rdGV0by5uZXQiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIGRvbWFpbjF3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoia2hvZG1vcnkxLW1vcnRlemFodGdhbWVyLmNsb3VkLm9rdGV0by5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=precisely-tourist-channel-immune.trycloudflare.com&type=ws&sni=precisely-tourist-channel-immune.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2bac1+domain1worker+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=khodmory1-mortezahtgamer.cloud.okteto.net&path=%2Fkhodemory-vls&security=tls&sni=khodmory1-mortezahtgamer.cloud.okteto.net#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain1worker%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodenory-tr%3Fed2048&security=tls&host=precisely-tourist-channel-immune.trycloudflare.com&type=ws&sni=precisely-tourist-channel-immune.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2bac1+domain1worker+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=khodmory1-mortezahtgamer.cloud.okteto.net&path=%2Fkhodemory-trs&security=tls&sni=khodmory1-mortezahtgamer.cloud.okteto.net#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain1worker%2BTR
 
-vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiYmFjMXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjNkMmU1OTYyLWViNjctNDNiOS1iNzY1LTQ0NjUwOGE5NGQ1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm0/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7JiYWMxIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJiYWMxdy50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJva3Qxdy50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=bac1w.tmbax300.workers.dev&type=ws&sni=bac1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2bac1+worker+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=okt1w.tmbax300.workers.dev&path=%2Fkhodemory-vls&security=tls&sni=okt1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodenory-tr%3Fed2048&security=tls&host=bac1w.tmbax300.workers.dev&type=ws&sni=bac1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2bac1+worke+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=okt1w.tmbax300.workers.dev&path=%2Fkhodemory-trs&security=tls&sni=okt1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker%2BTR
 
-vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiYmFjMXcucG1jc3UuZ3EiLCJpZCI6IjNkMmU1OTYyLWViNjctNDNiOS1iNzY1LTQ0NjUwOGE5NGQ1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm0/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7JiYWMxIHdvcmtlcjIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYmFjMXcucG1jc3UuZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcubWh0ZzEtYXJnb3Zwbi5ncSIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXMiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+Hsm9rdDEgd29ya2VyMiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJva3Qxdy5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=bac1w.pmcsu.gq&type=ws&sni=bac1w.pmcsu.gq#%F0%9F%87%BA%F0%9F%87%B2bac1+worker2+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=okt1w.mhtg1-argovpn.gq&path=%2Fkhodemory-vls&security=tls&sni=okt1w.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker2%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fkhodenory-tr%3Fed2048&security=tls&host=bac1w.pmcsu.gq&type=ws&sni=bac1w.pmcsu.gq#%F0%9F%87%BA%F0%9F%87%B2bac1+worker2+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=okt1w.mhtg1-argovpn.gq&path=%2Fkhodemory-trs&security=tls&sni=okt1w.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker2%2BTR
 
-vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiIzZDJlNTk2Mi1lYjY3LTQzYjktYjc2NS00NDY1MDhhOTRkNTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvcHJlY2lzZWx5LXRvdXJpc3QtY2hhbm5lbC1pbW11bmUudHJ5Y2xvdWRmbGFyZS5jb20va2hvZGVtb3J5LXZtP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4e68J+HsmJhYzEgZG9tYWluIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImV2ZXJ5c2VydmVycy50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcucG1jc3UuZ3EiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIHdvcmtlcjMgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoib2t0MXcucG1jc3UuZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fprecisely-tourist-channel-immune.trycloudflare.com%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=everyservers.tmbax300.workers.dev&type=ws&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2bac1+domain+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=okt1w.pmcsu.gq&path=%2Fkhodemory-vls&security=tls&sni=okt1w.pmcsu.gq#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker3%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fprecisely-tourist-channel-immune.trycloudflare.com%2Fkhodenory-tr%3Fed2048&security=tls&host=everyservers.tmbax300.workers.dev&type=ws&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2bac1+domain+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=okt1w.pmcsu.gq&path=%2Fkhodemory-trs&security=tls&sni=okt1w.pmcsu.gq#%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker3%2BTR
 
-vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiIzZDJlNTk2Mi1lYjY3LTQzYjktYjc2NS00NDY1MDhhOTRkNTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmFjMXcucG1jc3UuZ3Eva2hvZGVtb3J5LXZtP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4e68J+HsmJhYzEgd29ya2VyMiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMudG1iYXgzMDAud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZG1vcnkxLW1vcnRlemFodGdhbWVyLmNsb3VkLm9rdGV0by5uZXQva2hvZGVtb3J5LXZtcyIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4e68J+Hsm9rdDEgZG9tYWluIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImV2ZXJ5c2VydmVycy50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fbac1w.pmcsu.gq%2Fkhodemory-vl%3Fed&security=tls&encryption=none&host=everyservers.tmbax300.workers.dev&type=ws&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2bac1+worker2+VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.tmbax300.workers.dev&path=%2Fkhodmory1-mortezahtgamer.cloud.okteto.net%2Fkhodemory-vls&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain%2BVL
 
-trojan://3d2e5962-eb67-43b9-b765-446508a94d57@digg.com:443?path=%2Fbac1w.pmcsu.gq%2Fkhodenory-tr%3Fed2048&security=tls&host=everyservers.tmbax300.workers.dev&type=ws&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2bac1+worker2+TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.tmbax300.workers.dev&path=%2Fkhodmory1-mortezahtgamer.cloud.okteto.net%2Fkhodemory-trs&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bdomain%2BTR
 
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb2t0MXcubWh0ZzEtYXJnb3Zwbi5ncS9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoiMvCfh7rwn4eyb2t0MSB3b3JrZXIyMSBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMudG1iYXgzMDAud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.tmbax300.workers.dev&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-vls&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker21%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.tmbax300.workers.dev&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-trs&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker21%2BTR
+
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLm1odGcxLWFyZ292cG4uZ3EiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9va3Qxdy5taHRnMS1hcmdvdnBuLmdxL2tob2RlbW9yeS12bXMiLCJwb3J0IjoiNDQzIiwicHMiOiIy8J+HuvCfh7Jva3QxIHdvcmtlcjIyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImV2ZXJ5c2VydmVycy5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.mhtg1-argovpn.gq&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-vls&security=tls&sni=everyservers.mhtg1-argovpn.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker22%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.mhtg1-argovpn.gq&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-trs&security=tls&sni=everyservers.mhtg1-argovpn.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker22%2BTR
+
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnBtY3N1LmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb2t0MXcubWh0ZzEtYXJnb3Zwbi5ncS9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoiMvCfh7rwn4eyb2t0MSB3b3JrZXIyMyBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMucG1jc3UuZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.pmcsu.gq&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-vls&security=tls&sni=everyservers.pmcsu.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker23%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.pmcsu.gq&path=%2Fokt1w.mhtg1-argovpn.gq%2Fkhodemory-trs&security=tls&sni=everyservers.pmcsu.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker23%2BTR
+
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb2t0MXcucG1jc3UuZ3Eva2hvZGVtb3J5LXZtcyIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4e68J+Hsm9rdDEgd29ya2VyMzEgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiZXZlcnlzZXJ2ZXJzLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.tmbax300.workers.dev&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-vls&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker31%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.tmbax300.workers.dev&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-trs&security=tls&sni=everyservers.tmbax300.workers.dev#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker31%2BTR
+
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLm1odGcxLWFyZ292cG4uZ3EiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9va3Qxdy5wbWNzdS5ncS9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoiMvCfh7rwn4eyb2t0MSB3b3JrZXIzMiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.mhtg1-argovpn.gq&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-vls&security=tls&sni=everyservers.mhtg1-argovpn.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker32%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.mhtg1-argovpn.gq&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-trs&security=tls&sni=everyservers.mhtg1-argovpn.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker32%2BTR
+
+vmess://eyJhZGQiOiJkaWdnLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXZlcnlzZXJ2ZXJzLnBtY3N1LmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb2t0MXcucG1jc3UuZ3Eva2hvZGVtb3J5LXZtcyIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4e68J+Hsm9rdDEgd29ya2VyMzMgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiZXZlcnlzZXJ2ZXJzLnBtY3N1LmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&encryption=none&host=everyservers.pmcsu.gq&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-vls&security=tls&sni=everyservers.pmcsu.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker33%2BVL
+
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@digg.com:443/?type=ws&host=everyservers.pmcsu.gq&path=%2Fokt1w.pmcsu.gq%2Fkhodemory-trs&security=tls&sni=everyservers.pmcsu.gq#2%F0%9F%87%BA%F0%9F%87%B2okt1%2Bworker33%2BTR
