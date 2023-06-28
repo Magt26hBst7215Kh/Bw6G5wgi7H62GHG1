@@ -12,7 +12,7 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3F
 
 # okt2 configs
 
-ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2OKT2%F0%9F%87%BA%F0%9F%87%B2
+ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2OKT-2%F0%9F%87%BA%F0%9F%87%B2
 vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QyIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJva3Qydy50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&host=okt2w.tmbax300.workers.dev&path=%2F2%3Fed%3D2048&security=tls&sni=okt2w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2%2Bworker%2BVL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip.mhtg1-argovpn.gq:443/?type=ws&host=okt2w.tmbax300.workers.dev&path=%2F3%3Fed%3D2048&security=tls&sni=okt2w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2%2Bworker%2BTR
@@ -28,7 +28,7 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip.mhtg1-argovpn.gq:443/?type=ws&h
 
 # bac1 configs
 
-ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2BAC1%F0%9F%87%BA%F0%9F%87%B2
+ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2BAC-1%F0%9F%87%BA%F0%9F%87%B2
 vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWMxdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiM2QyZTU5NjItZWI2Ny00M2I5LWI3NjUtNDQ2NTA4YTk0ZDU3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HsmJhYzEgd29ya2VyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImJhYzF3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://3d2e5962-eb67-43b9-b765-446508a94d57@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&host=bac1w.tmbax300.workers.dev&path=%2Fkhodemory-vl%3Fed%3D2048&security=tls&sni=bac1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2bac1%2Bworker%2BVL
 trojan://3d2e5962-eb67-43b9-b765-446508a94d57@ip.mhtg1-argovpn.gq:443/?type=ws&host=bac1w.tmbax300.workers.dev&path=%2Fkhodemory-tr%3Fed%3D2048&security=tls&sni=bac1w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2bac1%2Bworker%2BTR
@@ -44,6 +44,10 @@ trojan://3d2e5962-eb67-43b9-b765-446508a94d57@ip.mhtg1-argovpn.gq:443/?type=ws&h
 
 # codesb3 configs
 
-
+ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg==@127.0.0.1:1080#%F0%9F%87%A9%F0%9F%87%AACODESB-3%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2Rlc2Izdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiODk3MmEyNTUtNmNiMS00Yjc3LTkwZWYtODliYjdjZWYzMzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiLzEiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqmNvZGVzYjMgd29ya2VyIiwic2N5IjoiYXV0byIsInNuaSI6ImNvZGVzYjN3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2Rlc2Izdy5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiI4OTcyYTI1NS02Y2IxLTRiNzctOTBlZi04OWJiN2NlZjMzOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqY29kZXNiMyB3b3JrZXIyIiwic2N5IjoiYXV0byIsInNuaSI6ImNvZGVzYjN3Lm1odGcxLWFyZ292cG4uZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsImlkIjoiODk3MmEyNTUtNmNiMS00Yjc3LTkwZWYtODliYjdjZWYzMzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dsbzY5cC0xMDAwMC5jc2IuYXBwLzEiLCJwb3J0IjoiNDQzIiwicHMiOiIy8J+HqfCfh6pjb2Rlc2IzIGRvbWFpbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsImlkIjoiODk3MmEyNTUtNmNiMS00Yjc3LTkwZWYtODliYjdjZWYzMzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NvZGVzYjN3Lm1odGcxLWFyZ292cG4uZ3EvMSIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4ep8J+HqmNvZGVzYjMgd29ya2VyMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 # END OF THE SUBSCRIPTION !!!
