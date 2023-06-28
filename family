@@ -2,6 +2,13 @@
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#-%7B%2B%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C%2B%7D-
 
+# kmhtg configs
+
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-de1.mhtg1-argovpn.gq&type=ws&sni=vless-kmhtg-de1.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-de2.mhtg1-argovpn.gq&type=ws&sni=vless-kmhtg-de2.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg+2
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-tr1.mhtg1-argovpn.gq&type=ws&sni=vless-kmhtg-tr1.mhtg1-argovpn.gq#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-fi1.mhtg1-argovpn.gq&type=ws&sni=vless-kmhtg-fi1.mhtg1-argovpn.gq#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1
+
 # okt2 configs
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2OKT2%F0%9F%87%BA%F0%9F%87%B2
