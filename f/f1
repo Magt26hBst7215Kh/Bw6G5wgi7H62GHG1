@@ -13,6 +13,7 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&en
 
 # okt2 configs
 
+#ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%87%BA%F0%9F%87%B2OKT-2%F0%9F%87%BA%F0%9F%87%B2
 vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QyIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0dzZldHdnaHcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=okt2w.tmbax300.workers.dev&path=%2F2%3Fed%3D2048&security=tls&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2%2Bworker%2BVL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip.mhtg1-argovpn.gq:443/?type=ws&host=okt2w.tmbax300.workers.dev&path=%2F3%3Fed%3D2048&security=tls&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2%2Bworker%2BTR
