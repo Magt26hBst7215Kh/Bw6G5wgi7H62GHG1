@@ -4,8 +4,8 @@ ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFA
 
 # kmhtg configs
 
-vless://9bb38498-3f8a-41e1-ada3-c68553369192@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&host=vless-kmhtg-random.mhtg1-argovpn.gq&path=%2Fvless%3Fed%3D2048&security=tls&sni=sb7es262.mhtg1-argovpn.gq#%F0%9F%8F%B3%EF%B8%8Fkmhtg%2Brandom
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-de1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=va37yje8.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg%2B1
+#vless://9bb38498-3f8a-41e1-ada3-c68553369192@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&host=vless-kmhtg-random.mhtg1-argovpn.gq&path=%2Fvless%3Fed%3D2048&security=tls&sni=sb7es262.mhtg1-argovpn.gq#%F0%9F%8F%B3%EF%B8%8Fkmhtg%2Brandom
+#vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-de1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=va37yje8.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg%2B1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-de2.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw653jrgw9hb.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg%2B2
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-tr1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw62tgheu72th.mhtg1-argovpn.gq#%F0%9F%87%B9%F0%9F%87%B7kmhtg%2B1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-fi1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=wg6wwtabl937.mhtg1-argovpn.gq#%F0%9F%87%AB%F0%9F%87%AEkmhtg%2B1
