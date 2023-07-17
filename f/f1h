@@ -11,6 +11,7 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3F
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-tr1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw62tgheu72th.mhtg1-argovpn.gq#%F0%9F%87%B9%F0%9F%87%B7kmhtg%2B1
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-fi1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=wg6wwtabl937.mhtg1-argovpn.gq#%F0%9F%87%AB%F0%9F%87%AEkmhtg%2B1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&fragment=sni&security=tls&encryption=none&fragment_v1=sni&host=vless-kmhtg-ja1.mhtg1-argovpn.gq&type=ws&sni=29uehdiywtw7.mhtg1-argovpn.gq#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1
+
 # howdy configs
 
 trojan://96bcaff0-1f4d-11ee-9759-1239d0255272@ip.mhtg1-argovpn.gq:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=us-trojan.bonds.id&type=ws&sni=us-trojan7etebeu63hehw.bonds.id#%F0%9F%87%BA%F0%9F%87%B2H-51.81.82.15
