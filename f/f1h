@@ -7,7 +7,7 @@ ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFA
 
 #vless://9bb38498-3f8a-41e1-ada3-c68553369192@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&host=vless-kmhtg-random.mhtg1-argovpn.gq&path=%2Fvless%3Fed%3D2048&security=tls&sni=sb7egsywgs262.mhtg1-argovpn.gq#%F0%9F%8F%B3%EF%B8%8Fkmhtg%2Brandom
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443?path=%2F%3Fed%3D2048&fragment=sni&security=tls&encryption=none&fragment_v1=sni&host=vless-kmhtg-de1.mhtg1-argovpn.gq&type=ws&sni=va3ye6wy7yje8.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-de2.mhtg2-fallcoon.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw653jrgw9hb.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg%2B2
+#vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-de2.mhtg2-fallcoon.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw653jrgw9hb.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg%2B2
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-tr1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=gw62tgheu72th.mhtg1-argovpn.gq#%F0%9F%87%B9%F0%9F%87%B7kmhtg%2B1
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.mhtg1-argovpn.gq:443/?type=ws&encryption=none&flow=&host=vless-kmhtg-fi1.mhtg1-argovpn.gq&path=%2F%3Fed%3D2048&security=tls&sni=wg6wwtabl937.mhtg1-argovpn.gq#%F0%9F%87%AB%F0%9F%87%AEkmhtg%2B1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&fragment=sni&security=tls&encryption=none&fragment_v1=sni&host=vless-kmhtg-ja1.mhtg2-fallcoon.gq&type=ws&sni=29uehdiywtw7.mhtg2-fallcoon.gq#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1
@@ -18,8 +18,9 @@ trojan://96bcaff0-1f4d-11ee-9759-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowd
 trojan://31c15570-1f4d-11ee-8d8f-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=ca-trojan.bonds.id&type=ws&sni=ca-trojanehye5wgwbwb.bonds.id#%F0%9F%87%A8%F0%9F%87%A6H-51.222.86.136
 trojan://7217cb30-1f4d-11ee-b67d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=th1-trojan.bonds.id&type=ws&sni=th1-trojanuw6eywhshd.bonds.id#%F0%9F%87%B9%F0%9F%87%ADH-185.78.166.145
 trojan://ecb21cd0-1f4c-11ee-82b8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=nl.test3.net&type=ws&sni=nleh6wtwha.test3.net#%F0%9F%87%B3%F0%9F%87%B1H-51.158.146.183
-trojan://cddea070-1f4c-11ee-b927-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=fr.test3.net&type=ws&sni=frwg5wtwggw.test3.net#%F0%9F%87%AB%F0%9F%87%B7H-51.159.59.186
+trojan://cddea070-1f4c-11ee-b927-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=&security=tls&fragment_v1=sni&host=fr.test3.net&type=ws&sni=frwg5wtwggw.test3.net#%F0%9F%87%AB%F0%9F%87%B7H-51.159.59.186
 trojan://18fbf5a0-1f4d-11ee-97cf-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=tr.test3.net&type=ws&sni=treh6eteheh.test3.net#%F0%9F%87%B9%F0%9F%87%B7H-194.146.26.95
+trojan://822e3540-2a5c-11ee-ab8c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&fragment=sni&security=tls&fragment_v1=sni&host=ro1.test3.net&type=ws&sni=sbue7yehegeye.test3.net#%F0%9F%87%B7%F0%9F%87%B4H-103.212.81.85
 
 # okt2 configs
 
