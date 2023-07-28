@@ -13,7 +13,7 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed
 //de3
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vless-kmhtg-de3.tmbax300.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAkmhtg+3w+NoTLS
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-de3.tmbax300.workers.dev&type=ws&sni=gs7wy6whebeg62ye.tmbax300.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+3w+TLS
-#vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-de3.mhtg1-argovpn.gq&type=ws&sni=sb7w66eyehs6w.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg+3d+TLD
+#vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-de3.mhtg1-argovpn.gq&type=ws&sni=sb7w66eyehs6w.mhtg1-argovpn.gq#%F0%9F%87%A9%F0%9F%87%AAkmhtg+3d+TLS
 //tr1
 #vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-tr1.mhtg1-argovpn.gq&type=ws&sni=gw62tgheu72th.mhtg1-argovpn.gq#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1
 //fi1
