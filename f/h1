@@ -1,5 +1,3 @@
-# howdy.id configs
-
 // us
 trojan://96bcaff0-1f4d-11ee-9759-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=us-trojan.bonds.id&type=ws&sni=us-trojan7etebeu63hehw.bonds.id#%F0%9F%87%BA%F0%9F%87%B2H-51.81.82.15
 // ca
@@ -14,5 +12,3 @@ trojan://bc79bcc0-2a5c-11ee-b03b-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowd
 trojan://18fbf5a0-1f4d-11ee-97cf-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=tr.test3.net&type=ws&sni=treh6eteheh.test3.net#%F0%9F%87%B9%F0%9F%87%B7H-194.146.26.95
 // mo
 trojan://822e3540-2a5c-11ee-ab8c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=ro1.test3.net&type=ws&sni=sbue7yehegeye.test3.net#%F0%9F%87%B7%F0%9F%87%B4H-103.212.81.85
-
-# END OF THE SUBSCRIPTION !!!
