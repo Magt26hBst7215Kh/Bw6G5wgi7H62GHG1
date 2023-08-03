@@ -35,9 +35,9 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-hk1.tmbax300.workers.dev&type=ws&sni=dboeye8278226y2.tmbax300.workers.dev#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1w
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-hk1.mhtg1-argovpn.gq&type=ws&sni=hdi6w82627ey62y2he.mhtg1-argovpn.gq#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1d
 // ch1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=test.tmbax300.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1w
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-kr1.tmbax300.workers.dev&type=ws&sni=bdoeu82268e6eurtjdfw72.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1w
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-kr1.mhtg1-argovpn.gq&type=ws&sni=hsow972ueuhd72yehf5.mhtg1-argovpn.gq#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1d
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vless-kmhtg-ch1.tmbax300.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1w
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-ch1.tmbax300.workers.dev&type=ws&sni=bdoeu82268e6eurtjdfw72.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1w
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-ch1.mhtg1-argovpn.gq&type=ws&sni=hsow972ueuhd72yehf5.mhtg1-argovpn.gq#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1d
 // br1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vless-kmhtg-br1.tmbax300.workers.dev&type=ws#%F0%9F%87%A7%F0%9F%87%B7kmhtg+1w
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless-kmhtg-br1.tmbax300.workers.dev&type=ws&sni=bdosu9wy28eteu62g.tmbax300.workers.dev#%F0%9F%87%A7%F0%9F%87%B7kmhtg+1w
