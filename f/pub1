@@ -8,26 +8,28 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.101.159:8090#www.outline.network%20(US)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.182:812#www.outline.network%20(JP)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#www.outline.network%20(CA)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#www.outline.network%20(AU)
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#www.outline.network%20(AU)
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@145.239.1.100:8080#www.outline.network%20(DE)
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#www.outline.network%20(FR)
 
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#www.outline.network%20(GB)
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#www.outline.network%20(PL)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHQm1qeHRRcFgzdFNrMExRdzJscnI4@38.180.9.82:33087#www.outline.network%20(SG)
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHQm1qeHRRcFgzdFNrMExRdzJscnI4@38.180.9.82:33087#www.outline.network%20(SG)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaGF5ZjRGcmVh@176.103.61.162:444#www.outline.network%20(UA)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YlM5cEE0WTVMMlpwS21mSGo1RXNa@38.180.11.128:64827#www.outline.network%20(AE)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYU9LekFld3ViQUlSU1ExRmtUeUdE@45.79.238.129:443#www.outline.network%20(AU)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#www.outline.network%20(CA)
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YlM5cEE0WTVMMlpwS21mSGo1RXNa@38.180.11.128:64827#www.outline.network%20(AE)
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYU9LekFld3ViQUlSU1ExRmtUeUdE@45.79.238.129:443#www.outline.network%20(AU)
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#www.outline.network%20(CA)
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#www.outline.network%20(DE)
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:8080#www.outline.network%20(FR)
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.193:443#www.outline.network%20(GB)
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#www.outline.network%20(PL)
 
 # telegram configs
+# deamnet ss
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIOGh1dUk4bXhpTTNaN09HNXkzaU1s@165.232.45.31:443#%40DeamNet_%F0%9F%87%AC%F0%9F%87%A7Slough-1006_nth
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRTl2a1JkU2lEYkFjS3JkeU10VTdE@46.101.4.200:443#%40DeamNet_%F0%9F%87%AC%F0%9F%87%A7Slough-1008_nth
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIOGh1dUk4bXhpTTNaN09HNXkzaU1s@165.232.45.31:443#%40DeamNet_%F0%9F%87%AC%F0%9F%87%A7Slough-1006_nth
+#ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRTl2a1JkU2lEYkFjS3JkeU10VTdE@46.101.4.200:443#%40DeamNet_%F0%9F%87%AC%F0%9F%87%A7Slough-1008_nth
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2TUpYSzE1ek9hOEs@205.134.180.141:443#%40DeamNet_%F0%9F%87%BA%F0%9F%87%B8Baltimore-1001_nth
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ@205.134.180.145:443#%40DeamNet_%F0%9F%87%BA%F0%9F%87%B8Baltimore-1002_nth
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.151:443#%40DeamNet_%F0%9F%87%BA%F0%9F%87%B8Baltimore-1003_nth
