@@ -1,4 +1,4 @@
-# aug3, 23:31
+# aug5, 23:39
 # version NETBRIGHT
 # family configs
 
@@ -57,10 +57,10 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@127.0.0.1:5200?path=%2F%3Fed%3D2048
 
 # howdy configs
 
-trojan://96bcaff0-1f4d-11ee-9759-1239d0255272@127.0.0.1:5200/?type=ws&host=us-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=us-trojan7etebeu63hehw.bonds.id#%F0%9F%87%BA%F0%9F%87%B2H-51.81.82.15
-trojan://31c15570-1f4d-11ee-8d8f-1239d0255272@127.0.0.1:5200/?type=ws&host=ca-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=ca-trojanehye5wgwbwb.bonds.id#%F0%9F%87%A8%F0%9F%87%A6H-51.222.86.136
-trojan://7217cb30-1f4d-11ee-b67d-1239d0255272@127.0.0.1:5200/?type=ws&host=th1-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=th1-trojanuw6eywhshd.bonds.id#%F0%9F%87%B9%F0%9F%87%ADH-185.78.166.145
-trojan://ecb21cd0-1f4c-11ee-82b8-1239d0255272@127.0.0.1:5200/?type=ws&host=nl.test3.net&path=%2Fhowdy&security=tls&sni=nleh6wtwha.test3.net#%F0%9F%87%B3%F0%9F%87%B1H-51.158.146.183
+trojan://ab4ac510-33ca-11ee-a0c5-1239d0255272@127.0.0.1:5200/?type=ws&host=us-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=us-trojan7etebeu63hehw.bonds.id#%F0%9F%87%BA%F0%9F%87%B2H-51.81.82.15
+trojan://86efcf50-33ca-11ee-8a92-1239d0255272@127.0.0.1:5200/?type=ws&host=ca-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=ca-trojanehye5wgwbwb.bonds.id#%F0%9F%87%A8%F0%9F%87%A6H-51.222.86.136
+trojan://5f50ab00-33ca-11ee-a5a9-1239d0255272@127.0.0.1:5200/?type=ws&host=th1-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=th1-trojanuw6eywhshd.bonds.id#%F0%9F%87%B9%F0%9F%87%ADH-185.78.166.145
+trojan://2c812b00-33ca-11ee-9ea2-1239d0255272@127.0.0.1:5200/?type=ws&host=nl.test3.net&path=%2Fhowdy&security=tls&sni=nleh6wtwha.test3.net#%F0%9F%87%B3%F0%9F%87%B1H-51.158.146.183
 trojan://bc79bcc0-2a5c-11ee-b03b-1239d0255272@127.0.0.1:5200/?type=ws&host=fr.test3.net&path=%2Fhowdy&security=tls&sni=frwg5wtwggw.test3.net#%F0%9F%87%AB%F0%9F%87%B7H-51.159.59.186
 trojan://18fbf5a0-1f4d-11ee-97cf-1239d0255272@127.0.0.1:5200/?type=ws&host=tr.test3.net&path=%2Fhowdy&security=tls&sni=treh6eteheh.test3.net#%F0%9F%87%B9%F0%9F%87%B7H-194.146.26.95
 trojan://822e3540-2a5c-11ee-ab8c-1239d0255272@127.0.0.1:5200/?type=ws&host=ro1.test3.net&path=%2Fhowdy&security=tls&sni=sbue7yehegeye.test3.net#%F0%9F%87%B7%F0%9F%87%B4H-103.212.81.85
