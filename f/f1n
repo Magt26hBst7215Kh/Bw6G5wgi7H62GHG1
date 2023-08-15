@@ -1,4 +1,4 @@
-# aug5, 23:39
+# aug16, 00:06
 # version NETBRIGHT
 # family configs
 
@@ -104,5 +104,20 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@127.0.0.1:5200/?type=ws&host=okt2w
 #vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2Rlc2Izdy5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiI4OTcyYTI1NS02Y2IxLTRiNzctOTBlZi04OWJiN2NlZjMzOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqY29kZXNiMyB3b3JrZXIyIiwic2N5IjoiYXV0byIsInNuaSI6ImNvZGVzYjN3Lm1odGcxLWFyZ292cG4uZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 #vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsImlkIjoiODk3MmEyNTUtNmNiMS00Yjc3LTkwZWYtODliYjdjZWYzMzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dsbzY5cC0xMDAwMC5jc2IuYXBwLzEiLCJwb3J0IjoiNDQzIiwicHMiOiIy8J+HqfCfh6pjb2Rlc2IzIGRvbWFpbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 #vmess://eyJhZGQiOiJpcC5taHRnMS1hcmdvdnBuLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsImlkIjoiODk3MmEyNTUtNmNiMS00Yjc3LTkwZWYtODliYjdjZWYzMzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NvZGVzYjN3Lm1odGcxLWFyZ292cG4uZ3EvMSIsInBvcnQiOiI0NDMiLCJwcyI6IjLwn4ep8J+HqmNvZGVzYjMgd29ya2VyMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJldmVyeXNlcnZlcnMubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+# weba1 configs
+#trojan://by.khodemory@127.0.0.1:8080/?type=ws&path=%40black_player_pro&security=tls#-%7B%2B%F0%9F%87%A8%F0%9F%87%A6%2BWeba1%2BConfigs%2B%F0%9F%87%A8%F0%9F%87%A6%2B%7D-
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYmExdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoi8J+HqPCfh6Z3ZWJhMSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidm1zaTI3ZXV1ZGpkand2eXd5LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=weba1w.tmbax300.workers.dev&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BVL
+trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=weba1w.tmbax300.workers.dev&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BTR
+#vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYmExdy5taHRnMi1mYWxsY29vbi5ncSIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoi8J+HqPCfh6Z3ZWJhMSB3b3JrZXIyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InZtc2kyN2V1dWRqZGp3dnl3eS5taHRnMi1mYWxsY29vbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+#vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=weba1w.mhtg2-fallcoon.gq&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.mhtg2-fallcoon.gq#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BVL
+#trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=weba1w.mhtg2-fallcoon.gq&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.mhtg2-fallcoon.gq#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BTR
+#vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV2ZXJ5c2VydmVycy5taHRnMi1mYWxsY29vbi5ncSIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dlYmExLWttaHRnLm9ud2ViYXBwLmlvL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoiMvCfh6jwn4emd2ViYTEgZG9tYWluIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InZtc2kyN2V1dWRqZGp3dnl3eS5taHRnMi1mYWxsY29vbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+#vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=everyservers.mhtg2-fallcoon.gq&path=%2Fweba1-kmhtg.onwebapp.io%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.mhtg2-fallcoon.gq#2%F0%9F%87%A8%F0%9F%87%A6weba1%2Bdomain%2BVL
+#trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=everyservers.mhtg2-fallcoon.gq&path=%2Fweba1-kmhtg.onwebapp.io%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.mhtg2-fallcoon.gq#2%F0%9F%87%A8%F0%9F%87%A6weba1%2Bdomain%2BTR
+#vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV2ZXJ5c2VydmVycy5taHRnMi1mYWxsY29vbi5ncSIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dlYmExdy5taHRnMi1mYWxsY29vbi5ncS92bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjUyMDAiLCJwcyI6IjLwn4eo8J+HpndlYmExIHdvcmtlcjIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidm1zaTI3ZXV1ZGpkand2eXd5Lm1odGcyLWZhbGxjb29uLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+#vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=everyservers.mhtg2-fallcoon.gq&path=%2Fweba1w.mhtg2-fallcoon.gq%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.mhtg2-fallcoon.gq#2%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BVL
+#trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=everyservers.mhtg2-fallcoon.gq&path=%2Fweba1w.mhtg2-fallcoon.gq%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.mhtg2-fallcoon.gq#2%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BTR
 
 # END OF THE SUBSCRIPTION !!!
