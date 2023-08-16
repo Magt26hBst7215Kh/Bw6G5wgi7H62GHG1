@@ -1,4 +1,4 @@
-# aug16, 00:06
+# aug16, 13:05
 # version NETBRIGHT
 # family configs
 
@@ -107,9 +107,9 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@127.0.0.1:5200/?type=ws&host=okt2w
 
 # weba1 configs
 #trojan://by.khodemory@127.0.0.1:8080/?type=ws&path=%40black_player_pro&security=tls#-%7B%2B%F0%9F%87%A8%F0%9F%87%A6%2BWeba1%2BConfigs%2B%F0%9F%87%A8%F0%9F%87%A6%2B%7D-
-vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYmExdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoi8J+HqPCfh6Z3ZWJhMSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidm1zaTI3ZXV1ZGpkand2eXd5LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=weba1w.tmbax300.workers.dev&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BVL
-trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=weba1w.tmbax300.workers.dev&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BTR
+#vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYmExdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoi8J+HqPCfh6Z3ZWJhMSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidm1zaTI3ZXV1ZGpkand2eXd5LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+#vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=weba1w.tmbax300.workers.dev&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BVL
+#trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=weba1w.tmbax300.workers.dev&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BTR
 #vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYmExdy5taHRnMi1mYWxsY29vbi5ncSIsImlkIjoiNjJkZWM1ODUtZjAwZS00ZGNjLTk3YjMtZGRlM2NiYjVlZDA0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNTIwMCIsInBzIjoi8J+HqPCfh6Z3ZWJhMSB3b3JrZXIyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InZtc2kyN2V1dWRqZGp3dnl3eS5taHRnMi1mYWxsY29vbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 #vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&encryption=none&host=weba1w.mhtg2-fallcoon.gq&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.mhtg2-fallcoon.gq#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BVL
 #trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@127.0.0.1:5200/?type=ws&host=weba1w.mhtg2-fallcoon.gq&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.mhtg2-fallcoon.gq#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker2%2BTR
