@@ -1,4 +1,4 @@
-# sep5, 23:38
+# sep5, 23:46
 # family configs
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
@@ -64,10 +64,5 @@ vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
 
-# weba1 configs
-
-vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViYTF3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwiaWQiOiI2MmRlYzU4NS1mMDBlLTRkY2MtOTdiMy1kZGUzY2JiNWVkMDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4emd2ViYTEgd29ya2VyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InZtc2kyN2V1dWRqZGp3dnl3eS50bWJheDMwMC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@ip-kmhtg.ddns.net:8443/?type=ws&encryption=none&host=weba1w.tmbax300.workers.dev&path=%2Fvls%3Fed%3D2048&security=tls&sni=vlshw7t2iegsjebye.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BVL
-trojan://62dec585-f00e-4dcc-97b3-dde3cbb5ed04@ip-kmhtg.ddns.net:2083/?type=ws&host=weba1w.tmbax300.workers.dev&path=%2Ftrs%3Fed%3D2048&security=tls&sni=trsb826276ejwt26.tmbax300.workers.dev#%F0%9F%87%A8%F0%9F%87%A6weba1%2Bworker%2BTR
 
 # END OF THE SUBSCRIPTION !!!
