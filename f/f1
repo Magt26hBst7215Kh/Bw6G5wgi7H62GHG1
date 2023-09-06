@@ -1,4 +1,4 @@
-# sep6, 12:18
+# sep6, 12:37
 # family configs
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
@@ -7,12 +7,12 @@ ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFA
 
 // de1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1w+HTTPS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTPS
 // fi1 (x)
 v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP+%28x%29
 v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTPS+%28x%29
 // jp1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-jp.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1w+HTTP
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-jp.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-jp.workers.dev&type=ws&sni=hsuw6e627yeye6.kmhtg-jp.workers.dev#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1+HTTPS
 // ca1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-ca.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6kmhtg+1+HTTP
