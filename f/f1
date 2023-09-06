@@ -1,4 +1,4 @@
-# sep5, 23:46
+# sep6, 11:31
 # family configs
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
@@ -9,8 +9,8 @@ ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFA
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1w+HTTPS
 // fi1 (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP+%28x%29
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTPS+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTPS+%28x%29
 // jp1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-jp.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1w+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-jp.workers.dev&type=ws&sni=hsuw6e627yeye6.kmhtg-jp.workers.dev#%F0%9F%87%AF%F0%9F%87%B5kmhtg+1+HTTPS
@@ -33,8 +33,8 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-kr.workers.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-kr.workers.dev&type=ws&sni=xbow8e7ekyw72y.kmhtg-kr.workers.dev#%F0%9F%87%B0%F0%9F%87%B7kmhtg+1+HTTPS
 // hk1 (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws&sni=dboeye8278226y2.kmhtg-hk.workers.dev#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTPS
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTP
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws&sni=dboeye8278226y2.kmhtg-hk.workers.dev#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTPS
 // ch1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-ch.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-ch.workers.dev&type=ws&sni=bdoeu82268e6eurtjdfw72.kmhtg-ch.workers.dev#%F0%9F%87%A8%F0%9F%87%B3kmhtg+1+HTTPS
@@ -42,11 +42,11 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-sg.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%ACkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-sg.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-sg.workers.dev#%F0%9F%87%B8%F0%9F%87%ACkmhtg+1+HTTPS
 // tr1 (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTP+%28x%29
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-tr.workers.dev#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTPS+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTP+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-tr.workers.dev#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTPS+%28x%29
 // au1 (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1+HTTP+%28x%29
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-au.workers.dev#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1w+HTTPS+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1+HTTP+%28x%29
+v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-au.workers.dev#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1w+HTTPS+%28x%29
 
 # howdy configs
 
