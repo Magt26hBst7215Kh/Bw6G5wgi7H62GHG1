@@ -1,4 +1,4 @@
-# sep11, 10:22
+# sep11, 10:23
 # family configs
 
 ss://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
@@ -15,7 +15,7 @@ trojan://06673610-4c8c-11ee-97e0-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowd
 trojan://47e960b0-4c8d-11ee-886d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=de1.test3.net&type=ws&sni=de1hs8e6uwge6e.test3.net#H%F0%9F%87%A9%F0%9F%87%AA-%3F.%3F.%3F.%3F+-+30GB
 trojan://3a193f30-4c8e-11ee-b95c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=uk1.test3.net&type=ws&sni=uk1yw6w5whgw6.test3.net#H%F0%9F%87%AC%F0%9F%87%A7-51.38.65.155+-+30GB
 trojan://05f645a0-4c8f-11ee-9b6e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=sg-2.test3.net&type=ws&sni=sg-2hs83yjwgw6jey3y.test3.net#H%F0%9F%87%B8%F0%9F%87%AC-45.12.80.220+-+20GB
-trojan://6590db90-4c8f-11ee-81e8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=id-1.test3.net&type=ws&sni=id-1g7w5whyw6wy26.test3.net#H%F0%9F%87%AE%F0%9F%87%A9-%3F.%3F.%3F.%3F+-+15GB
+trojan://6590db90-4c8f-11ee-81e8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=id-1.test3.net&type=ws&sni=id-1g7w5whyw6wy26.test3.net#H%F0%9F%87%AE%F0%9F%87%A9-103.173.75.62+-+15GB
 
 # kmhtg configs
 
