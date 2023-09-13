@@ -1,13 +1,12 @@
 # howdy configs
 
-trojan://bf54a660-4c8e-11ee-9a4e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=us1.test3.net&type=ws&sni=us17etebeu63hehw.test3.net#H%F0%9F%87%BA%F0%9F%87%B2-15.204.240.119+-+30GB
-trojan://8d1e2f80-4c8e-11ee-9aa3-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=ca1.test3.net&type=ws&sni=ca1ehye5wgwbwb.test3.net#H%F0%9F%87%A8%F0%9F%87%A6-51.222.15.68+-+30GB
-trojan://074a36e0-4c8e-11ee-b193-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=th1-trojan.bonds.id&type=ws&sni=th1-trojanuw6eywhshd.bonds.id#H%F0%9F%87%B9%F0%9F%87%AD-185.78.166.145+-+15GB
-trojan://d368cf40-4c8c-11ee-8a0d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=nl.test3.net&type=ws&sni=nleh6wtwha.test3.net#H%F0%9F%87%B3%F0%9F%87%B1-51.158.146.183+-+30GB
-trojan://9bb62820-4c8d-11ee-b48b-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=fr.test3.net&type=ws&sni=frwg5wtwggw.test3.net#H%F0%9F%87%AB%F0%9F%87%B7-51.159.59.186+-+30GB
-trojan://dfc16330-4c8d-11ee-b91c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=tr.test3.net&type=ws&sni=treh6eteheh.test3.net#H%F0%9F%87%B9%F0%9F%87%B7-194.146.26.95+-+15GB
-trojan://06673610-4c8c-11ee-97e0-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=ro1.test3.net&type=ws&sni=sbue7yehegeye.test3.net#H%F0%9F%87%B7%F0%9F%87%B4-103.212.81.85+-+30GB
-trojan://47e960b0-4c8d-11ee-886d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=de1.test3.net&type=ws&sni=de1hs8e6uwge6e.test3.net#H%F0%9F%87%A9%F0%9F%87%AA-%3F.%3F.%3F.%3F+-+30GB
-trojan://3a193f30-4c8e-11ee-b95c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=uk1.test3.net&type=ws&sni=uk1yw6w5whgw6.test3.net#H%F0%9F%87%AC%F0%9F%87%A7-51.38.65.155+-+30GB
-trojan://05f645a0-4c8f-11ee-9b6e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=sg-2.test3.net&type=ws&sni=sg-2hs83yjwgw6jey3y.test3.net#H%F0%9F%87%B8%F0%9F%87%AC-45.12.80.220+-+20GB
-trojan://6590db90-4c8f-11ee-81e8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fhowdy&security=tls&host=id-1.test3.net&type=ws&sni=id-1g7w5whyw6wy26.test3.net#H%F0%9F%87%AE%F0%9F%87%A9-103.173.75.62+-+15GB
+trojan://8d1e2f80-4c8e-11ee-9aa3-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fca1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2ehye5wgwbwb.everyserver.workers.dev#H%F0%9F%87%A8%F0%9F%87%A6-51.222.15.68+-+30GB+CA
+trojan://074a36e0-4c8e-11ee-b193-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fth1-trojan.bonds.id%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2uw6eywhshd.everyserver.workers.dev#H%F0%9F%87%B9%F0%9F%87%AD-185.78.166.145+-+15GB+TH
+trojan://d368cf40-4c8c-11ee-8a0d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fnl.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2eh6wtwha.everyserver.workers.dev#H%F0%9F%87%B3%F0%9F%87%B1-51.158.146.183+-+30GB+NL
+trojan://9bb62820-4c8d-11ee-b48b-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Ffr.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2wg5wtwggw.everyserver.workers.dev#H%F0%9F%87%AB%F0%9F%87%B7-51.159.59.186+-+30GB+FR
+trojan://dfc16330-4c8d-11ee-b91c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Ftr.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2eh6eteheh.everyserver.workers.dev#H%F0%9F%87%B9%F0%9F%87%B7-194.146.26.95+-+15GB+TR
+trojan://06673610-4c8c-11ee-97e0-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fro1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2sbue7yehegeye.everyserver.workers.dev#H%F0%9F%87%B7%F0%9F%87%B4-103.212.81.85+-+30GB+RO
+trojan://47e960b0-4c8d-11ee-886d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fde1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2hs8e6uwge6e.everyserver.workers.dev#H%F0%9F%87%A9%F0%9F%87%AA-%3F.%3F.%3F.%3F+-+30GB+DE
+trojan://3a193f30-4c8e-11ee-b95c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fuk1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2yw6w5whgw6.everyserver.workers.dev#H%F0%9F%87%AC%F0%9F%87%A7-51.38.65.155+-+30GB+UK
+trojan://05f645a0-4c8f-11ee-9b6e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fsg-2.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2hs83yjwgw6jey3y.everyserver.workers.dev#H%F0%9F%87%B8%F0%9F%87%AC-45.12.80.220+-+20GB+SG
+trojan://6590db90-4c8f-11ee-81e8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fid-1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2g7w5whyw6wy26.everyserver.workers.dev#H%F0%9F%87%AE%F0%9F%87%A9-103.173.75.62+-+15GB+ID
