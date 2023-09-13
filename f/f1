@@ -48,11 +48,21 @@ v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3F
 v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1+HTTP
 v##less://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-au.workers.dev#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1w+HTTPS
 
+# okt1 configs
+
+vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYnNvN3c2ZXVleTYyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=be963ueheg7e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=bx927u2ueh72y2.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
+
 # okt2 configs
 
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidHc2ZXR3Z2h3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
+
+# howdy configs
+
+
 
 
 # END OF THE SUBSCRIPTION !!!
