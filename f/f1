@@ -1,8 +1,20 @@
-# sep22, 20:01
+# sep23, 10:12
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A+sep22%2C+20%3A01
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A+sep23%2C+10%3A12
+
+# okt1 configs
+
+vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYnNvN3c2ZXVleTYyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=be963ueheg7e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=bx927u2ueh72y2.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
+
+# okt2 configs
+
+vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidHc2ZXR3Z2h3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
 
 # kmhtg configs
 
@@ -56,32 +68,6 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed
 // us1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws&sni=svjsuw6627eys662y.kmhtg-us.workers.dev#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTPS
-
-# okt1 configs
-
-vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYnNvN3c2ZXVleTYyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=be963ueheg7e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=bx927u2ueh72y2.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
-
-# okt2 configs
-
-vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidHc2ZXR3Z2h3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
-
-# howdy configs
-
-trojan://bf54a660-4c8e-11ee-9a4e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fus1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www27etebeu63hehw.everyserver.workers.dev#H%F0%9F%87%BA%F0%9F%87%B2-15.204.240.119+-+30GB+US
-trojan://8d1e2f80-4c8e-11ee-9aa3-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fca1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2ehye5wgwbwb.everyserver.workers.dev#H%F0%9F%87%A8%F0%9F%87%A6-51.222.15.68+-+30GB+CA
-trojan://074a36e0-4c8e-11ee-b193-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fth1-trojan.bonds.id%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2uw6eywhshd.everyserver.workers.dev#H%F0%9F%87%B9%F0%9F%87%AD-185.78.166.145+-+15GB+TH
-trojan://d368cf40-4c8c-11ee-8a0d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fnl.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2eh6wtwha.everyserver.workers.dev#H%F0%9F%87%B3%F0%9F%87%B1-51.158.146.183+-+30GB+NL
-trojan://9bb62820-4c8d-11ee-b48b-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Ffr.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2wg5wtwggw.everyserver.workers.dev#H%F0%9F%87%AB%F0%9F%87%B7-51.159.59.186+-+30GB+FR
-trojan://dfc16330-4c8d-11ee-b91c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Ftr.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2eh6eteheh.everyserver.workers.dev#H%F0%9F%87%B9%F0%9F%87%B7-194.146.26.95+-+15GB+TR
-trojan://06673610-4c8c-11ee-97e0-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fro1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2sbue7yehegeye.everyserver.workers.dev#H%F0%9F%87%B7%F0%9F%87%B4-103.212.81.85+-+30GB+RO
-trojan://47e960b0-4c8d-11ee-886d-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fde1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2hs8e6uwge6e.everyserver.workers.dev#H%F0%9F%87%A9%F0%9F%87%AA-54.38.156.210+-+30GB+DE
-trojan://3a193f30-4c8e-11ee-b95c-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fuk1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2yw6w5whgw6.everyserver.workers.dev#H%F0%9F%87%AC%F0%9F%87%A7-51.38.65.155+-+30GB+UK
-trojan://05f645a0-4c8f-11ee-9b6e-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fsg-2.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2hs83yjwgw6jey3y.everyserver.workers.dev#H%F0%9F%87%B8%F0%9F%87%AC-45.12.80.220+-+20GB+SG
-trojan://6590db90-4c8f-11ee-81e8-1239d0255272@ip-kmhtg.ddns.net:443?path=%2Fid-1.test3.net%2Fhowdy&security=tls&host=www2.everyserver.workers.dev&type=ws&sni=www2g7w5whyw6wy26.everyserver.workers.dev#H%F0%9F%87%AE%F0%9F%87%A9-103.173.75.62+-+15GB+ID
 
 
 # END OF THE SUBSCRIPTION !!!
