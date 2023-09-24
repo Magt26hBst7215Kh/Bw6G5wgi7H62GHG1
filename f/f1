@@ -1,8 +1,8 @@
-# sep24, 13:51
+# sep25, 00:06
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A+sep24%2C+13%3A51
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A+sep25%2C+00%3A06
 
 # rep1in
 
@@ -46,9 +46,9 @@ vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3F
 // de1 
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTPS
-// fi1 (x)
-vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP
-vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTPS
+// fi1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTPS
 // fr1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fr.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%B7kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-fr.workers.dev&type=ws&sni=dhid738e6e76eu263y.kmhtg-fr.workers.dev#%F0%9F%87%AB%F0%9F%87%B7kmhtg+1+HTTPS
