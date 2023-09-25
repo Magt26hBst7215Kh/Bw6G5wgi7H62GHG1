@@ -1,31 +1,31 @@
-# sep25, 12:20
+# sep25, 13:15
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A+sep25%2C+12%3A20
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: sep25, 13:15
 
 # rep1in
 
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJob3N0IjoicmVwMXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjQ5MDZhODg2LWJjYmUtNGU5My1iZGJkLWVjMDE5NTQxZGZiOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm0iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4eu8J+Hs3JlcDEgd29ya2VyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InJlcDF3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://4906a886-bcbe-4e93-bdbd-ec019541dfb9@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vl&security=tls&encryption=none&host=rep1w.tmbax300.workers.dev&type=ws&sni=rep1w.tmbax300.workers.dev#%F0%9F%87%AE%F0%9F%87%B3rep1+worker+VL
+vl##ess://4906a886-bcbe-4e93-bdbd-ec019541dfb9@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vl&security=tls&encryption=none&host=rep1w.tmbax300.workers.dev&type=ws&sni=rep1w.tmbax300.workers.dev#%F0%9F%87%AE%F0%9F%87%B3rep1+worker+VL
 
 # rep4us
 
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJob3N0IjoicmVwNHcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6Ijg5NjlhNWY4LTY3ZTItNDkwOC1iYTQ3LWJhZmFhNmIwNTdjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii84OTY5YTVmOC02N2UyLTQ5MDgtYmE0Ny1iYWZhYTZiMDU3Y2Ytdm0iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HsnJlcDQgd29ya2VyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InJlcDR3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://8969a5f8-67e2-4908-ba47-bafaa6b057cf@ip-kmhtg.ddns.net:443?path=%2F8969a5f8-67e2-4908-ba47-bafaa6b057cf-vl&security=tls&encryption=none&host=rep4w.tmbax300.workers.dev&type=ws&sni=rep4w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2rep4+worker+VL
-trojan://8969a5f8-67e2-4908-ba47-bafaa6b057cf@ip-kmhtg.ddns.net:443?path=%2F8969a5f8-67e2-4908-ba47-bafaa6b057cf-tr&security=tls&host=rep4w.tmbax300.workers.dev&type=ws&sni=rep4w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2rep4+worker+TR
+vl##ess://8969a5f8-67e2-4908-ba47-bafaa6b057cf@ip-kmhtg.ddns.net:443?path=%2F8969a5f8-67e2-4908-ba47-bafaa6b057cf-vl&security=tls&encryption=none&host=rep4w.tmbax300.workers.dev&type=ws&sni=rep4w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2rep4+worker+VL
+tr##ojan://8969a5f8-67e2-4908-ba47-bafaa6b057cf@ip-kmhtg.ddns.net:443?path=%2F8969a5f8-67e2-4908-ba47-bafaa6b057cf-tr&security=tls&host=rep4w.tmbax300.workers.dev&type=ws&sni=rep4w.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2rep4+worker+TR
 
 # okt1 configs
 
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYnNvN3c2ZXVleTYyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=be963ueheg7e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=bx927u2ueh72y2.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=be963ueheg7e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=bx927u2ueh72y2.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
 
 # okt2 configs
 
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidHc2ZXR3Z2h3LnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:8443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=tw6t3heh.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2083?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=wg7252het.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
 
 # kmhtg configs
 
