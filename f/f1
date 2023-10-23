@@ -6,12 +6,22 @@ ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین 
 
 # okt1 configs
 
+? ip
+vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJic293N3VlamV5NjMudG1iYXgzMDAud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:8443?path=%2Fkhodemory-vls&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=gs0w82iueke7.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:2053?path=%2Fkhodemory-trs&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=vs827ejge83y.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
+? discord
 vm##ess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7Jva3QxIHdvcmtlciBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJic293N3VlamV5NjMudG1iYXgzMDAud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:8443?path=%2Fkhodemory-vls&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=gs0w82iueke7.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:2053?path=%2Fkhodemory-trs&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=vs827ejge83y.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
 
 # okt2 configs
 
+? ip
+vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xIiwicG9ydCI6IjIwODMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidnM4MjZlanZkNzJyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2087?path=%2F2&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=sb9w72heh8e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2096?path=%2F3&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=gs8w6jsgue6.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
+? discrod
 vm##ess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xIiwicG9ydCI6IjIwODMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoidnM4MjZlanZkNzJyLnRtYmF4MzAwLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2087?path=%2F2&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=sb9w72heh8e.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2096?path=%2F3&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=gs8w6jsgue6.tmbax300.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
