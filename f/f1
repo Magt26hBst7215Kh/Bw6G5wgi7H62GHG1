@@ -1,8 +1,8 @@
-# oct23, 13:32
+# oct23, 13:38
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct23, 13:32
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct23, 13:38
 
 # okt1 configs
 
@@ -151,8 +151,8 @@ vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D20
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-uk.workers.dev&type=ws&sni=svwi7ey2iegjd62yu.kmhtg-uk.workers.dev#%F0%9F%87%AC%F0%9F%87%A7kmhtg+1+HTTPS
 -----// us1
 ? ip
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws&sni=svjsuw6627eys662y.kmhtg-us.workers.dev#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTPS
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTP
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws&sni=svjsuw6627eys662y.kmhtg-us.workers.dev#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTPS
 ? new-discord
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-us.workers.dev&type=ws&sni=svjsuw6627eys662y.kmhtg-us.workers.dev#%F0%9F%87%BA%F0%9F%87%B2kmhtg+1+HTTPS
