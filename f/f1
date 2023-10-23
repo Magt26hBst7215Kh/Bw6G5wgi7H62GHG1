@@ -29,7 +29,7 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2096?path=%2F3&securit
 # kmhtg configs
 
 // none
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=none.kmhtg-vls.workers.dev&type=ws#%F0%9F%8F%81kmhtg+none
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=none.kmhtg-vls.workers.dev&type=ws#%F0%9F%8F%81kmhtg+none
 // au1 (x)
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1+HTTP
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-au.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-au.workers.dev#%F0%9F%87%A6%F0%9F%87%BAkmhtg+1+HTTPS
