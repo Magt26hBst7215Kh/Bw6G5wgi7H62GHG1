@@ -1,8 +1,8 @@
-# oct25, 13:25
+# oct26, 15:40
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct25, 13:25
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct25, 15:40
 
 # okt1 configs
 
@@ -114,13 +114,13 @@ vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3F
 ? new-discord
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-kr.workers.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-kr.workers.dev&type=ws&sni=xbow8e7ekyw72y.kmhtg-kr.workers.dev#%F0%9F%87%B0%F0%9F%87%B7kmhtg+1+HTTPS
------// my1
+-----// my1 (x)
 ? ip
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTP
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws&sni=kp9185hwtw5.kmhtg-my.workers.dev#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTPS
 ? new-discord
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws&sni=kp9185hwtw5.kmhtg-my.workers.dev#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTPS
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws&sni=kp9185hwtw5.kmhtg-my.workers.dev#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTPS
 -----// nl1
 ? ip
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-nl.workers.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1kmhtg+1+HTTP
