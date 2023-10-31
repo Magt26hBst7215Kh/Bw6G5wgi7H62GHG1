@@ -1,8 +1,8 @@
-# oct27, 23:32
+# oct31, 14:30
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct27, 23:32
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct31, 14:30
 
 # okt1 configs
 
@@ -86,6 +86,13 @@ vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3F
 ? discord
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-de.workers.dev&type=ws&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev#%F0%9F%87%A9%F0%9F%87%AAkmhtg+1+HTTPS
+-----// dk1
+? ip
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-dk.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%B0kmhtg+1+HTTP
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-dk.workers.dev&type=ws&sni=bxis62626g.kmhtg-dk.workers.dev#%F0%9F%87%A9%F0%9F%87%B0kmhtg+1+HTTPS
+? discord
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-dk.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%B0kmhtg+1+HTTP
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-dk.workers.dev&type=ws&sni=bxis62626g.kmhtg-dk.workers.dev#%F0%9F%87%A9%F0%9F%87%B0kmhtg+1+HTTPS
 -----// fi1
 ? ip
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-fi.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AEkmhtg+1+HTTP
@@ -163,6 +170,13 @@ vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3F
 ? discord
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-nl.workers.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-nl.workers.dev&type=ws&sni=hdjdy8e6272627ey636.kmhtg-nl.workers.dev#%F0%9F%87%B3%F0%9F%87%B1kmhtg+1+HTTPS
+-----// no1 (x)
+? ip
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-no.workers.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B4kmhtg+1+HTTP
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-no.workers.dev&type=ws&sni=kpoalafwc.kmhtg-no.workers.dev#%F0%9F%87%B3%F0%9F%87%B4kmhtg+1+HTTPS
+? discord
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-no.workers.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B4kmhtg+1+HTTP
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-no.workers.dev&type=ws&sni=kpoalafwc.kmhtg-no.workers.dev#%F0%9F%87%B3%F0%9F%87%B4kmhtg+1+HTTPS
 -----// pl1
 ? ip
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-pl.workers.dev&type=ws#%F0%9F%87%B5%F0%9F%87%B1kmhtg+1+HTTP
