@@ -1,10 +1,76 @@
 # sep22, 20:19 OLD
-# oct21, 20:35
+# nov1, 22:09
 # bashe-kuni version
 
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: oct21, 20:35
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov1, 22:09
 ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#bashe-kuni+version
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#❌تمام❌
+
+# okt1
+
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoib2t0MXcua21odGctdmxzLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MSB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Mi5rbWh0Zy12bHMud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-vls&security=tls&encryption=none&alpn=h2&host=okt1w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-trs&security=tls&alpn=h2&host=okt1w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt1+worker+TR
+
+# okt2
+
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoib2t0Mncua21odGctdmxzLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Mi5rbWh0Zy12bHMud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2&security=tls&encryption=none&alpn=h2&host=okt2w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3&security=tls&alpn=h2&host=okt2w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
+
+# outline shadowsocks
+
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@ak1723.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8882#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@ak1664.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7002#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1767.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5001#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1603.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2376#%40OutlineVpnOfficial%20%28poland%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1673.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#www.outline.network%20%28PL%29
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@ak1833.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#www.outline.network%20%28GB%29
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@ak1801.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#www.outline.network%20%28GB%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1701.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2376#www.outline.network%20%28DE%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1643.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8888#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1622.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5601#%40OutlineVpnOfficial%20%28netherlands%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1786.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2375#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1599.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5600#%40OutlineVpnOfficial%20%28france%29
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1720.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#www.outline.network%20%28GB%29
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@ak1592.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6697#%40OutlineVpnOfficial%20%28france%29
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@ak1654.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8009#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1821.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1783.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2375#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@ak1802.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8118#www.outline.network%20%28PL%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@ak1837.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:801#www.outline.network%20%28US%29
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@ak1650.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5004#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1830.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8888#www.outline.network%20%28DE%29
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@ak1640.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7001#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#www.outline.network%20%28GB%29
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@ak1694.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8119#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1681.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5001#www.outline.network%20%28PL%29
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@ak1822.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#www.outline.network%20%28GB%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1751.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5600#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1619.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:3389#%40OutlineVpnOfficial%20%28france%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1614.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2375#%40OutlineVpnOfficial%20%28poland%29
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@ak1705.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6679#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@ak1843.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:9102#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@ak1835.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8882#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1709.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8000#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@ak1825.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7306#www.outline.network%20%28US%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1689.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:3306#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1820.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2376#www.outline.network%20%28DE%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1758.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5001#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@ak1722.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8091#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1696.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2375#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1680.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5001#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@ak1663.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5000#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1657.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#www.outline.network%20%28US%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@www.outline.network.ak1887.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#t.me%2FOutlineVpnOfficial%20%7C%20%281887%29%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#www.outline.network%20%28AE%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1851.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#www.outline.network%20%28PL%29
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ak1741.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6379#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1712.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:5500#www.outline.network%20%28NL%29
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@ak1764.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7002#www.outline.network%20%28FR%29
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1812.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#www.outline.network%20%28GB%29
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@www.outline.network.ak1941.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7001#t.me%2FOutlineVpnOfficial%20%7C%20%281941%29%20PL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QWN5NTZHRkRSNzZ0Y09jRHBqaA@www.outline.network.ak1944.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:51348#t.me%2FOutlineVpnOfficial%20%7C%20%281944%29%20US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@www.outline.network.ak1955.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#t.me%2FOutlineVpnOfficial%20%7C%20%281955%29%20AE
 
 
 # END OF THE SUBSCRIPTION !!!
