@@ -1,8 +1,8 @@
 # sep22, 20:19 OLD
-# nov5, 10:06
+# nov10, 14:14
 # bashe-kuni version
 
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov5, 10:06
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov10, 14:14
 ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#bashe-kuni+version
 
 # okt1
@@ -16,6 +16,28 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-
 vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoib2t0Mncua21odGctdmxzLndvcmtlcnMuZGV2IiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MiB3b3JrZXIgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoid3d3Mi5rbWh0Zy12bHMud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2&security=tls&encryption=none&alpn=h2&host=okt2w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+VL
 trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3&security=tls&alpn=h2&host=okt2w.kmhtg-vls.workers.dev&fp=randomized&type=ws&sni=www2.kmhtg-vls.workers.dev#%F0%9F%87%BA%F0%9F%87%B2okt2+worker+TR
+
+# ipcf
+
+vless://2f2a4c6f-01d9-4a10-a2ff-96746db16331@vhhvbjjjvcc.ddns.net:40898?mode=gun&security=reality&encryption=none&pbk=uGxKPMYMMUSC_3JpxaL_dkQ5E3XZGCelzGYZEPjgaWA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.discordapp.com&sid=deb45a8d#%D8%A7%DB%8C%D9%BE%DB%8C-Sweden-444226708-2909
+
+# womanlifefreedom13
+
+vless://---womanlifefreedom13---@rogers.yahoo.freedns.site:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#Armita_Geravand
+
+# tvcbot
+
+vless://9a354063-2af6-45b8-ae2f-f3b14208b1b2@foxrayiran.yebekhe.link:30979?mode=gun&security=reality&encryption=none&pbk=3mFFym8_S564OZprj2l9v50-kMt3WJikr5CHTb2K0j8&fp=firefox&spx=%2F&type=grpc&serviceName=@foxrayiran&sni=flutter.dev&sid=e627b7#%40V2rayCollectorBot%7C%40FoxrayIran
+vless://9cfc8230-e1b8-43a6-bb11-2041fb32b204@tvcbot.yebekhe.link:27011?mode=gun&security=reality&encryption=none&pbk=ODbGLV4v-z5vfrOCgmap93Jy47ScS9u3dAtWRhRMYnE&fp=firefox&spx=%2F&type=grpc&serviceName=@V2rayCollectorBot&sni=discord.com&sid=a6b89f#%40V2rayCollectorBot%7C%40V2rayCollectorBot
+
+# parsashonam
+
+vless://128fbf33-9b8c-4a88-8bac-a7740088705c@49.13.78.197:2053?security=reality&type=grpc&host=&headerType=&serviceName=&sni=www.speedtest.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#Germany%20%F0%9F%87%A9%F0%9F%87%AA%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%D9%88%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
+vless://128fbf33-9b8c-4a88-8bac-a7740088705c@65.108.251.177:2053?security=reality&type=grpc&host=&headerType=&serviceName=&sni=www.speedtest.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#Finland%20%F0%9F%87%AB%F0%9F%87%AE%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%D9%88%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
+vless://128fbf33-9b8c-4a88-8bac-a7740088705c@5.78.82.33:2053?security=reality&type=grpc&host=&headerType=&serviceName=&sni=www.speedtest.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#USA%20%F0%9F%87%BA%F0%9F%87%B2%20%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%D9%88%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
+vless://128fbf33-9b8c-4a88-8bac-a7740088705c@62.133.63.74:2053?security=reality&type=grpc&host=&headerType=&serviceName=&sni=www.speedtest.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#Turkey%20%F0%9F%87%B9%F0%9F%87%B7%20%5BVLESS%20-%20grpc%5D
+trojan://dcO1UoJHa2ydOzj9gMvzXg@www.SpeedTest.Net:2083?security=tls&type=grpc&host=Fi-Sub.Parsashonam.Cloud&headerType=&serviceName=&sni=Fi-Sub.Parsashonam.Cloud&fp=&alpn=#Finland%20%F0%9F%87%AB%F0%9F%87%AE%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%20%D9%88%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
+trojan://dcO1UoJHa2ydOzj9gMvzXg@www.SpeedTest.Net:2083?security=tls&type=grpc&host=Usa-Sub.Parsashonam.Cloud&headerType=&serviceName=&sni=Usa-Sub.Parsashonam.Cloud&fp=&alpn=#USA%20%F0%9F%87%BA%F0%9F%87%B2%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%20%D9%88%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
 
 
 # END OF THE SUBSCRIPTION !!!
