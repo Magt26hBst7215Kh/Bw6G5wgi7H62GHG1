@@ -1,8 +1,8 @@
 # sep22, 20:19 OLD
-# nov13, 14:56
+# nov13, 18:20
 # bashe-kuni version
 
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov13, 14:56
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov13, 18:20
 ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#bashe-kuni+version
 
 # okt1
@@ -19,11 +19,10 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3&security
 
 # ipcf
 
-vless://2f2a4c6f-01d9-4a10-a2ff-96746db16331@vhhvbjjjvcc.ddns.net:40898?mode=gun&security=reality&encryption=none&pbk=uGxKPMYMMUSC_3JpxaL_dkQ5E3XZGCelzGYZEPjgaWA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.discordapp.com&sid=deb45a8d#%D8%A7%DB%8C%D9%BE%DB%8C-Sweden-444226708-2909
+vless://f095219f-77b6-42f3-8dac-16e52e5a4491@cghghvvhgvbbcc.ddns.net:40898?type=grpc&security=reality&serviceName=&fp=firefox&pbk=uGxKPMYMMUSC_3JpxaL_dkQ5E3XZGCelzGYZEPjgaWA&sni=www.discordapp.com&sid=deb45a8d&spx=/#ایپی-Sweden-444226708-98947
 
 # womanlifefreedom13
 
-vless://---womanlifefreedom13---@rogers.yahoo.freedns.site:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#Armita_Geravand
 vless://---ID-womanlifefreedom13---@rogers.yahoo.freedns.site:443?type=tcp&security=reality&headerType=none&fp=firefox&sni=www.yahoo.com&flow=xtls-rprx-vision&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2#Armita_Geravand*
 
 # tvcbot
