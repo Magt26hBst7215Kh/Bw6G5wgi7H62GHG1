@@ -1,8 +1,8 @@
-# nov17, 12:26
+# nov17, 22:09
 # family configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov17, 12:26
+ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov17, 22:09
 
 # okt1 configs
 
@@ -19,7 +19,9 @@ vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOi
 vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=dboe7wuw62.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt1w+VL
 tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=napq08q81.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt1w+TR
 ? discord
-
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MXcgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiZ3M3dzZldWhzLnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=dboe7wuw62.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt1w+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=napq08q81.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt1w+TR
 
 # okt2 configs
 
@@ -36,7 +38,9 @@ vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOi
 vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=nv08rir8r78e.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2w+VL
 tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=mhpg9igi626.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2w+TR
 ? discord
-
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MncgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYXhzcXhxZDExLnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=nv08rir8r78e.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2w+VL
+tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=mhpg9igi626.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2w+TR
 
 # kmhtg configs
 
@@ -194,8 +198,8 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D204
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTP
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws&sni=ndpw927owu27.kmhtg-lv.workers.dev#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTPS
 ? discord
-vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws&sni=ndpw927owu27.kmhtg-lv.workers.dev#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTP
+vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTP
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws&sni=ndpw927owu27.kmhtg-lv.workers.dev#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTPS
 -----// md1
 ? ip
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-md.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%A9kmhtg+1+HTTP
