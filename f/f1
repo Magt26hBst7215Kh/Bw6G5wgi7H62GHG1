@@ -6,25 +6,20 @@ ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین 
 
 # okt1 configs
 
+? ip domain
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:8443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+VL همراه‌اول
+? discord domain
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:8443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+VL همراه‌اول
 ? ip
-vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+Hsm9rdDEgZG9tYWluIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImRsMS5va3Qxdy5taHRnMi1mYWxsY29vbi5ncS5wdW1pY29zZXJ2ZXIubWwubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:8443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+VL
-tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:2053?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+TR
-? discord
-vm##ess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+Hsm9rdDEgZG9tYWluIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImRsMS5va3Qxdy5taHRnMi1mYWxsY29vbi5ncS5wdW1pY29zZXJ2ZXIubWwubWh0ZzEtYXJnb3Zwbi5ncSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:8443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+VL همراه‌اول
-tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:2053?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1+domain+TR
+
 
 # okt2 configs
 
-? ip
-vm##ess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMjA4MyIsInBzIjoi8J+HuvCfh7Jva3QyIGRvbWFpbiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkbDIub2t0MncubWh0ZzItZmFsbGNvb24uZ3EucHVtaWNvc2VydmVyLm1sLm1odGcxLWFyZ292cG4uZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2087?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+VL
-tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2096?path=%2F3%3Fed%3D2048&security=tls&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+TR
-? discrod
-vm##ess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMjA4MyIsInBzIjoi8J+HuvCfh7Jva3QyIGRvbWFpbiBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkbDIub2t0MncubWh0ZzItZmFsbGNvb24uZ3EucHVtaWNvc2VydmVyLm1sLm1odGcxLWFyZ292cG4uZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2087?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+VL همراه‌اول
-tr##ojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2096?path=%2F3%3Fed%3D2048&security=tls&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+TR
+? ip domain
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:2087?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+VL همراه‌اول
+? discrod domain
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2087?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2+domain+VL همراه‌اول
+
 
 # kmhtg configs
 
