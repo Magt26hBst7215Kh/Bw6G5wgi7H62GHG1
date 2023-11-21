@@ -6,14 +6,17 @@ ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین 
 
 # okt1 configs
 
-? domain ip
-vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J Hsm9rdDEgZG9tYWluIFZNINmH2YXYsdin2YfigIzYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1 domain VL همراه‌اول
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1 domain TR همراه‌اول
-? domain discord
-vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J Hsm9rdDEgZG9tYWluIFZNINmH2YXYsdin2YfigIzYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiZGwxLm9rdDF3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1 domain VL همراه‌اول
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl1.okt1w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt1 domain TR همراه‌اول
+? domain mhtg1 ip
+
+? domain mhtg1 discord
+
+? domain mhtg2 ip
+vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwxLm9rdDF3LnB1bWljb3NlcnZlci5tbC5raG9kZW1vcnkubm93LmNjLk1odGcyLUZhbGxjb29uLkdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2hvZGVtb3J5LXZtcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+Hsm9rdDFkIG1odGcyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImRsMS5va3Qxdy5wdW1pY29zZXJ2ZXIubWwua2hvZGVtb3J5Lm5vdy5jYy5NaHRnMi1GYWxsY29vbi5HcSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=dl1.okt1w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq&type=ws&sni=dl1.okt1w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq#%F0%9F%87%BA%F0%9F%87%B2okt1d mhtg2 VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=dl1.okt1w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq&type=ws&sni=dl1.okt1w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq#%F0%9F%87%BA%F0%9F%87%B2okt1d mhtg2 TR
+? domain mhtg2 domain
+
+
 ? ip
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MXcgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiZ3M3dzZldWhzLnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ip-kmhtg.ddns.net:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=dboe7wuw62.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt1w VL
@@ -25,14 +28,17 @@ trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-
 
 # okt2 configs
 
-? domain ip
-vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J Hsm9rdDIgZG9tYWluIFZNINmH2YXYsdin2YfigIzYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2 domain VL همراه‌اول
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F3%3Fed%3D2048&security=tls&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2 domain TR همراه‌اول
-? domain discord
-vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J Hsm9rdDIgZG9tYWluIFZNINmH2YXYsdin2YfigIzYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiZGwyLm9rdDJ3Lm1odGcyLWZhbGxjb29uLmdxLnB1bWljb3NlcnZlci5tbC5taHRnMS1hcmdvdnBuLmdxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2 domain VL همراه‌اول
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3%3Fed%3D2048&security=tls&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&type=ws&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2 domain TR همراه‌اول
+? domain mhtg1 ip
+
+? domain mhtg1 discord
+
+? domain mhtg2 ip
+vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwyLm9rdDJ3LnB1bWljb3NlcnZlci5tbC5raG9kZW1vcnkubm93LmNjLk1odGcyLUZhbGxjb29uLkdxIiwiaWQiOiIzNWUwNDM5Ni1kODVjLTRjYjMtOGY5ZC1iNTI2NThhY2YxYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+Hsm9rdDJkIG1odGcyIFZNIiwic2N5IjoiYXV0byIsInNuaSI6ImRsMi5va3Qydy5wdW1pY29zZXJ2ZXIubWwua2hvZGVtb3J5Lm5vdy5jYy5NaHRnMi1GYWxsY29vbi5HcSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=dl2.okt2w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq&type=ws&sni=dl2.okt2w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq#%F0%9F%87%BA%F0%9F%87%B2okt2d mhtg2 VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F3%3Fed%3D2048&security=tls&host=dl2.okt2w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq&type=ws&sni=dl2.okt2w.pumicoserver.ml.khodemory.now.cc.Mhtg2-Fallcoon.Gq#%F0%9F%87%BA%F0%9F%87%B2okt2d mhtg2 TR
+? domain mhtg2 discord
+
+
 ? ip
 vmess://eyJhZGQiOiJpcC1rbWh0Zy5kZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyb2t0MncgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiYXhzcXhxZDExLnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ip-kmhtg.ddns.net:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=nv08rir8r78e.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2w VL
