@@ -1,29 +1,67 @@
-ss://bm9uZTpodHRwczovL3QubWUvYmxhY2tfcGxheWVyX3Bybw==@127.0.0.1:1080#آخرین آپدیت: nov1, 12:12
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:2053?security=tls&sni=vs827ejge83y.tmbax300.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=okt1w.tmbax300.workers.dev&path=%2Fkhodemory-trs#US-okt1%2Bworker%2BTR
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:2096?security=tls&sni=gs8w6jsgue6.tmbax300.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=okt2w.tmbax300.workers.dev&path=%2F3#US-okt2%2Bworker%2BTR
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:80?encryption=none&security=none&type=ws&host=none.kmhtg-vls.workers.dev&path=%2F%3Fed%3D2048#NONE%2Bkmhtg%2Bnone
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=hsie7ehs2.kmhtg-ae.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-ae.workers.dev&path=%2F%3Fed%3D2048#AE-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=ns8whdh18.kmhtg-at.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-at.workers.dev&path=%2F%3Fed%3D2048#AT-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=vdie6eyjehe76wy3ge6.kmhtg-au.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-au.workers.dev&path=%2F%3Fed%3D2048#AU-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=mpso8e8q7.kmhtg-be.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-be.workers.dev&path=%2F%3Fed%3D2048#BE-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=maq4r1r1ry2.kmhtg-bg.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-bg.workers.dev&path=%2F%3Fed%3D2048#BG-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=bd83uye72uj.kmhtg-ch.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-ch.workers.dev&path=%2F%3Fed%3D2048#CH-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=vdie6eyjehe76wy3ge6.kmhtg-de.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-de.workers.dev&path=%2F%3Fed%3D2048#DE-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=bxis62626g.kmhtg-dk.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-dk.workers.dev&path=%2F%3Fed%3D2048#DK-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=dhe62hwgw67w82.kmhtg-fi.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-fi.workers.dev&path=%2F%3Fed%3D2048#FI-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=dhid738e6e76eu263y.kmhtg-fr.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-fr.workers.dev&path=%2F%3Fed%3D2048#FR-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=dboeye8278226y2.kmhtg-hk.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-hk.workers.dev&path=%2F%3Fed%3D2048#HK-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=28je736gs1.kmhtg-ie.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-ie.workers.dev&path=%2F%3Fed%3D2048#IE-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=mapowita.kmhtg-in.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-in.workers.dev&path=%2F%3Fed%3D2048#IN-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=hsiw7e6e.kmhtg-it.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-it.workers.dev&path=%2F%3Fed%3D2048#IT-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=hsuw6e627yeye6.kmhtg-jp.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-jp.workers.dev&path=%2F%3Fed%3D2048#JP-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=xbow8e7ekyw72y.kmhtg-kr.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-kr.workers.dev&path=%2F%3Fed%3D2048#KR-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=ncaea3a2a1.kmhtg-md.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-md.workers.dev&path=%2F%3Fed%3D2048#MD-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=hdjdy8e6272627ey636.kmhtg-nl.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-nl.workers.dev&path=%2F%3Fed%3D2048#NL-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=kpoalafwc.kmhtg-no.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-no.workers.dev&path=%2F%3Fed%3D2048#NO-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=wytw42rwt1.kmhtg-pl.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-pl.workers.dev&path=%2F%3Fed%3D2048#PL-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=vdyet62yetge2.kmhtg-se.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-se.workers.dev&path=%2F%3Fed%3D2048#SE-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=ndodu9wy28e67ey2hd.kmhtg-sg.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-sg.workers.dev&path=%2F%3Fed%3D2048#SG-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=ndodu9wy28e67ey2hd.kmhtg-tr.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-tr.workers.dev&path=%2F%3Fed%3D2048#TR-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=svwi7ey2iegjd62yu.kmhtg-uk.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-uk.workers.dev&path=%2F%3Fed%3D2048#UK-kmhtg%2B1%2BHTTPS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?encryption=none&security=tls&sni=svjsuw6627eys662y.kmhtg-us.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dl1.kmhtg-us.workers.dev&path=%2F%3Fed%3D2048#US-kmhtg%2B1%2BHTTPS
+# dec5, 9:02
+# family2 configs
+
+s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#آخرین آپدیت: dec5, 9:02
+
+#   configs
+
+// none (x)
+vl##ess://d342d11e-d424-4583-b36e-524ab1f0afa4@none. -vls.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=none. -vls.workers.dev&type=ws#%F0%9F%8F%81  none
+// ae1 UAE
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-ae1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%A6%F0%9F%87%AA  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-ae1.KhodeMory.UK.EU.Org&type=ws&sni=hsie7ehs2.KhodeMory.UK.EU.Org#%F0%9F%87%A6%F0%9F%87%AA  1 TLS
+// au1 Australia
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-au1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%A6%F0%9F%87%BA  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-au1.KhodeMory.UK.EU.Org&type=ws&sni=vdie6eyjehe76wy3ge6.KhodeMory.UK.EU.Org#%F0%9F%87%A6%F0%9F%87%BA  1 TLS
+// bh1 Bahrain
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-bh1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%A7%F0%9F%87%AD  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-bh1.KhodeMory.UK.EU.Org&type=ws&sni=sb9w7eiwhw66w.KhodeMory.UK.EU.Org#%F0%9F%87%A7%F0%9F%87%AD  1 TLS
+// ch1 Switzerland
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-ch1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%A8%F0%9F%87%AD  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-ch1.KhodeMory.UK.EU.Org&type=ws&sni=bd83uye72uj.KhodeMory.UK.EU.Org#%F0%9F%87%A8%F0%9F%87%AD  1 TLS
+// de1 Germany
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%A9%F0%9F%87%AA  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1.KhodeMory.UK.EU.Org&type=ws&sni=vdie6eyjehe76wy3ge6.KhodeMory.UK.EU.Org#%F0%9F%87%A9%F0%9F%87%AA  1 TLS
+// fi1 Finland
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-fi1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AB%F0%9F%87%AE  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-fi1.KhodeMory.UK.EU.Org&type=ws&sni=dhe62hwgw67w82.KhodeMory.UK.EU.Org#%F0%9F%87%AB%F0%9F%87%AE  1 TLS
+// fr1 France
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-fr1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AB%F0%9F%87%B7  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-fr1.KhodeMory.UK.EU.Org&type=ws&sni=dhid738e6e76eu263y.KhodeMory.UK.EU.Org#%F0%9F%87%AB%F0%9F%87%B7  1 TLS
+// hk1 HongKong
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-hk1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AD%F0%9F%87%B0  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-hk1.KhodeMory.UK.EU.Org&type=ws&sni=dboeye8278226y2.KhodeMory.UK.EU.Org#%F0%9F%87%AD%F0%9F%87%B0  1 TLS
+// ie1 Ireland
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-ie1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AE%F0%9F%87%AA  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-ie1.KhodeMory.UK.EU.Org&type=ws&sni=28je736gs1.KhodeMory.UK.EU.Org#%F0%9F%87%AE%F0%9F%87%AA  1 TLS
+// il1 Iseael
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-il1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AE%F0%9F%87%B1  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-il1.KhodeMory.UK.EU.Org&type=ws&sni=arwr4w4arqeasqa1.KhodeMory.UK.EU.Org#%F0%9F%87%AE%F0%9F%87%B1  1 TLS
+// jp1 Japan
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-jp1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AF%F0%9F%87%B5  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-jp1.KhodeMory.UK.EU.Org&type=ws&sni=hsuw6e627yeye6.KhodeMory.UK.EU.Org#%F0%9F%87%AF%F0%9F%87%B5  1 TLS
+// kr1 SouthKorea
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-kr1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B0%F0%9F%87%B7  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-kr1.KhodeMory.UK.EU.Org&type=ws&sni=xbow8e7ekyw72y.KhodeMory.UK.EU.Org#%F0%9F%87%B0%F0%9F%87%B7  1 TLS
+// nl1 Netherlands
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B3%F0%9F%87%B1  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1.KhodeMory.UK.EU.Org&type=ws&sni=hdjdy8e6272627ey636.KhodeMory.UK.EU.Org#%F0%9F%87%B3%F0%9F%87%B1  1 TLS
+// se1 Sweden
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-se1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B8%F0%9F%87%AA  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-se1.KhodeMory.UK.EU.Org&type=ws&sni=vdyet62yetge2.KhodeMory.UK.EU.Org#%F0%9F%87%B8%F0%9F%87%AA  1 TLS
+// sg1 Singapore
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-sg1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B8%F0%9F%87%AC  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-sg1.KhodeMory.UK.EU.Org&type=ws&sni=ndodu9wy28e67ey2hd.KhodeMory.UK.EU.Org#%F0%9F%87%B8%F0%9F%87%AC  1 TLS
+// tr1 Turkey
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-tr1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B9%F0%9F%87%B7  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-tr1.KhodeMory.UK.EU.Org&type=ws&sni=ndodu9wy28e67ey2hd.KhodeMory.UK.EU.Org#%F0%9F%87%B9%F0%9F%87%B7  1 TLS
+// uk1 UnitedKingdom
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-uk1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%AC%F0%9F%87%A7  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-uk1.KhodeMory.UK.EU.Org&type=ws&sni=svwi7ey2iegjd62yu.KhodeMory.UK.EU.Org#%F0%9F%87%AC%F0%9F%87%A7  1 TLS
+// us1 USA
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-us1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%BA%F0%9F%87%B2  1 noTLS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-us1.KhodeMory.UK.EU.Org&type=ws&sni=svjsuw6627eys662y.KhodeMory.UK.EU.Org#%F0%9F%87%BA%F0%9F%87%B2  1 TLS
+
+
+# END OF THE SUBSCRIPTION !!!
