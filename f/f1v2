@@ -97,6 +97,34 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D204
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-us1.KhodeMory.UK.EU.Org&type=ws&sni=svjsuw6627eys662y.KhodeMory.UK.EU.Org#%F0%9F%87%BA%F0%9F%87%B2 | 1 TLS
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-us1.KhodeMory.UK.EU.Org&type=ws&sni=svjsuw6627eys662y.KhodeMory.UK.EU.Org#%F0%9F%87%BA%F0%9F%87%B2 | 1 TLS
 
+# okt configs
+
+# 1
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7IgfCBva3QxVyB8IGh0dHAgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiNnc2d3R3dmtzOHcudG1iYXgzMDAud29ya2Vycy5EZXYiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MXcudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyIHwgb2t0MVcgfCBodHRwcyBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiI2dzZ3dHd2a3M4dy50bWJheDMwMC53b3JrZXJzLkRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:80?path=%2Fkhodemory-vls%3Fed%3D2048&security=none&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=w97wubsow8yw.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=w97wubsow8yw.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=7qtwbso82y.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https TR
+.
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmYxLW9rdDF3Lmtob2RlbW9yeS51ay5ldS5vcmciLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7IgfCBva3QxRCB8IGh0dHAgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiNjI1ODFnd3lnZWp4OHc2Lmtob2RlbW9yeS51ay5ldS5vcmciLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmYxLW9rdDF3Lmtob2RlbW9yeS51ay5ldS5vcmciLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9raG9kZW1vcnktdm1zP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyIHwgb2t0MUQgfCBodHRwcyBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiI2MjU4MWd3eWdlang4dzYua2hvZGVtb3J5LnVrLmV1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:80?path=%2Fkhodemory-vls%3Fed%3D2048&security=none&encryption=none&host=ff1-okt1w.khodemory.uk.eu.org&type=ws&sni=72vsnlbbafrrq2.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1D %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=ff1-okt1w.khodemory.uk.eu.org&type=ws&sni=72vsnlbbafrrq2.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1D %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@discord.com:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=ff1-okt1w.khodemory.uk.eu.org&type=ws&sni=ns0w6bd52726bs.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1D %7C https TR
+
+# 2
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7IgfCBva3QyVyB8IGh0dHAgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoicXA5MTgyaTUxdS50bWJheDMwMC53b3JrZXJzLkRldiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2t0MncudG1iYXgzMDAud29ya2Vycy5kZXYiLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyIHwgb2t0MlcgfCBodHRwcyBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJxcDkxODJpNTF1LnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:80?path=%2F2%3Fed%3D2048&security=none&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=cnbxaloq7qywr.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=cnbxaloq7qywr.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=bd927wiege9i2j.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https TR
+.
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmYxLW9rdDJ3Lmtob2RlbW9yeS51ay5ldS5vcmciLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7IgfCBva3QyRCB8IGh0dHAgVk0iLCJzY3kiOiJhdXRvIiwic25pIjoiNjJ0Mnl2ZXVldHd1Nnd1Lmtob2RlbW9yeS51ay5ldS5vcmciLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmYxLW9rdDJ3Lmtob2RlbW9yeS51ay5ldS5vcmciLCJpZCI6IjM1ZTA0Mzk2LWQ4NWMtNGNiMy04ZjlkLWI1MjY1OGFjZjFhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4eyIHwgb2t0MkQgfCBodHRwcyBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiI2MnQyeXZldWV0d3U2d3Uua2hvZGVtb3J5LnVrLmV1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:80?path=%2F2%3Fed%3D2048&security=none&encryption=none&host=ff1-okt2w.khodemory.uk.eu.org&type=ws&sni=6wtns9s7u2.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2D %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=ff1-okt2w.khodemory.uk.eu.org&type=ws&sni=6wtns9s7u2.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2D %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@discord.com:443?path=%2F3%3Fed%3D2048&security=tls&host=ff1-okt2w.khodemory.uk.eu.org&type=ws&sni=8w62unsiywu2.khodemory.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2D %7C https TR
+
 
 
 # END OF THE SUBSCRIPTION !!!
