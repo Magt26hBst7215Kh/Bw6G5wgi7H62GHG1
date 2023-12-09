@@ -1,5 +1,0 @@
-4441c134-95b2-4010-862a-b152ab15d877
-vless://4441c134-95b2-4010-862a-b152ab15d877@i1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org&type=ws#i1 - noTLS
-vless://4441c134-95b2-4010-862a-b152ab15d877@i1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org&type=ws&sni=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org#i1 - TLS
-vless://4441c134-95b2-4010-862a-b152ab15d877@c1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org&type=ws#c1 - noTLS
-vless://4441c134-95b2-4010-862a-b152ab15d877@c1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org&type=ws&sni=4441c134-95b2-4010-862a-b152ab15d877.KhodeMory.UK.EU.Org#c1 - TLS
