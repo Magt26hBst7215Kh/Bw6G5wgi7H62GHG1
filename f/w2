@@ -76,9 +76,9 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed
 // lv1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-lv.workers.dev&type=ws&sni=ndpw927owu27.kmhtg-lv.workers.dev#%F0%9F%87%B1%F0%9F%87%BBkmhtg+1+HTTPS
-// md1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-md.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%A9kmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-md.workers.dev&type=ws&sni=ncaea3a2a1.kmhtg-md.workers.dev#%F0%9F%87%B2%F0%9F%87%A9kmhtg+1+HTTPS
+// md1 (x)
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-md.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%A9kmhtg+1+HTTP (x)
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-md.workers.dev&type=ws&sni=ncaea3a2a1.kmhtg-md.workers.dev#%F0%9F%87%B2%F0%9F%87%A9kmhtg+1+HTTPS (x)
 // my1 (x)
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTP (x)
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-my.workers.dev&type=ws&sni=kp9185hwtw5.kmhtg-my.workers.dev#%F0%9F%87%B2%F0%9F%87%BEkmhtg+1+HTTPS (x)
