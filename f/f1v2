@@ -1,8 +1,8 @@
-# dec9, 14:54
-# family configs
+# dec10, 12:00
+# family-v2 configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v2 | dec9, 14:54 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v2 | dec10, 12:00 :آخرین آپدیت
 
 # kmhtg configs
 
@@ -66,9 +66,6 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:443?path=%2F
 // lv1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-lv1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B1%F0%9F%87%BB | 1 noTLS
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-lv1.KhodeMory.UK.EU.Org&type=ws&sni=ndpw927owu27.KhodeMory.UK.EU.Org#%F0%9F%87%B1%F0%9F%87%BB | 1 TLS
-// md1
-vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-md1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B2%F0%9F%87%A9 | 1 noTLS
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-md1.KhodeMory.UK.EU.Org&type=ws&sni=ncaea3a2a1.KhodeMory.UK.EU.Org#%F0%9F%87%B2%F0%9F%87%A9 | 1 TLS
 // nl1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1.KhodeMory.UK.EU.Org&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 noTLS
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1.KhodeMory.UK.EU.Org&type=ws&sni=hdjdy8e6272627ey636.KhodeMory.UK.EU.Org#%F0%9F%87%B3%F0%9F%87%B1 | 1 TLS
