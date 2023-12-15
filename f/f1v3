@@ -1,8 +1,8 @@
-# dec15, 18:41
-# family-v2 configs
+# dec15, 18:47
+# family-v3 configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v3 | dec15, 18:41 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v3 | dec15, 18:47 :آخرین آپدیت
 
 # kmhtg configs
 
@@ -10,73 +10,73 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v3 | dec15, 18:41 :
 vl##ess://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=none.kmhtg-vls.workers.Dev&type=ws#%F0%9F%8F%81 | none
 vl##ess://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=none.kmhtg-vls.workers.Dev&type=ws&sni=none.kmhtg-vls.workers.Dev#%F0%9F%8F%81 | none
 // ae1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ae1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%AA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ae1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%AA | P1
 // at1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-at1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%B9 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-at1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%B9 | P1
 // au1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-au1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%BA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-au1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A6%F0%9F%87%BA | P1
 // be1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-be1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-be1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AA | P1
 // bg1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bg1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AC | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bg1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AC | P1
 // bh1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bh1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AD | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bh1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AD | P1
 // ca1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ca1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A8%F0%9F%87%A6 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ca1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A8%F0%9F%87%A6 | P1
 // ch1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ch1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A8%F0%9F%87%AD | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ch1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A8%F0%9F%87%AD | P1
 // de1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-de1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-de1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | P1
 // dk1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A9%F0%9F%87%B0 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%A9%F0%9F%87%B0 | P1
 // ee1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ee1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AA%F0%9F%87%AA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ee1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AA%F0%9F%87%AA | P1
 // es1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-es1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AA%F0%9F%87%B8 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-es1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AA%F0%9F%87%B8 | P1
 // fi1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fi1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AB%F0%9F%87%AE | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fi1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AB%F0%9F%87%AE | P1
 // fr1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fr1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AB%F0%9F%87%B7 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fr1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AB%F0%9F%87%B7 | P1
 // hk1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-hk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AD%F0%9F%87%B0 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-hk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AD%F0%9F%87%B0 | P1
 // it1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-it1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AE%F0%9F%87%B9 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-it1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AE%F0%9F%87%B9 | P1
 // jp1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-jp1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AF%F0%9F%87%B5 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-jp1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AF%F0%9F%87%B5 | P1
 // kr1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-kr1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B0%F0%9F%87%B7 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-kr1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B0%F0%9F%87%B7 | P1
 // lt1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-lt1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B1%F0%9F%87%B9 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-lt1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B1%F0%9F%87%B9 | P1
 // nl1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-nl1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-nl1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | P1
 // pl1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-pl1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B5%F0%9F%87%B1 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-pl1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B5%F0%9F%87%B1 | P1
 // se1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-se1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AA | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-se1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AA | P1
 // sg1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-sg1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AC | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-sg1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AC | P1
 // tw1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-tw1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B9%F0%9F%87%BC | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-tw1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%B9%F0%9F%87%BC | P1
 // uk1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-uk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AC%F0%9F%87%A7 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-uk1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%AC%F0%9F%87%A7 | P1
 // us1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@C1.KhodeMory.UK.EU.Org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-us1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%BA%F0%9F%87%B2 | P1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-us1-tmbax300.Pages.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#%F0%9F%87%BA%F0%9F%87%B2 | P1
 
 # okt configs
 
 # 1
-vmess://eyJhZGQiOiJDMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDFXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJDMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QxVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InlvdXRoaW5reW91Y2Fuc3RvcG1lZnlvdWRwaS50bWJheDMwMC5Xb3JrZXJzLkRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@C1.KhodeMory.UK.EU.Org:80?path=%2Fkhodemory-vls%3Fed%3D2048&security=none&encryption=none&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C http VL
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@C1.KhodeMory.UK.EU.Org:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@C1.KhodeMory.UK.EU.Org:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https TR
+vmess://eyJhZGQiOiJjMS5raG9kZW1vcnkudWsuZXUub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDFXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJjMS5raG9kZW1vcnkudWsuZXUub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QxVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InlvdXRoaW5reW91Y2Fuc3RvcG1lZnlvdWRwaS50bWJheDMwMC5Xb3JrZXJzLkRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@c1.khodemory.uk.eu.org:80?path=%2Fkhodemory-vls%3Fed%3D2048&security=none&encryption=none&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@c1.khodemory.uk.eu.org:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@c1.khodemory.uk.eu.org:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.Workers.Dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https TR
 
 # 2
-vmess://eyJhZGQiOiJDMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDJXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJDMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QyVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InlvdXRoaW5reW91Y2Fuc3RvcG1lZnlvdWRwaS50bWJheDMwMC5Xb3JrZXJzLkRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@C1.KhodeMory.UK.EU.Org:80?path=%2F2%3Fed%3D2048&security=none&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C http VL
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@C1.KhodeMory.UK.EU.Org:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https VL
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@C1.KhodeMory.UK.EU.Org:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https TR
+vmess://eyJhZGQiOiJjMS5raG9kZW1vcnkudWsuZXUub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDJXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJjMS5raG9kZW1vcnkudWsuZXUub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC5Xb3JrZXJzLkRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QyVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InlvdXRoaW5reW91Y2Fuc3RvcG1lZnlvdWRwaS50bWJheDMwMC5Xb3JrZXJzLkRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@c1.khodemory.uk.eu.org:80?path=%2F2%3Fed%3D2048&security=none&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@c1.khodemory.uk.eu.org:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@c1.khodemory.uk.eu.org:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=youthinkyoucanstopmefyoudpi.tmbax300.Workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https TR
 
 
 
