@@ -2,7 +2,7 @@
 # family-v2 configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v3 | dec15, 15:07 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v2 | dec10, 15:07 :آخرین آپدیت
 
 # kmhtg configs
 
@@ -10,3 +10,74 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v3 | dec15, 15:07 :
 vl##ess://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=none.kmhtg-vls.workers.Dev&type=ws#%F0%9F%8F%81 | none
 vl##ess://d342d11e-d424-4583-b36e-524ab1f0afa4@none.kmhtg-vls.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=none.kmhtg-vls.workers.Dev&type=ws&sni=none.kmhtg-vls.workers.Dev#%F0%9F%8F%81 | none
 // ae1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ae1-tmbax300.Pages.Dev&type=ws&sni=hsie7ehs2-tmbax300.Pages.Dev#%F0%9F%87%A6%F0%9F%87%AA | 1 TLS
+// at1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-at1-tmbax300.Pages.Dev&type=ws&sni=ns8whdh18-tmbax300.Pages.Dev#%F0%9F%87%A6%F0%9F%87%B9 | 1 TLS
+// au1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-au1-tmbax300.Pages.Dev&type=ws&sni=vdie6eyjehe76wy3ge6-tmbax300.Pages.Dev#%F0%9F%87%A6%F0%9F%87%BA | 1 TLS
+// be1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-be1-tmbax300.Pages.Dev&type=ws&sni=mpso8e8q7-tmbax300.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AA | 1 TLS
+// bg1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bg1-tmbax300.Pages.Dev&type=ws&sni=maq4r1r1ry2-tmbax300.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AC | 1 TLS
+// bh1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-bh1-tmbax300.Pages.Dev&type=ws&sni=sb9w7eiwhw66w-tmbax300.Pages.Dev#%F0%9F%87%A7%F0%9F%87%AD | 1 TLS
+// ca1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ca1-tmbax300.Pages.Dev&type=ws&sni=872uevskoaibxkoa-tmbax300.Pages.Dev#%F0%9F%87%A8%F0%9F%87%A6 | 1 TLS
+// ch1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ch1-tmbax300.Pages.Dev&type=ws&sni=bd83uye72uj-tmbax300.Pages.Dev#%F0%9F%87%A8%F0%9F%87%AD | 1 TLS
+// de1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-de1-tmbax300.Pages.Dev&type=ws&sni=vdie6eyjehe76wy3ge6-tmbax300.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 1 TLS
+// dk1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dk1-tmbax300.Pages.Dev&type=ws&sni=bxis62626g-tmbax300.Pages.Dev#%F0%9F%87%A9%F0%9F%87%B0 | 1 TLS
+// ee1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-ee1-tmbax300.Pages.Dev&type=ws&sni=bs862uwt262t-tmbax300.Pages.Dev#%F0%9F%87%AA%F0%9F%87%AA | 1 TLS
+// es1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-es1-tmbax300.Pages.Dev&type=ws&sni=w6dautawg-tmbax300.Pages.Dev#%F0%9F%87%AA%F0%9F%87%B8 | 1 TLS
+// fi1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fi1-tmbax300.Pages.Dev&type=ws&sni=dhe62hwgw67w82-tmbax300.Pages.Dev#%F0%9F%87%AB%F0%9F%87%AE | 1 TLS
+// fr1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-fr1-tmbax300.Pages.Dev&type=ws&sni=dhid738e6e76eu263y-tmbax300.Pages.Dev#%F0%9F%87%AB%F0%9F%87%B7 | 1 TLS
+// hk1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-hk1-tmbax300.Pages.Dev&type=ws&sni=dboeye8278226y2-tmbax300.Pages.Dev#%F0%9F%87%AD%F0%9F%87%B0 | 1 TLS
+// it1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-it1-tmbax300.Pages.Dev&type=ws&sni=hsiw7e6e-tmbax300.Pages.Dev#%F0%9F%87%AE%F0%9F%87%B9 | 1 TLS
+// jp1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-jp1-tmbax300.Pages.Dev&type=ws&sni=hsuw6e627yeye6-tmbax300.Pages.Dev#%F0%9F%87%AF%F0%9F%87%B5 | 1 TLS
+// kr1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-kr1-tmbax300.Pages.Dev&type=ws&sni=xbow8e7ekyw72y-tmbax300.Pages.Dev#%F0%9F%87%B0%F0%9F%87%B7 | 1 TLS
+// lt1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-lt1-tmbax300.Pages.Dev&type=ws&sni=72bsb926oege-tmbax300.Pages.Dev#%F0%9F%87%B1%F0%9F%87%B9 | 1 TLS
+// nl1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-nl1-tmbax300.Pages.Dev&type=ws&sni=hdjdy8e6272627ey636-tmbax300.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 TLS
+// pl1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-pl1-tmbax300.Pages.Dev&type=ws&sni=wytw42rwt1-tmbax300.Pages.Dev#%F0%9F%87%B5%F0%9F%87%B1 | 1 TLS
+// se1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-se1-tmbax300.Pages.Dev&type=ws&sni=vdyet62yetge2-tmbax300.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AA | 1 TLS
+// sg1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-sg1-tmbax300.Pages.Dev&type=ws&sni=ndodu9wy28e67ey2hd-tmbax300.Pages.Dev#%F0%9F%87%B8%F0%9F%87%AC | 1 TLS
+// tw1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-tw1-tmbax300.Pages.Dev&type=ws&sni=a9q8iwuw52m2-tmbax300.Pages.Dev#%F0%9F%87%B9%F0%9F%87%BC | 1 TLS
+// uk1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-uk1-tmbax300.Pages.Dev&type=ws&sni=svwi7ey2iegjd62yu-tmbax300.Pages.Dev#%F0%9F%87%AC%F0%9F%87%A7 | 1 TLS
+// us1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ipipip:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-us1-tmbax300.Pages.Dev&type=ws&sni=svjsuw6627eys662y-tmbax300.Pages.Dev#%F0%9F%87%BA%F0%9F%87%B2 | 1 TLS
+
+# okt configs
+
+# 1.0 w
+vmess://eyJhZGQiOiJjMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDFXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJjMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qxdy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2tob2RlbW9yeS12bXM/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QxVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6IjZ3Nnd0d3Zrczh3LnRtYmF4MzAwLndvcmtlcnMuRGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ipipip:80?path=%2Fkhodemory-vls%3Fed%3D2048&security=none&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=w97wubsow8yw.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ipipip:443?path=%2Fkhodemory-vls%3Fed%3D2048&security=tls&encryption=none&host=okt1w.tmbax300.workers.dev&type=ws&sni=w97wubsow8yw.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1ad@ipipip:443?path=%2Fkhodemory-trs%3Fed%3D2048&security=tls&host=okt1w.tmbax300.workers.dev&type=ws&sni=7qtwbso82y.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt1W %7C https TR
+
+# 2.0 w
+vmess://eyJhZGQiOiJjMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsiB8IG9rdDJXIHwgaHR0cCBWTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJjMS5LaG9kZU1vcnkuVUsuRVUuT3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJva3Qydy50bWJheDMwMC53b3JrZXJzLmRldiIsImlkIjoiMzVlMDQzOTYtZDg1Yy00Y2IzLThmOWQtYjUyNjU4YWNmMWFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgfCBva3QyVyB8IGh0dHBzIFZNIiwic2N5IjoiYXV0byIsInNuaSI6InFwOTE4Mmk1MXUudG1iYXgzMDAud29ya2Vycy5EZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ipipip:80?path=%2F2%3Fed%3D2048&security=none&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=cnbxaloq7qywr.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C http VL
+vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ipipip:443?path=%2F2%3Fed%3D2048&security=tls&encryption=none&host=okt2w.tmbax300.workers.dev&type=ws&sni=cnbxaloq7qywr.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https VL
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@ipipip:443?path=%2F3%3Fed%3D2048&security=tls&host=okt2w.tmbax300.workers.dev&type=ws&sni=bd927wiege9i2j.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2 %7C okt2W %7C https TR
+
+
+
+# END OF THE SUBSCRIPTION !!!
