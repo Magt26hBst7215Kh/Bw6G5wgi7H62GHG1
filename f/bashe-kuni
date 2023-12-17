@@ -1,9 +1,14 @@
-# sep22, 20:19 OLD
-# nov18, 21:43
+# dec17, 14:54
 # bashe-kuni version
 
-ss#://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#آخرین آپدیت: nov17, 11:35
-ss#://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#bashe-kuni version
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#❌تموم❌
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#آخرین آپدیت: dec17, 14:54
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#bashe-kuni version
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#متصل تا پایان سال ۲۰۲۳
+
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#ws+%7C+nohost
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws#tls+%7C+nohost%2C+nosni
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=test-vks-yonggekkk.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv1
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=www2.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv2
+
 
 # END OF THE SUBSCRIPTION !!!
