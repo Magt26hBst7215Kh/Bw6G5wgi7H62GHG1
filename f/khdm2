@@ -1,0 +1,30 @@
+# khdm v2 configs
+
+# edtunnel pages DE
+
+vless://ed04b3d2-5e13-4704-b044-5df08e3eba71@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=vls-edtunnel-tmbax300.Pages.Dev&fp=randomized&type=ws&sni=youthinkyoucanstopmefyoudpi.Pages.Dev#vls-edtunnel+pages
+vless://ed04b3d2-5e13-4704-b044-5df08e3eba71@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=vls.de1.edtunnel.tmbax300.khodemory.uk.eu.org&fp=randomized&type=ws&sni=vls.de1.edtunnel.tmbax300.khodemory.uk.eu.org#vls-edtunnel+domain
+vless://ed04b3d2-5e13-4704-b044-5df08e3eba71@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bw75wbvwiylombluutg3gwvh25w62bnoe62fqbs527jboennod66j2cfwodh7nf.khodemory.uk.eu.org&fp=randomized&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.eu.org#vls-edtunnel+domain2
+
+# yonggekkk worker DE
+
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#ws+%7C+nohost
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws#tls+%7C+nohost%2C+nosni
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=test-vks-yonggekkk.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv1
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=www2.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv2
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=vls-yonggekkk.tmbax300.Workers.Dev&fp=randomized&type=ws&sni=youthinkyoucanstopmefyoudpi.tMBAx300.Workers.Dev#vls-yonggekkk+workers
+
+# edtunnel US
+
+vless://1b6e3e87-aa99-43ea-82b4-5c407e795fc7@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=edtunnel-3kmfi6hp.tmbax300.workers.Dev&fp=randomized&type=ws&sni=edtunnel-3kmfi6hp.tmbax300.workers.Dev#edtunnel-3kmfi6hp.tmbax300.workers.dev
+
+# edgetunnel US
+
+vless://613793b1-fdd3-43e4-9938-f4c6ec0dd863@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=edgetunnel-zizifn.tmbax300.workers.Dev&fp=randomized&type=ws&sni=edgetunnel-zizifn.tmbax300.workers.Dev#edgetunnel-zizifn.tmbax300.workers.dev
+
+# edgetunnel pages OLD
+
+vless://9bb38498-3f8a-41e1-ada3-c68553369192@i1.khodemory.uk.eu.org:443?path=%2Fvless%3Fed%3D2048&security=tls&encryption=none&host=worker-edgetunnel-zizifn.pages.dev&type=ws&sni=worker-edgetunnel-zizifn.pages.Dev#worker-edgetunnel-zizifn.pages.dev
+
+
+# END OF SUBSCRIPTIONS !
