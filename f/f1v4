@@ -1,28 +1,28 @@
-# dec27, 11:35
+# dec27, 11:39
 # family-v1.4 configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v1.4 | dec27, 11:35 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v1.4 | dec27, 11:39 :آخرین آپدیت
 
 
 # kmhtg configs
 
 // de1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-de1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%A9%F0%9F%87%AA | P1D | Germany
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-de1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%A9%F0%9F%87%AA | W1D | Germany
 // jp1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-jp1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%AF%F0%9F%87%B5 | P1D | Japan
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-jp1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%AF%F0%9F%87%B5 | W1D | Japan
 // nl1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-nl1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%B3%F0%9F%87%B1 | P1D | Netherlands
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-nl1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%B3%F0%9F%87%B1 | W1D | Netherlands
 // sg1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-sg1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%B8%F0%9F%87%AC | P1D | Singapore
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-sg1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%B8%F0%9F%87%AC | W1D | Singapore
 // uk1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-uk1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%AC%F0%9F%87%A7 | P1D | Great Britain
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@c1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w-ff1-uk1.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%AC%F0%9F%87%A7 | W1D | Great Britain
 
 
 # okt configs
 
 # 2
-trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@c1.khodemory.uk.eu.org:443?path=%2F3%3Fed%3D2048&security=tls&host=w-ff1-okt2.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%BA%F0%9F%87%B2 | okt2W | https TR
+trojan://35e04396-d85c-4cb3-8f9d-b52658acf1aa@c1.khodemory.uk.eu.org:443?path=%2F3%3Fed%3D2048&security=tls&host=w-ff1-okt2.KhodeMory.UK.Eu.Org&type=ws&sni=youthinkyoucanstopmefyoudpi.KhodeMory.UK.Eu.Org#%F0%9F%87%BA%F0%9F%87%B2 | OKT2W | TLS TR
 
 
 
