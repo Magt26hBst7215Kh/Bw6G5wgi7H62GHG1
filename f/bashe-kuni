@@ -5,10 +5,12 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#آخرین آپد�
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#bashe-kuni version
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk==@127.0.0.1:1080#متصل تا پایان سال ۲۰۲۳
 
-vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#ws+%7C+nohost
-vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws#tls+%7C+nohost%2C+nosni
-vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=test-vks-yonggekkk.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv1
-vless://18788b70-7493-4e98-98a5-b76ff8949b95@test-vks-yonggekkk.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&fp=randomized&type=ws&sni=www2.khodemory.uk.eu.org#tls+%7C+nohost%2C+sniv2
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i1.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#1
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i2.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#2
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i3.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#3
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i4.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#4
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@i5.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#5
+vless://18788b70-7493-4e98-98a5-b76ff8949b95@ih.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-vks-yonggekkk.khodemory.uk.eu.org&type=ws&sni=youthinkyoucanstopmefyoudpi.khodemory.uk.Eu.Org#6
 
 
 # END OF THE SUBSCRIPTION !!!
