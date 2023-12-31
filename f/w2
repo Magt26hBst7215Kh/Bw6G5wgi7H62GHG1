@@ -52,9 +52,9 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:443?path=%2F
 // hk1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-hk.workers.dev&type=ws&sni=dboeye8278226y2.kmhtg-hk.workers.dev#%F0%9F%87%AD%F0%9F%87%B0kmhtg+1+HTTPS
-// id1 (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-id.workers.dev&type=ws#%F0%9F%87%AE%F0%9F%87%A9kmhtg+1+HTTP (x)
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-id.workers.dev&type=ws&sni=ye64wai.kmhtg-id.workers.dev#%F0%9F%87%AE%F0%9F%87%A9kmhtg+1+HTTPS (x)
+// id1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-id.workers.dev&type=ws#%F0%9F%87%AE%F0%9F%87%A9kmhtg+1+HTTP
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-id.workers.dev&type=ws&sni=ye64wai.kmhtg-id.workers.dev#%F0%9F%87%AE%F0%9F%87%A9kmhtg+1+HTTPS
 // ie1 (x)
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-ie.workers.dev&type=ws#%F0%9F%87%AE%F0%9F%87%AAkmhtg+1+HTTP (x)
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-ie.workers.dev&type=ws&sni=28je736gs1.kmhtg-ie.workers.dev#%F0%9F%87%AE%F0%9F%87%AAkmhtg+1+HTTPS (x)
