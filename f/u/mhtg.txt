@@ -1,2 +1,15 @@
+# 2023/12/31 1:
 
-.
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#id:mory / 2023/12/31, 1: :آخرین آپدیت
+
+# user mory
+
+// Great Britain
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@ip.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 1
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@ip2.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 2
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@ip3.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 3
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@ip4.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 4
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@ip5.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 5
+vless://39e08a4d-42c1-4716-841a-a7783dbd1687@iph.khodemory.uk.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=39e08a4d-42c1-4716-841a-a7783dbd1687.khodemory.uk.eu.org&type=ws&sni=sniz.KhodeMory.UK.Eu.Org#UK | 6
+
+# END OF THE SUBSCRIPTION !!!
