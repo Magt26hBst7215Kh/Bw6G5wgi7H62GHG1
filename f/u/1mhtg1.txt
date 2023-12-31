@@ -1,1 +1,14 @@
+# expiration date: 2024/01/31
+# user mory
+# to use links, copy and paste in applicationns.
 
+# normal sub : v2rayNG | Nekobox | HiddifyNG
+https://sub.mhtg.workers.dev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/normal
+
+# base64 sub : Napsternetv
+https://sub.mhtg.workers.dev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/base64
+
+# singbox sub : sbfa | sbfi | HiddifyNext
+https://sub.mhtg.workers.dev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/singbox
+
+# END
