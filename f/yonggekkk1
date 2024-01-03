@@ -1,0 +1,5 @@
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dns-1-1-1-1.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#1.1.1.1
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dns-8-8-8-8.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#8.8.8.8
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dns-223-5-5-5.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#223.5.5.5
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dns-adguard.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#adguard
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vls-dns-rethink.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#rethink
