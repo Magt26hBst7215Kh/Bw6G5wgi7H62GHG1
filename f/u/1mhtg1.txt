@@ -5,6 +5,9 @@
 # normal sub : v2rayNG | Nekobox | HiddifyNG
 https://sub.mhtg.workers.dev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/normal
 
+# HiddifyNext :
+hiddify://import/https://sub.mhtg.workers.dev/uev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/normal#Mory
+
 # base64 sub : Napsternetv
 https://sub.mhtg.workers.dev/user/39e08a4d-42c1-4716-841a-a7783dbd1687/base64
 
