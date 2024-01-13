@@ -1,8 +1,8 @@
-# 2024/01/13 21:11
+# 2024/01/13 21:38
 # family-v6.w configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w | 01/13, 21:11 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w | 01/13, 21:38 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 
@@ -74,6 +74,8 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@198.41.202.5:443/?type=ws&encryptio
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@104.21.27.71:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 19
 // 20
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@172.67.169.10:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 20
+// 21
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@173.245.58.51:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 21
 
 
 # END OF THE SUBSCRIPTION !!!
