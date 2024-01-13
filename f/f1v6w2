@@ -74,5 +74,7 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@198.41.202.5:80/?type=ws&encryption
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@104.21.27.71:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 19
 // 20
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@172.67.169.10:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 20
+// 21
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@173.245.58.51:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 21
 
 # END OF THE SUBSCRIPTION !!!
