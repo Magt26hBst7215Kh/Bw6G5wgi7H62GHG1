@@ -1,8 +1,8 @@
-# 2024/01/13 21:38
+# 2024/01/14 19:29
 # family-v6.w configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w | 01/13, 21:38 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w | 01/14, 19:29 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 
@@ -21,28 +21,28 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@time.cloudflare.com:443?path=%2Fwho
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.200.1:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7-1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.200.123:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7-2
 // 8 www.discord.com
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8 ALL
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.128.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8-1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.135.232:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8-2
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.136.232:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8-3
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.137.232:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8-4
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.138.232:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8-5
 // 9 www.discordapp.com
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9 ALL
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.129.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9-1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.130.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9-2
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.133.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9-3
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.134.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9-4
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.135.233:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9-5
 // 10 www.discord.gg
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10 ALL
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.130.234:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10-1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.133.234:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10-2
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.134.234:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10-3
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.135.234:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10-4
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.136.234:443/?type=ws&encryption=none&flow=&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048&security=tls&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10-5
 // 11 www.speedtest.net
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 11
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 11 ALL
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@104.18.202.232:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 11-1
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@104.18.203.232:443?path=%2Fwhois%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&type=ws&sni=sni.tmbax300.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 11-2
 // 12 zula.ir
