@@ -80,7 +80,7 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/?ed=2048",
+          "path": "/whois?ed=2048",
           "headers": {
             "Host": "ff1-de1.mhtg2-fallcoon.gq"
           }
