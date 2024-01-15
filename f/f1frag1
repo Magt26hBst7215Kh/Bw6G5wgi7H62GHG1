@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "ff1-de1.mhtg2-fallcoon.Gq",
+          "serverName": "ff1-de1-202401151430-fragment.mhtg2-fallcoon.Gq",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/whois?ed=2048",
           "headers": {
-            "Host": "ff1-de1.mhtg2-fallcoon.gq"
+            "Host": "ff1-de1-202401151430-fragment.mhtg2-fallcoon.gq"
           }
         },
         "sockopt": {
