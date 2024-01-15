@@ -1,8 +1,8 @@
-# 2024/01/15 21:44
+# 2024/01/15 22:37
 # family-v6.w2 configs
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w2 | 01/15, 21:44 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v6.w2 | 01/15, 22:37 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 
@@ -12,10 +12,10 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription
 // de1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@23.227.38.188:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@45.131.208.25:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 2
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@45.131.208.195:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 3
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@103.169.142.128:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 3🟣
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@8.222.138.164:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 4
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@104.21.94.39:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 5
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@95.217.243.148:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 6
+vl❌ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@95.217.243.148:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 6
 // 7 time.cloudflare.com
 vl##ess://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@time.cloudflare.com:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 7
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@162.159.200.1:80/?type=ws&encryption=none&host=ff1-de1-202401122117.tmbax300.workers.dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 7-1
