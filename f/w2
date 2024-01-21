@@ -109,9 +109,9 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D204
 // sg1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-sg.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%ACkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-sg.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-sg.workers.dev#%F0%9F%87%B8%F0%9F%87%ACkmhtg+1+HTTPS
-// tr1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTP
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-tr.workers.dev#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTPS
+// tr1 (x)
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTP (x)
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-tr.workers.dev&type=ws&sni=ndodu9wy28e67ey2hd.kmhtg-tr.workers.dev#%F0%9F%87%B9%F0%9F%87%B7kmhtg+1+HTTPS (x)
 // tw1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.kmhtg-tw.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%BCkmhtg+1+HTTP
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.kmhtg-tw.workers.dev&type=ws&sni=a9q8iwuw52m2.kmhtg-tw.workers.dev#%F0%9F%87%B9%F0%9F%87%BCkmhtg+1+HTTPS
