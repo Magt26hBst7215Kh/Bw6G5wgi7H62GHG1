@@ -1,10 +1,11 @@
-# 2024/01/29 20:25
-# family-v7.w2 configs
+# 2024/01/29 20:40
+# hiddify-fragment-v2 configs
 # [x] -> ip4Alibaba, ip6Hetzner.
 
-s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#test test2
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#تست تست۲
+s##s://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%F0%9F%91%88%F0%9F%8F%BC%20%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1%20%D9%88%D8%A7%D9%82%D8%B9%DB%8C...%20%F0%9F%91%88%F0%9F%8F%BC%20%D9%85%D8%B1%D8%AA%D8%A8%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C...
+s##s://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#update%20subscription%20%F0%9F%91%89%F0%9F%8F%BC%20real%20delay...%20%F0%9F%91%89%F0%9F%8F%BC%20sorting%20by...
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#version:%20hiddify-fragment-v2
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#last%20changes:%2024/01/29%2020:40
 
 # wireguard
 
