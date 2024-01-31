@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "discord.com",
+            "address": "www.discord.com",
             "port": 443,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "moryvpn-free-de1.mhtg2-fallcoon.Gq",
+          "serverName": "de1.MoryVPNbot.Workers.Dev",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/whois?ed=2048",
           "headers": {
-            "Host": "moryvpn-free-de1.mhtg2-fallcoon.gq"
+            "Host": "de1.MoryVPNbot.Workers.Dev"
           }
         },
         "sockopt": {
