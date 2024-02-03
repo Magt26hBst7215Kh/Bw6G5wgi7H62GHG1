@@ -1,4 +1,4 @@
-# 2024/01/29 20:40
+# 2024/02/03 13:30
 # hiddify-fragment-v2 configs
 # [x] -> ip4Alibaba, ip6Hetzner.
 
@@ -6,21 +6,16 @@ s##s://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#%D8%A8%D8%B1%D9%88
 s##s://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#update%20subscription%20%F0%9F%91%89%F0%9F%8F%BC%20real%20delay...%20%F0%9F%91%89%F0%9F%8F%BC%20sorting%20by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#version:%20hiddify-fragment-v2
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#app:%20HiddifyNG
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#2024/01/29%2020:40
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#2024/02/03%2013:30
 
-# wireguard
+# kmhtg configs: ff1-de1-fragment.mhtg2-fallcoon.gq
 
-// rightel-samantel
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&reserved=null&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D#Wireguard
-
-# kmhtg configs: ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq
-
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&type=ws#%F0%9F%87%A9%F0%9F%87%AA+*
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+*
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+2
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+3
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-hiddify-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+4
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&type=ws#%F0%9F%87%A9%F0%9F%87%AA+*
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+*
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+1
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+2
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+3
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=ff1-de1-fragment.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+4
 
 
 # END OF THE SUBSCRIPTION !!!
