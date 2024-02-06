@@ -1,17 +1,15 @@
-# 2024/02/05 22:23
+# 2024/02/06 14:23
 # family-v7.w2 configs
 # [x] -> ip4Alibaba, ip6Hetzner.
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v7.w2 | 02/05, 22:23 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v7.w2 | 02/06, 14:23 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 
 # wireguard
 
-// rightel-samantel
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-1 رایتل
-// idk
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.189:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-2
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.23:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-3
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.97:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-4
@@ -25,12 +23,12 @@ wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.195.161:859?a
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev:80?path=%2Fwhois%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev:80?path=%2Fwhois%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *2
 // 1-4
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 1
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 2
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.169.142.128:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 3
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 4
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 1
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 2
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@103.169.142.128:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 3
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 4
 // 5 time.cloudflare.com
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@time.cloudflare.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 5
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@time.cloudflare.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 5
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@162.159.200.1:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 5-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@162.159.200.123:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 5-2
 // 6 www.discord.com
@@ -63,36 +61,29 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80/?type=ws&encryption=none
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.69.44:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 10-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.204.84:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 10-2
 // 11 digg.com
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 11
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 11
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.20.71:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 11-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.21.71:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 11-2
 // 12 avval.ir
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 12
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 12
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.24.72:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 12-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.217.93:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 12-2
 // 13 metrix.ir
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@metrix.ir:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 13
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@metrix.ir:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 13
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 13-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.159.165:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 13-2
 // 14 cdnjs.com
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 14
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 14
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.176.7:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 14-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.177.7:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 14-2
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.81.238:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 14-3
-// 15
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.59.125:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 15
-// 16
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@198.41.202.5:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 16
-// 17
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.27.71:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 17
-// 18
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.169.10:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 18
-// 19
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@173.245.58.51:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 19
-// 20
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.20.67:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 20
-
-
+// 15-20
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.59.125:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 15
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@198.41.202.5:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 16
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.27.71:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 17
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.169.10:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 18
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@173.245.58.51:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 19
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.20.67:80/?type=ws&encryption=none&host=ff1-de1-20240122-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.bsow88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&path=%2Fwhois%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA | 20
 
 
 
