@@ -18,3 +18,5 @@ vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80/?type=ws&encryption=
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443/?type=ws&encryption=none&host=t9.tmbax300bu.Workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=MtinKhreGavNareShbMikhabeZirePashTare.tmbax300bu.Workers.Dev#9.1
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:80/?type=ws&encryption=none&host=t10.tmbax300bu.Workers.Dev&path=%2F%3Fed%3D2048#10.0
 vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@discord.com:443/?type=ws&encryption=none&host=t10.tmbax300bu.Workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=MtinKhreGavNareShbMikhabeZirePashTare.tmbax300bu.Workers.Dev#10.1
+vless://a74ade43-4e9d-44dc-956b-edb116dcfbad@discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=test111.kmhtg-vls.Workers.Dev&type=ws#111.0
+vless://a74ade43-4e9d-44dc-956b-edb116dcfbad@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test111.kmhtg-vls.Workers.Dev&type=ws&sni=MtinKhreGavNareShbMikhabeZirePashTare.kmhtg-vls.Workers.Dev#111.1
