@@ -1,1 +1,1 @@
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ip-kmhtg.ddns.net:443/?type=ws&encryption=none&flow=&host=dl1.kmhtg-nl.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=www2.kmhtg-nl.Workers.Dev#HTTPS
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@152.67.67.215:443/?type=ws&encryption=none&host=testing.tmbax300.Workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=testing.tmbax300.Workers.Dev#HTTPS-443
