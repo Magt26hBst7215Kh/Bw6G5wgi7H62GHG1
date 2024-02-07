@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "你好世界1.KmHTg.IN.EU.Org",
+          "serverName": "你好世界1.KmHTg.MY.EU.Org",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/whois?ed=2048",
           "headers": {
-            "Host": "你好世界1.KmHTg.IN.EU.Org"
+            "Host": "你好世界1.KmHTg.MY.EU.Org"
           }
         },
         "sockopt": {
