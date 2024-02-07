@@ -1,2 +1,3 @@
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@a:443/?type=ws&encryption=none&host=okt2w.tmbax300.workers.Dev&path=%2F2%3Fed%3D2048&security=tls&sni=okt2w.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2%20w%20TEST
-vless://35e04396-d85c-4cb3-8f9d-b52658acf1aa@a:443/?type=ws&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&path=%2F2%3Fed%3D2048&security=tls&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2%20d%20TEST
+// okt2
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@a:443/?type=ws&encryption=none&host=okt2w.tmbax300.workers.Dev&path=%2F2%3Fed%3D2048&security=tls&sni=okt2w.tmbax300.workers.Dev#%F0%9F%87%BA%F0%9F%87%B2okt2%20w%20TEST
+vl##ess://35e04396-d85c-4cb3-8f9d-b52658acf1aa@a:443/?type=ws&encryption=none&host=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq&path=%2F2%3Fed%3D2048&security=tls&sni=dl2.okt2w.mhtg2-fallcoon.gq.pumicoserver.ml.mhtg1-argovpn.gq#%F0%9F%87%BA%F0%9F%87%B2okt2%20d%20TEST
