@@ -10,12 +10,12 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk@127.0.0.1:1080#2024/02/03%2013:30
 
 # kmhtg configs: ff1-de1-fragment.mhtg2-fallcoon.gq
 
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:80?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&type=ws#%F0%9F%87%A9%F0%9F%87%AA+*
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+*
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+1
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+2
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+3
-vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA+4
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:80?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20*
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@ff1-de1-fragment.mhtg2-fallcoon.gq:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA%20*
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA%201
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discordapp.com:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA%202
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.discord.gg:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA%203
+vless://6ee0dc10-f46b-4286-915f-4b2937e6a3fe@www.speedtest.net:443?path=%2Fwhois%3Fed%3D2048&fragment=&security=tls&encryption=none&fragment_v1=sni&host=ff1-de1-fragment.mhtg2-fallcoon.gq&type=ws&sni=sni.mhtg2-fallcoon.gq#%F0%9F%87%A9%F0%9F%87%AA%204
 
 
 # END OF THE SUBSCRIPTION !!!
