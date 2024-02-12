@@ -80,7 +80,7 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/whois?ed=2048",
+          "path": "/?ed=2048",
           "headers": {
             "Host": "de1.MoryVPNbot.Workers.Dev"
           }
