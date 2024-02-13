@@ -55,7 +55,7 @@
             "port": 443,
             "users": [
               {
-                "id": "6ee0dc10-f46b-4286-915f-4b2937e6a3fe",
+                "id": "6b3a0022-1037-4df2-ab6f-5856689c407a",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "ff1-de1-fragment.mhtg2-fallcoon.Gq",
+          "serverName": "ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev",
           "alpn": [
             "h2",
             "http/1.1"
@@ -80,9 +80,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/whois?ed=2048",
+          "path": "/?ed=2048",
           "headers": {
-            "Host": "ff1-de1-fragment.mhtg2-fallcoon.gq"
+            "Host": "ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev"
           }
         },
         "sockopt": {
