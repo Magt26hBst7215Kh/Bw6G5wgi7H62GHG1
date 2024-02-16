@@ -1,24 +1,26 @@
-# 2024/02/13 12:42
+# 2024/02/16 18:20
 # family-v8.w configs
 # [x] -> ip4Alibaba, ip6Hetzner, w-domain.
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v8-w | 02/13, 12:42 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v8-w | 02/16, 18:20 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 
 # wireguard
 
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-1 رایتل
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.189:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-2
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.23:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-3
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.97:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-4
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.96.186:7156?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-5
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.97.3:7156?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-6
-wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.195.161:859?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-7
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.189:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-2
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.23:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-3
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.192.97:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-4
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.96.186:7156?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-5
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.97.3:7156?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-6
+wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.195.161:859?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%8F%81 | wireguard-7
 
 # kmhtg configs: 128
 
+// secured
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&fp=random&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured%F0%9F%9B%A1%EF%B8%8F
 // 1-4
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 1
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.32:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 2
