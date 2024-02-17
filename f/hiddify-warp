@@ -1,10 +1,11 @@
 //profile-title: base64:Zi93YXJw
 //profile-update-interval: -1
-//subscription-userinfo: upload=1; download=10; total=100000; expire=2546249531
+//subscription-userinfo: upload=265; download=1024; total=999999999; expire=2024023012
 //support-url: https://t.me/therealmory
 //profile-web-page-url: https://sub.mhtg.workers.dev
 
 https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
+2546249531
 
 warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
 wa#rp://auto?ifp=10-20&ifps=40-100&ifpd=30-50#Warp_10-20_40-100_30-50
