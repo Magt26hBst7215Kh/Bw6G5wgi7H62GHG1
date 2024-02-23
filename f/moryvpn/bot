@@ -6,9 +6,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodHRwczovL3QubWUvTW9yeVZQTl9Cb3Q@127.0.0.1:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodHRwczovL3QubWUvTW9yeVZQTl9Cb3Q@127.0.0.1:1080#%40MoryVPN_Bot
 
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%201%20noTls
-vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.com:80?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%201%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%201%20Tls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discordapp.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%202%20noTls
-vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discordapp.com:80?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%202%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discordapp.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%202%20Tls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.gg:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%203%20noTls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.gg:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%203%20Tls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%204%20noTls
