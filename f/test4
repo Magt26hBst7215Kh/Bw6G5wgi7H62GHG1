@@ -1,315 +1,355 @@
-[
+vless://a8d9c749-39f1-4509-98dd-85d177525192@ip.alphaspeedtest.com:443?path=%2Fwss7000%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=nl2.1alphaomega.org&fp=chrome&type=ws&sni=nl2.1alphaomega.org#%F0%9F%87%B3%F0%9F%87%B1NL+-+CDN+-+CF+-+%C3%971+-+%28%F0%9F%93%A5-%F0%9F%8C%90%29
+vless://a8d9c749-39f1-4509-98dd-85d177525192@ip.alphaspeedtest.com:443?path=%2Fwss7000%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=fr2.1alphaomega.org&fp=chrome&type=ws&sni=fr2.1alphaomega.org#%F0%9F%87%AB%F0%9F%87%B7FR+-+CDN+-+CF+-+%C3%970.75+-+%28%F0%9F%93%A5-%F0%9F%8C%90%29
+vless://a8d9c749-39f1-4509-98dd-85d177525192@ip.alphaspeedtest.com:443?path=%2Fwss7000%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=br2.1alphaomega.org&fp=chrome&type=ws&sni=br2.1alphaomega.org#%F0%9F%87%A7%F0%9F%87%B7BR+-+CDN+-+CF+-+%C3%970.5+-+%28%F0%9F%93%A5-%F0%9F%8C%90%29
+
 {
-  "remarks": "serv1",
+
   "log": {
+
     "access": "",
+
     "error": "",
+
     "loglevel": "warning"
+
   },
+
   "inbounds": [
+
     {
+
       "tag": "socks",
+
       "port": 10808,
+
       "listen": "127.0.0.1",
+
       "protocol": "socks",
+
       "sniffing": {
+
         "enabled": true,
+
         "destOverride": [
+
           "http",
+
           "tls"
+
         ],
+
         "routeOnly": false
+
       },
+
       "settings": {
+
         "auth": "noauth",
+
         "udp": true,
+
         "allowTransparent": false
+
       }
+
     },
+
     {
+
       "tag": "http",
+
       "port": 10809,
+
       "listen": "127.0.0.1",
+
       "protocol": "http",
+
       "sniffing": {
+
         "enabled": true,
+
         "destOverride": [
+
           "http",
+
           "tls"
+
         ],
+
         "routeOnly": false
+
       },
+
       "settings": {
+
         "auth": "noauth",
+
         "udp": true,
+
         "allowTransparent": false
+
       }
+
     }
+
   ],
+
   "outbounds": [
+
     {
+
       "tag": "proxy",
+
       "protocol": "vless",
+
       "settings": {
+
         "vnext": [
+
           {
-            "address": "xxx",
+
+            "address": "discord.com",
+
             "port": 443,
+
             "users": [
+
               {
-                "id": "f3e0bd10-e133-11ed-ace2-1495dbb28315",
+
+                "id": "6b3a0022-1037-4df2-ab6f-5856689c407a",
+
                 "alterId": 0,
+
                 "email": "t@t.tt",
+
                 "security": "auto",
+
                 "encryption": "none",
+
                 "flow": ""
+
               }
+
             ]
+
           }
+
         ]
+
       },
+
       "streamSettings": {
+
         "network": "ws",
+
         "security": "tls",
+
         "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "xxx",
+
+          "allowInsecure": true,
+
+          "serverName": "ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev",
+
           "alpn": [
+
             "h2",
+
             "http/1.1"
+
           ],
+
           "fingerprint": "chrome",
+
           "show": false
+
         },
+
         "wsSettings": {
-          "path": "/downloader/2082",
+
+          "path": "/?ed=2048",
+
           "headers": {
-            "Host": "xxx"
+
+            "Host": "ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev"
+
           }
+
         },
+
         "sockopt": {
+
           "dialerProxy": "fragment",
+
           "tcpKeepAliveIdle": 100,
-          "mark": 255,
-          "tcpNoDelay": true
+
+          "mark": 255
+
         }
+
       },
+
       "mux": {
-        "enabled": true,
-        "concurrency": 8
+
+        "enabled": false,
+
+        "concurrency": -1
+
       }
+
     },
+
+    
+
     {
+
       "tag": "fragment",
+
       "protocol": "freedom",
+
       "settings": {
-        "domainStrategy": "AsIs",
+
         "fragment": {
+
           "packets": "tlshello",
-          "length": "10-100",
-          "interval": "50-200"
+
+          "length": "100-200",
+
+          "interval": "10-20"
+
         }
+
       },
+
       "streamSettings": {
+
         "sockopt": {
-          "tcpNoDelay": true,
-          "tcpKeepAliveIdle": 100
-        }
-      }
-    },
-    {
-      "tag": "direct",
-      "protocol": "freedom",
-      "settings": {
-        
-      }
-    },
-    {
-      "tag": "block",
-      "protocol": "blackhole",
-      "settings": {
-        "response": {
-          "type": "http"
-        }
-      }
-    }
-  ],
-  "routing": {
-    "domainStrategy": "AsIs",
-    "rules": [
-      {
-        "type": "field",
-        "inboundTag": [
-          "api"
-        ],
-        "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "id": "5627785659655799759",
-        "type": "field",
-        "port": "0-65535",
-        "outboundTag": "proxy",
-        "enabled": true
-      }
-    ]
-  }
-}
-,
-{
-  "remarks": "serv1",
-  "log": {
-    "access": "",
-    "error": "",
-    "loglevel": "warning"
-  },
-  "inbounds": [
-    {
-      "tag": "socks",
-      "port": 10808,
-      "listen": "127.0.0.1",
-      "protocol": "socks",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "routeOnly": false
-      },
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "allowTransparent": false
-      }
-    },
-    {
-      "tag": "http",
-      "port": 10809,
-      "listen": "127.0.0.1",
-      "protocol": "http",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "routeOnly": false
-      },
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "allowTransparent": false
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "tag": "proxy",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "xxx",
-            "port": 443,
-            "users": [
-              {
-                "id": "f3e0bd10-e133-11ed-ace2-1495dbb28315",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "xxx",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "chrome",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/downloader/2082",
-          "headers": {
-            "Host": "xxx"
-          }
-        },
-        "sockopt": {
-          "dialerProxy": "fragment",
+
+          "TcpNoDelay": true,
+
           "tcpKeepAliveIdle": 100,
-          "mark": 255,
-          "tcpNoDelay": true
+
+          "mark": 255
+
         }
-      },
-      "mux": {
-        "enabled": true,
-        "concurrency": 8
+
       }
+
     },
+
+
+
     {
-      "tag": "fragment",
-      "protocol": "freedom",
-      "settings": {
-        "domainStrategy": "AsIs",
-        "fragment": {
-          "packets": "tlshello",
-          "length": "10-100",
-          "interval": "50-200"
-        }
-      },
-      "streamSettings": {
-        "sockopt": {
-          "tcpNoDelay": true,
-          "tcpKeepAliveIdle": 100
-        }
-      }
-    },
-    {
+
       "tag": "direct",
+
       "protocol": "freedom",
-      "settings": {
-        
-      }
+
+      "settings": {}
+
     },
+
     {
+
       "tag": "block",
+
       "protocol": "blackhole",
+
       "settings": {
+
         "response": {
+
           "type": "http"
+
         }
+
       }
+
     }
+
   ],
+
   "routing": {
+
     "domainStrategy": "AsIs",
+
     "rules": [
+
       {
+
         "type": "field",
+
         "inboundTag": [
+
           "api"
+
         ],
+
         "outboundTag": "api",
+
         "enabled": true
+
       },
+
+        
+
       {
-        "id": "5627785659655799759",
+
+        "id": "5465425548310166497",
+
         "type": "field",
-        "port": "0-65535",
-        "outboundTag": "proxy",
+
+        "outboundTag": "direct",
+
+        "domain": [
+
+          "domain:ir",
+
+          "geosite:cn"
+
+        ],
+
         "enabled": true
+
+      },
+
+      {
+
+        "id": "5425034033205580637",
+
+        "type": "field",
+
+        "outboundTag": "direct",
+
+        "ip": [
+
+          "geoip:private",
+
+          "geoip:cn",
+
+          "geoip:ir"
+
+        ],
+
+        "enabled": true
+
+      },
+
+      {
+
+        "id": "5627785659655799759",
+
+        "type": "field",
+
+        "port": "0-65535",
+
+        "outboundTag": "proxy",
+
+        "enabled": true
+
       }
+
     ]
+
   }
+
 }
-]
