@@ -103,7 +103,7 @@
       "settings": {
         "fragment": {
           "packets": "tlshello",
-          "length": "100-200",
+          "length": "50-100",
           "interval": "10-20"
         }
       },
