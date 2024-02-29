@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "104.21.69.44",
             "port": 443,
             "users": [
               {
@@ -80,7 +80,7 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/whois?ed=2048",
+          "path": "/?ed=2048",
           "headers": {
             "Host": "你好世界1.KmHTg.MY.EU.Org"
           }
@@ -103,7 +103,7 @@
       "settings": {
         "fragment": {
           "packets": "tlshello",
-          "length": "100-200",
+          "length": "50-100",
           "interval": "10-20"
         }
       },
