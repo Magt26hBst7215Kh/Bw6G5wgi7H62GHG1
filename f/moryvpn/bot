@@ -4,11 +4,11 @@
 //support#-url: https://t.me/moryvpn_bot
 //profile#-web-page-url: https://sub.moryvpnbot.workers.dev
 
-# 2024/02/23
-# 14:25
+# 2024/03/13
+# 14:05
 # t.me/MoryVPN_Bot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodHRwczovL3QubWUvTW9yeVZQTl9Cb3Q@127.0.0.1:1080#2024%2F02%2F23%20%7C%2014%3A24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodHRwczovL3QubWUvTW9yeVZQTl9Cb3Q@127.0.0.1:1080#2024%2F03%2F13%20%7C%2014%3A05
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodHRwczovL3QubWUvTW9yeVZQTl9Cb3Q@127.0.0.1:1080#%40MoryVPN_Bot
 
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.discord.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%201%20noTls
@@ -21,6 +21,17 @@ vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.speedtest.net:80?path=%2F%3Fed%
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%204%20Tls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%205%20noTls
 vless://ec4c6074-f093-4d64-905e-74611a1763c3@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%205%20Tls
+
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.128.233:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%206%20noTls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.128.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%206%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.129.233:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%207%20noTls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.129.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%207%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.130.234:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%208%20noTls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@162.159.130.234:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%208%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@104.18.202.232:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%209%20noTls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@104.18.202.232:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%209%20Tls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@104.21.69.44:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.moryvpnbot.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%2010%20noTls
+vless://ec4c6074-f093-4d64-905e-74611a1763c3@104.21.69.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=de1.moryvpnbot.workers.dev&fp=random&type=ws&sni=de1.moryvpnbot.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%2010%20Tls
 
 
 #END
