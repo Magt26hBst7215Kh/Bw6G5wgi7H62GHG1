@@ -1,9 +1,9 @@
-# 2024/04/15 07:47
+# 2024/04/15 07:54
 # family-v9-w configs
 # [x] -> ip4Alibaba, ip6Hetzner, w-domain
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v9-w | 04/15, 07:47 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v9-w | 04/15, 07:54 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -22,13 +22,13 @@ wir##eguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@162.159.195.161:859
 # kmhtg configs: de1
 
 // secured
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jauw67eb8eboa8b2vu7363uegje7d72uu2hwkwos8w7u2hehheie883uej.Pages.Dev&fp=random&type=ws&sni=jauw67eb8eboa8b2vu7363uegje7d72uu2hwkwos8w7u2hehheie883uej.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured-v1%F0%9F%9B%A1%EF%B8%8F
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&fp=random&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured-v2%F0%9F%9B%A1%EF%B8%8F
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dep.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v3%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F)
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v4%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F)
-// domain: TmBAX300.X10.Mx
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *DP-http
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *DW-http
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=jauw67eb8eboa8b2vu7363uegje7d72uu2hwkwos8w7u2hehheie883uej.Pages.Dev&fp=random&type=ws&sni=jauw67eb8eboa8b2vu7363uegje7d72uu2hwkwos8w7u2hehheie883uej.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured-v1%F0%9F%9B%A1%EF%B8%8F https
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&fp=random&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured-v2%F0%9F%9B%A1%EF%B8%8F https
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dep.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v3%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F) https
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v4%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F) https
+// domain: TmBAX300.X10.Mx.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NotSecured-v1%F0%9F%94%93 http
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NotSecured-v2%F0%9F%94%93 http
 // ip: worker
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *w
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.70.168:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | *w-ip1
