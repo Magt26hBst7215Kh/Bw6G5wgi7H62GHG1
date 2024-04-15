@@ -1,9 +1,9 @@
-# 2024/04/07 14:05
+# 2024/04/15 22:30
 # family-v9-w2 configs
 # [x] -> ip4Alibaba, ip6Hetzner, w-domain
 
 s##s://YWVzLTI1Ni1nY206YnktbW9ydGV6YS1odC1nYW1lcg@127.0.0.1:1080#%F0%9F%98%81%2BFAMILY%2BConfigs%2B%F0%9F%98%8C
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v9-w2 | 04/07, 14:05 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#v9-w2 | 04/15, 22:30 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -90,13 +90,12 @@ vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=%2F%3Fed%3D204
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.176.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 14-1
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@104.24.177.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 14-2
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.81.238:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 14-3
-// 15-20
+// 15-19
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.59.125:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 15
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@198.41.202.5:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 16
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.27.71:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 17
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.169.10:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 18
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@173.245.58.51:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 19
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.20.67:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | 20
 
 
 
