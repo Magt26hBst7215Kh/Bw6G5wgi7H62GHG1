@@ -26,7 +26,7 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev&fp=random&type=ws&sni=ff1-de1-20240212-u7363uegje7d72uu2hwkwos8w7u2hehheie883uejebkdh.001v88wywiegrjid8e73uehhehdjdisow87euegrbjfifif9s8w7wyhevejdho8.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA | Secured-v2%F0%9F%9B%A1%EF%B8%8F https
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dep.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v3%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F) https
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | Secured-v4%F0%9F%9B%A1%EF%B8%8F (F%E2%9A%A0%EF%B8%8F) https
-// domain: TmBAX300.X10.Mx (x)
+// domain: TmBAX300.X10.Mx.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dep.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NotSecured-v1%F0%9F%94%93 http
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:6815:1848]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NotSecured-v2%F0%9F%94%93 http
 // ip: worker
