@@ -51,11 +51,11 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2
 
 # howdy & sshmax
 // howdy-fr1
-trojan://592bb130-1a91-11ef-94cc-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-fr1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-fr1.kmhtg.uk.eu.org#%F0%9F%87%AB%F0%9F%87%B7H-1 %7C 30GB
+trojan://592bb130-1a91-11ef-94cc-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-fr1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-fr1.kmhtg.uk.eu.org#%F0%9F%87%AB%F0%9F%87%B7H-1 %7C 30GB پینگ نمیده ولی وصله
 // howdy-uk1
-trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-uk1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-uk1.kmhtg.uk.eu.org#%F0%9F%87%AC%F0%9F%87%A7H-1 %7C 30GB
+trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-uk1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-uk1.kmhtg.uk.eu.org#%F0%9F%87%AC%F0%9F%87%A7H-1 %7C 30GB پینگ نمیده ولی وصله
 // howdy-us1
-trojan://9736b770-1a91-11ef-9389-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-us1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-us1.kmhtg.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2H-1 %7C 30GB
+trojan://9736b770-1a91-11ef-9389-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-us1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-us1.kmhtg.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2H-1 %7C 30GB پینگ نمیده ولی وصله
 // sshmax-tr1
 vless://f676a58b-0998-4215-9ed9-30f2d37697f8@172.67.204.84:80?path=%2Fvless&security=none&encryption=none&host=2sm-tr1.kmhtg.uk.eu.org.&type=ws#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 80.
 vless://f676a58b-0998-4215-9ed9-30f2d37697f8@172.67.204.84:443?path=%2Fvless&security=tls&encryption=none&host=2sm-tr1.kmhtg.uk.eu.org&fp=random&type=ws&sni=2sm-tr1.kmhtg.uk.eu.org#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 443
