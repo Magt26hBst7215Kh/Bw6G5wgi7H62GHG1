@@ -1,7 +1,7 @@
-# 2024/05/02 20:00
+# 2024/05/25 18:00
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 05/02, 20:00 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 05/25, 18:00 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -48,5 +48,17 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80?path=%2F%3Fed%3D20
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 80 W
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 P
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 D (F%E2%9A%A0%EF%B8%8F)
+
+# howdy & sshmax
+// howdy-fr1
+trojan://592bb130-1a91-11ef-94cc-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-fr1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-fr1.kmhtg.uk.eu.org#%F0%9F%87%AB%F0%9F%87%B7H-1 %7C 30GB
+// howdy-uk1
+trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-uk1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-uk1.kmhtg.uk.eu.org#%F0%9F%87%AC%F0%9F%87%A7H-1 %7C 30GB
+// howdy-us1
+trojan://9736b770-1a91-11ef-9389-1239d0255272@172.67.204.84:443?path=%2Fhowdy&security=tls&host=1h-us1.kmhtg.uk.eu.org&fp=random&type=ws&sni=1h-us1.kmhtg.uk.eu.org#%F0%9F%87%BA%F0%9F%87%B2H-1 %7C 30GB
+// sshmax-tr1
+vless://f676a58b-0998-4215-9ed9-30f2d37697f8@172.67.204.84:80?path=%2Fvless&security=none&encryption=none&host=2sm-tr1.kmhtg.uk.eu.org.&type=ws#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 80.
+vless://f676a58b-0998-4215-9ed9-30f2d37697f8@172.67.204.84:443?path=%2Fvless&security=tls&encryption=none&host=2sm-tr1.kmhtg.uk.eu.org&fp=random&type=ws&sni=2sm-tr1.kmhtg.uk.eu.org#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 443
+
 
 # END OF SUBSCRIPTION
