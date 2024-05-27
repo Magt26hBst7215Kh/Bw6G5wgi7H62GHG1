@@ -1,7 +1,7 @@
-# 2024/05/27 22:30
+# 2024/05/27 22:31
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 05/27, 22:30 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 05/27, 22:31 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -49,16 +49,13 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80?path=%2F%3Fed%3D20
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 P
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 D (F%E2%9A%A0%EF%B8%8F)
 
-# howdy & sshmax
+# howdy
 // howdy-fr1
 trojan://592bb130-1a91-11ef-94cc-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H-1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // howdy-uk1
 trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H-1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // howdy-us1
 trojan://9736b770-1a91-11ef-9389-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H-1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
-// sshmax-tr1
-vless://f676a58b-0998-4215-9ed9-30f2d37697f8@www.discord.com:80?path=%2Fvless&security=none&encryption=none&host=tr1.Vless.Site.&type=ws#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 80.
-vless://f676a58b-0998-4215-9ed9-30f2d37697f8@www.discord.com:443?path=%2Fvless&security=tls&encryption=none&host=tr1.Vless.Site&fp=random&type=ws&sni=tr1.Vless.Site#%F0%9F%87%B9%F0%9F%87%B7SM-1 %7C 443 (F%E2%9A%A0%EF%B8%8F)
 
 
 # END OF SUBSCRIPTION
