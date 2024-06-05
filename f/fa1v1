@@ -1,7 +1,7 @@
-# 2024/05/27 22:31
+# 2024/06/05 12:03
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 05/27, 22:31 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 12:03 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -11,7 +11,8 @@ ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8
 warp://188.114.98.224:880#%F0%9F%87%AE%F0%9F%87%B7 | wireguard-1
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7 | wireguard-1
 
-# kmhtg configs: de1
+# kmhtg configs: 
+# vless de1
 
 // 1#
 vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80. D
@@ -48,6 +49,12 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80?path=%2F%3Fed%3D20
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 80 W
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 P
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 7-1 | 443 D (F%E2%9A%A0%EF%B8%8F)
+
+# trojan nl1
+
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 80. W
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws&sni=ff1-nl1-trojan-20240509.128128.Workers.Dev#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 443 W
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 443 P
 
 # howdy
 // howdy-fr1
