@@ -1,7 +1,7 @@
-# 2024/06/05 12:12
+# 2024/06/05 13:24
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 12:12 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 13:24 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -51,10 +51,11 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 7 | 443 D (F%E2%9A%A0%EF%B8%8F)
 
 # trojan nl1
-
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80. W
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws&sni=ff1-nl1-trojan-20240509.128128.Workers.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 W
+// 1
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80. D
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80 W
 trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 P
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 D
 
 # howdy
 // howdy-fr1
