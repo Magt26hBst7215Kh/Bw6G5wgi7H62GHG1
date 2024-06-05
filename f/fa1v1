@@ -1,7 +1,7 @@
-# 2024/06/05 13:33
+# 2024/06/05 13:37
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 13:33 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 13:37 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -12,10 +12,10 @@ warp://188.114.98.224:880#%F0%9F%87%AE%F0%9F%87%B7 | wireguard-1
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7 | wireguard-1
 
 # kmhtg configs:
-# @iranfreeinternet_bot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRjVRaFU4WWt6cWFQVEZ1@admin.c2.webramz.co:443?outline=1&prefix=POST%20m24cac2u#K2411202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyc1kyb05NSkdGcUFYTmlq@admin.c3.webramz.co:443?outline=1&prefix=POST%20p24cac6Z#K2411206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQ0JvZVVxa2N2MUppSUFu@admin.c4.webramz.co:443?outline=1&prefix=POST%20X24cac8X#K2411208
+# ss
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRjVRaFU4WWt6cWFQVEZ1@admin.c2.webramz.co:443?outline=1&prefix=POST%20m24cac2u#🇮🇪K2411202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyc1kyb05NSkdGcUFYTmlq@admin.c3.webramz.co:443?outline=1&prefix=POST%20p24cac6Z#🇬🇧K2411206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQ0JvZVVxa2N2MUppSUFu@admin.c4.webramz.co:443?outline=1&prefix=POST%20X24cac8X#🇺🇲K2411208
 
 # vless de1
 
