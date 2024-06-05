@@ -55,7 +55,7 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2
 trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80. D
 trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80 W
 trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 P
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 D
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 D (F%E2%9A%A0%EF%B8%8F)
 
 # howdy
 // howdy-fr1
