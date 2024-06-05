@@ -1,7 +1,7 @@
-# 2024/06/05 17:32
+# 2024/06/05 17:47
 # family-a1-v2 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v2 | 06/05, 17:32 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v2 | 06/05, 17:47 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -54,11 +54,11 @@ trojan://16b2d34b-493d-nl1-fa1-family@172.67.82.189:443?path=%2F%3Fed%3D2048&sec
 
 # howdy
 // howdy-fr1
-trojan://592bb130-1a91-11ef-94cc-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://592bb130-1a91-11ef-94cc-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // howdy-uk1
-trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // howdy-us1
-trojan://9736b770-1a91-11ef-9389-1239d0255272@www.discord.com:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://9736b770-1a91-11ef-9389-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 
 
 # END OF SUBSCRIPTION
