@@ -1,7 +1,7 @@
-# 2024/06/05 12:10
+# 2024/06/05 12:12
 # family-a1-v1 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 12:10 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v1 | 06/05, 12:12 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -52,9 +52,9 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.34.110:443?path=%2F%3Fed%3D2
 
 # trojan nl1
 
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 80. W
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws&sni=ff1-nl1-trojan-20240509.128128.Workers.Dev#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 443 W
-trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | T 1 | 443 P
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:80?path=%2F%3Fed%3D2048&security=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80. W
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws&sni=ff1-nl1-trojan-20240509.128128.Workers.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 W
+trojan://16b2d34b-493d-nl1-fa1-family@104.27.56.150:443?path=%2F%3Fed%3D2048&security=tls&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 P
 
 # howdy
 // howdy-fr1
