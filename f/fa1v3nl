@@ -1,0 +1,52 @@
+# trojan nl1
+
+// 1
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:ac43:cc54]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 1 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 2
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:6815:1848]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 2 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:6815:1848]:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 2 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 2 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@[0000:0000:0000:0000:0000:ffff:6815:1848]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 2 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 3 www.discord.com -1
+vless://16b2d34b-493d-nl1-fa1-family@162.159.128.233:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 3 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@162.159.128.233:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 3 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@162.159.128.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 3 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@162.159.128.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 3 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 4 www.speedtest.net -1
+vless://16b2d34b-493d-nl1-fa1-family@104.18.202.232:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 4 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.18.202.232:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 4 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.18.202.232:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 4 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.18.202.232:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 4 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 5 zula.ir -1
+vless://16b2d34b-493d-nl1-fa1-family@104.21.69.44:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.21.69.44:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.21.69.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.21.69.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 6 avval.ir -1
+vless://16b2d34b-493d-nl1-fa1-family@104.26.14.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.26.14.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.26.14.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.26.14.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 7 metrix.ir -1
+vless://16b2d34b-493d-nl1-fa1-family@104.21.34.110:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.21.34.110:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.21.34.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 8
+vless://16b2d34b-493d-nl1-fa1-family@104.25.3.78:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.25.3.78:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.25.3.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.25.3.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 5 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 9
+vless://16b2d34b-493d-nl1-fa1-family@104.27.97.105:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@104.27.97.105:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@104.27.97.105:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@104.27.97.105:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 6 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 10
+vless://16b2d34b-493d-nl1-fa1-family@172.67.82.189:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me.&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 80. D
+vless://16b2d34b-493d-nl1-fa1-family@172.67.82.189:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-nl1-trojan-20240509.128128.Workers.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 80 W
+vless://16b2d34b-493d-nl1-fa1-family@172.67.82.189:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-nl1-trojan-20240509-128128.Pages.Dev&type=ws&sni=ff1-nl1-trojan-20240509-128128.Pages.Dev#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 443 P
+vless://16b2d34b-493d-nl1-fa1-family@172.67.82.189:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1nlw.mhtg1.FileGear-sG.Me&type=ws&sni=dl1.ff1nlw.mhtg1.FileGear-sG.Me#%F0%9F%87%B3%F0%9F%87%B1 | 7 | 443 D (F%E2%9A%A0%EF%B8%8F)
