@@ -1,7 +1,7 @@
-# 2024/06/06 14:51
+# 2024/06/06 23:15
 # family-a1-v3 configs
 
-ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v3 | 06/06, 14:51 :آخرین آپدیت
+ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#a1-v3 | 06/06, 23:15 :آخرین آپدیت
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 ss://bm9uZTpodHRwczovL3QubWUvVGhlUmVhbE1vcnk=@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -13,9 +13,9 @@ wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?ad
 
 # kmhtg configs:
 # ss
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRjVRaFU4WWt6cWFQVEZ1@admin.c2.webramz.co:443?outline=1&prefix=POST%20m24cac2u#🇮🇪K2411202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyc1kyb05NSkdGcUFYTmlq@admin.c3.webramz.co:443?outline=1&prefix=POST%20p24cac6Z#🇬🇧K2411206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQ0JvZVVxa2N2MUppSUFu@admin.c4.webramz.co:443?outline=1&prefix=POST%20X24cac8X#🇺🇲K2411208
+s##s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRjVRaFU4WWt6cWFQVEZ1@admin.c2.webramz.co:443?outline=1&prefix=POST%20m24cac2u#🇮🇪K2411202
+s##s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyc1kyb05NSkdGcUFYTmlq@admin.c3.webramz.co:443?outline=1&prefix=POST%20p24cac6Z#🇬🇧K2411206
+s##s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQ0JvZVVxa2N2MUppSUFu@admin.c4.webramz.co:443?outline=1&prefix=POST%20X24cac8X#🇺🇲K2411208
 
 # vless de1
 
@@ -72,15 +72,15 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@172.67.82.189:443?path=%2F%3Fed%3D2
 
 # howdy
 // ca3
-trojan://7cc60050-23f4-11ef-a325-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=ca1.Test3.Net&fp=random&type=ws&sni=ca1.Test3.Net#%F0%9F%87%A8%F0%9F%87%A6H3 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://7cc60050-23f4-11ef-a325-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=ca1.Test3.Net&fp=random&type=ws&sni=ca1.Test3.Net#%F0%9F%87%A8%F0%9F%87%A6H3 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // fr1-2
-trojan://592bb130-1a91-11ef-94cc-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
-trojan://c8783f00-23f4-11ef-8ff0-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://592bb130-1a91-11ef-94cc-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://c8783f00-23f4-11ef-8ff0-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // uk1-2
-trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
-trojan://e8923c80-23f4-11ef-ae62-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://7ef611e0-1a91-11ef-ba90-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://e8923c80-23f4-11ef-ae62-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 // us1-2
-trojan://9736b770-1a91-11ef-9389-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
-trojan://0effb760-23f5-11ef-b0fb-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://9736b770-1a91-11ef-9389-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+tr##ojan://0effb760-23f5-11ef-b0fb-1239d0255272@104.21.69.44:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
 
 # END OF SUBSCRIPTION
