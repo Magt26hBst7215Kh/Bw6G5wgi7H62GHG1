@@ -1,0 +1,12 @@
+# howdy
+// ca3
+trojan://7cc60050-23f4-11ef-a325-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=ca1.Test3.Net&fp=random&type=ws&sni=ca1.Test3.Net#%F0%9F%87%A8%F0%9F%87%A6H3 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+// fr1-2
+trojan://592bb130-1a91-11ef-94cc-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://c8783f00-23f4-11ef-8ff0-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=fr1.Test3.Net&fp=random&type=ws&sni=fr1.Test3.Net#%F0%9F%87%AB%F0%9F%87%B7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+// uk1-2
+trojan://7ef611e0-1a91-11ef-ba90-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://e8923c80-23f4-11ef-ae62-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=uk1.Test3.Net&fp=random&type=ws&sni=uk1.Test3.Net#%F0%9F%87%AC%F0%9F%87%A7H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+// us1-2
+trojan://9736b770-1a91-11ef-9389-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H1 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
+trojan://0effb760-23f5-11ef-b0fb-1239d0255272@66.235.200.20:443?path=%2Fhowdy&security=tls&host=usa.Test3.Net&fp=random&type=ws&sni=usa.Test3.Net#%F0%9F%87%BA%F0%9F%87%B2H2 %7C 30GB (F%E2%9A%A0%EF%B8%8F)
