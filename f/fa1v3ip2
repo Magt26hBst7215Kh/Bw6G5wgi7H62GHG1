@@ -1,0 +1,98 @@
+# 2024/06/21 16:40
+# family-a1-v3-ip2 configs
+
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v3-ip2 | 06/21, 16:40 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
+
+# wireguard
+
+warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp
+wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7 | wireguard
+
+# kmhtg configs:
+# ss
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFckpHM09qb3A5OXVHSVl6@admin.c4.webramz.co:443?outline=1&prefix=POST%20V255f6fh#🇺🇲K2449263
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFckpHM09qb3A5OXVHSVl6@emamkazem.qawqa.link:443?outline=1&prefix=POST%20m255f6fv#🇺🇲K2449263
+
+# vless de1
+
+// 1
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 1 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 1 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 2
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.31.16.58:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 2 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.31.16.58:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 2 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.31.16.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 2 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.31.16.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 2 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 3
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 3 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 3 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 3 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.209.68:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 3 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 4
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.25:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 4 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.25:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 4 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.25:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 4 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.25:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 4 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 5
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.84:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 5 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.84:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 5 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.84:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 5 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.84:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 5 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 6
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.195:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 6 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.195:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 6 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.195:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 6 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.195:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 6 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 7
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 7 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 7 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 8
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.40:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 8 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.40:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 8 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.40:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 8 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.40:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 8 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 9
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.174.138.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 9 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.174.138.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 9 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.174.138.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 9 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.174.138.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 9 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 10
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.41:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 10 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.41:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 10 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.41:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 10 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@45.131.208.41:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 10 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 11
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 11 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 11 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 11 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 11 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 12
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 12 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 12 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 12 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 12 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 13
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 13 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 13 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 13 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 13 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 14
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 14 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 14 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 14 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 14 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 15
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 15 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 15 | 80 W
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 15 | 443 P
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA | 15 | 443 D (F%E2%9A%A0%EF%B8%8F)
+
+
+# END OF SUBSCRIPTION
