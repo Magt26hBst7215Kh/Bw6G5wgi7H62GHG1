@@ -1,7 +1,7 @@
-# 2024/07/03 11:25
+# 2024/07/04 00:04
 # family-a1-v4-gcore configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4-g | 07/03, 11:25 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4-g | 07/04, 00:04 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -28,6 +28,32 @@ vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&se
 # vless de1
 # gcore
 // 1
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA 1 - 443
+// 2
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 2 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 2 - 443
+// 3
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 3 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 3 - 443
+// 4
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 4 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 4 - 443
+// 5
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 5 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 5 - 443
+// 6
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.135:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 6 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.135:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 6 - 443
+// 7
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.133:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.133:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 7 - 443
+// 8
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.189:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 8 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.189:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 8 - 443
+// 9
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.254:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.kmhtg.in.eu.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 9 - 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.254:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 9 - 443
 
 
 # END OF SUBSCRIPTION
