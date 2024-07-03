@@ -1,7 +1,7 @@
-# 2024/07/03 11:25
+# 2024/07/03 23:50
 # family-a1-v3-ip2 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v3-ip2 | 07/03, 11:25 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v3-ip2 | 07/03, 23:50 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -26,8 +26,6 @@ vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.21.69.44:443?path=%2Fgraphql&se
 vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮
 
 # vless de1
-// gcore
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.kmhtg.in.eu.org&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA %7C g1
 // 1
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80. D
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80 W
