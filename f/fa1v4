@@ -1,7 +1,7 @@
-# 2024/07/04 00:13
+# 2024/07/06 21:39
 # family-a1-v4 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4 | 07/04, 00:14 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4 | 07/06, 21:39 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -15,10 +15,10 @@ wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:2408?a
 # ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cUlVOWNCY0VTcTFzUFdD@admin.c4.webramz.co:443?outline=1&prefix=POST%20V258a56J#🇺🇲K2460246
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cUlVOWNCY0VTcTFzUFdD@emamkazem.qawqa.link:443?outline=1&prefix=POST%20j258a56K#🇺🇲K2460246
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@admin.c2.webramz.co:443?outline=1&prefix=POST%20g258a51Q#🇮🇪K2460241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@emamhosayn.qawqa.link:443?outline=1&prefix=POST%20t258a51p#🇮🇪K2460241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@admin.c3.webramz.co:443?outline=1&prefix=POST%20r259e6eH#🇬🇧K2465390
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@emambaqer.qawqa.link:443?outline=1&prefix=POST%20K259e6es#🇬🇧K2465390
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@admin.c2.webramz.co:443?outline=1&prefix=POST%20g258a51Q#🇦🇪K2460241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@emamhosayn.qawqa.link:443?outline=1&prefix=POST%20t258a51p#🇦🇪K2460241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@admin.c3.webramz.co:443?outline=1&prefix=POST%20r259e6eH#🇧🇭K2465390
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@emambaqer.qawqa.link:443?outline=1&prefix=POST%20K259e6es#🇧🇭K2465390
 
 # arashvpn
 vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮
