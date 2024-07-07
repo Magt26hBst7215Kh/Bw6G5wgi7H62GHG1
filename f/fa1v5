@@ -1,0 +1,65 @@
+# 2024/07/07 17:15
+# family-a1-v5 configs
+
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v5 | 07/07, 17:15 :آخرین آپدیت
+s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
+s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
+s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
+
+# wireguard
+
+warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp
+wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7 | wireguard
+
+# kmhtg configs:
+# ss
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cUlVOWNCY0VTcTFzUFdD@admin.c4.webramz.co:443?outline=1&prefix=POST%20V258a56J#🇺🇲K2460246
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cUlVOWNCY0VTcTFzUFdD@emamkazem.qawqa.link:443?outline=1&prefix=POST%20j258a56K#🇺🇲K2460246
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@admin.c2.webramz.co:443?outline=1&prefix=POST%20g258a51Q#🇦🇪K2460241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeFVCb0YyWmVVMlFwR0RW@emamhosayn.qawqa.link:443?outline=1&prefix=POST%20t258a51p#🇦🇪K2460241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@admin.c3.webramz.co:443?outline=1&prefix=POST%20r259e6eH#🇧🇭K2465390
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcFY0T2o5UEZtc0hOZGY1@emambaqer.qawqa.link:443?outline=1&prefix=POST%20K259e6es#🇧🇭K2465390
+
+# arashvpn
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮
+vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮
+vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮
+
+# vless de1
+
+# cf
+// 1
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c1.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 1 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c1.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 1 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 2
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c2.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 2 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c2.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 2 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 3
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c3.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 3 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c3.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 3 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 4
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c4.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 4 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c4.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 4 | 443 D (F%E2%9A%A0%EF%B8%8F)
+// 5
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c5.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 5 | 80. D
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@c5.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 5 | 443 D (F%E2%9A%A0%EF%B8%8F)
+
+# gcore
+// 6
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g1.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 6 | 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g1.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 6 | 443
+// 7
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g2.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 7 | 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g2.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 7 | 443
+// 8
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g3.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 8 | 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g3.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 8 | 443
+// 9
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g4.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 9 | 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g4.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 9 | 443
+// 10
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g5.20240706.Ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 10 | 80
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@g5.20240706.Ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 10 | 443
+
+
+# END OF SUBSCRIPTION
