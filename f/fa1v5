@@ -1,7 +1,7 @@
-# 2024/07/07 23:15
+# 2024/07/08 20:03
 # family-a1-v5 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v5 | 07/07, 23:15 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v5 | 07/08, 20:03 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -28,38 +28,38 @@ vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&se
 # vless de1
 
 # cf
-// 1
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | c1  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | c1  443
-// 2
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | c2  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | c2  443
-// 3
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | c3  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | c3  443
-// 4
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | c4  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | c4  443
-// 5
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | c5  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cl1.20240706.Ir&type=ws&sni=cl1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | c5  443
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 01 tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 02  tls
+// 03
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 03  tls
+// 04
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 04  tls
+// 05
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 05  tls
 
 # gcore
-// 1
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | g1  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | g1  443
-// 2
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | g2  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | g2  443
-// 3
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | g3  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | g3  443
-// 4
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | g4  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | g4  443
-// 5
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gl1.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | g5  80
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gl1.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | g5  443
+// 06
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=GL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 06  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=GL1.20240706.IR&type=ws&sni=gCorE.cOm#%F0%9F%87%A9%F0%9F%87%AA | 06  tls
+// 07
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=GL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 07  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.134:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=GL1.20240706.IR&type=ws&sni=gCorE.cOm#%F0%9F%87%A9%F0%9F%87%AA | 07  tls
+// 08
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=GL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 08  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.141:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=GL1.20240706.IR&type=ws&sni=gCorE.cOm#%F0%9F%87%A9%F0%9F%87%AA | 08  tls
+// 09
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=GL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 09  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=GL1.20240706.IR&type=ws&sni=gCorE.cOm#%F0%9F%87%A9%F0%9F%87%AA | 09  tls
+// 10
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=GL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 10  no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.140:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=GL1.20240706.IR&type=ws&sni=gCorE.cOm#%F0%9F%87%A9%F0%9F%87%AA | 10  tls
 
 
 # END OF SUBSCRIPTION
