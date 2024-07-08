@@ -1,7 +1,7 @@
-# 2024/07/08 20:03
+# 2024/07/08 20:05
 # family-a1-v5 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v5 | 07/08, 20:03 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v5 | 07/08, 20:05 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
@@ -30,7 +30,7 @@ vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&se
 # cf
 // 01
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01  no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 01 tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 01  tls
 // 02
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=CL1.20240706.IR.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02  no-tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=CL1.20240706.IR&type=ws&sni=CL1.20240706.IR#%F0%9F%87%A9%F0%9F%87%AA | 02  tls
