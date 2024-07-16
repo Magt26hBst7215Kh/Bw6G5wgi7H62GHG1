@@ -1,13 +1,12 @@
-# 2024/07/16 11:31
+# 2024/07/16 11:33
 # family-a1-v4 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4 | 07/16, 11:31 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v4 | 07/16, 11:33 :آخرین آپدیت
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTE=@127.0.0.1:1080#بروزرسانی اشتراک 👈🏼 تاخیر واقعی... 👈🏼 مرتب‌سازی...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXVwZGF0ZTI=@127.0.0.1:1080#update subscription 👉🏼 real delay... 👉🏼 sorting by...
 s##s://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LWZyYWdtZW50@127.0.0.1:1080#(F%E2%9A%A0%EF%B8%8F) = turn on fragment in settings!
 
 # wireguard
-
 warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp
 wireguard://WCRjXvPldcRpPL00ZDq52ouPtkgdcSVagdMy4Kncjlo%3D@188.114.98.224:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8379%3A6b96%3A66a6%3A6fd9%3A56f5%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7 | wireguard
 
