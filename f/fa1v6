@@ -1,7 +1,7 @@
-# 2024/07/22 18:24
+# 2024/07/23 19:01
 # family-a1-v6 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v6 | 07/22, 18:24 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v6 | 07/23, 19:01 :آخرین آپدیت
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUx@127.0.0.1:1080#⚠️ لینک پایین رو در برنامه outline اضافه کنید ⚠️
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUy@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mhtgOutline
 
@@ -10,36 +10,36 @@ warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp
 
 # arashvpn
 vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮01
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮02
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮03
+vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.21.69.44:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮02
+vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.21.69.44:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#🇫🇮03
 
 # kmhtg configs:
 # vless de1
 # cf
 // 01
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01 - d | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01 - w | no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 01 - p | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01 - w | no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 01 - p | tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=dl1.mhtg1.fIlegeaR-Sg.mE#%F0%9F%87%A9%F0%9F%87%AA | 01 - d | tls (F%E2%9A%A0%EF%B8%8F)
 // 02
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02 - d | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02 - w | no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 02 - p | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02 - w | no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 02 - p | tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=dl1.mhtg1.fIlegeaR-Sg.mE#%F0%9F%87%A9%F0%9F%87%AA | 02 - d | tls (F%E2%9A%A0%EF%B8%8F)
 // 03
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03 - d | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03 - w | no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 03 - p | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03 - w | no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 03 - p | tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=dl1.mhtg1.fIlegeaR-Sg.mE#%F0%9F%87%A9%F0%9F%87%AA | 03 - d | tls (F%E2%9A%A0%EF%B8%8F)
 // 04
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04 - d | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04 - w | no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 04 - p | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04 - w | no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 04 - p | tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=dl1.mhtg1.fIlegeaR-Sg.mE#%F0%9F%87%A9%F0%9F%87%AA | 04 - d | tls (F%E2%9A%A0%EF%B8%8F)
 // 05
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05 - d | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05 - w | no-tls
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 05 - p | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05 - w | no-tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA | 05 - p | tls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=dl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=dl1.mhtg1.fIlegeaR-Sg.mE#%F0%9F%87%A9%F0%9F%87%AA | 05 - d | tls (F%E2%9A%A0%EF%B8%8F)
 
 # gcore
