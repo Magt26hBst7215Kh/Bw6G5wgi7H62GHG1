@@ -1,0 +1,15 @@
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+samantel+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=v1.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+samantel+%7C+NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+samantel+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+samantel+%7C+noHost+%2C+noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=v1.20240706.Ir&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+samantel+%7C+TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+mci+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=v1.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+mci+%7C+NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+mci+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+mci+%7C+noHost+%2C+noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=v1.20240706.Ir&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+mci+%7C+TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+irancell+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=v1.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+irancell+%7C+NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+irancell+%7C+noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+irancell+%7C+noHost+%2C+noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@v1.20240706.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=v1.20240706.Ir&type=ws&sni=v1.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA+%7C+irancell+%7C+TLS
