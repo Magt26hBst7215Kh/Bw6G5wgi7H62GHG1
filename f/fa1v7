@@ -1,7 +1,7 @@
-# 2024/07/28 19:41
+# 2024/07/28 23:38
 # family-a1-v7 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v7 | 07/28, 19:41 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v7 | 07/28, 23:38 :آخرین آپدیت
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUx@127.0.0.1:1080#⚠️ لینک‌های پایین رو در برنامه outline اضافه کنید ⚠️
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUy@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#moryOutline
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUz@127.0.0.1:1080#ssconf://sub.mhtg.ir/f/outline#moryOutline-2
@@ -12,21 +12,21 @@ ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRnMg==@127.0.0.1:1080#https://t.me/mhtgbots/2
 warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp ip-IRAN
 
 # arashvpn
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@154.83.2.4:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@154.83.2.4:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@154.83.2.4:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@194.53.53.7:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@194.53.53.7:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@194.53.53.7:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@185.238.228.6:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@185.238.228.6:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@185.238.228.6:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.16.0.16:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.16.0.16:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.16.0.16:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@103.21.244.3:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
-vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@103.21.244.3:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
-vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@103.21.244.3:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
+vl##ess://f4c2c296-7464-48ba-9b84-5db74eb0ccae@154.83.2.4:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
+vl##ess://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@154.83.2.4:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
+vl##ess://c78731fa-1a44-4e71-aa27-afe8c5716ace@154.83.2.4:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE01
+vl##ess://f4c2c296-7464-48ba-9b84-5db74eb0ccae@194.53.53.7:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
+vl##ess://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@194.53.53.7:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
+vl##ess://c78731fa-1a44-4e71-aa27-afe8c5716ace@194.53.53.7:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE02
+vl##ess://f4c2c296-7464-48ba-9b84-5db74eb0ccae@185.238.228.6:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
+vl##ess://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@185.238.228.6:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
+vl##ess://c78731fa-1a44-4e71-aa27-afe8c5716ace@185.238.228.6:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE03
+vl##ess://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.16.0.16:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
+vl##ess://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@104.16.0.16:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
+vl##ess://c78731fa-1a44-4e71-aa27-afe8c5716ace@104.16.0.16:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE04
+vl##ess://f4c2c296-7464-48ba-9b84-5db74eb0ccae@103.21.244.3:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
+vl##ess://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@103.21.244.3:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
+vl##ess://c78731fa-1a44-4e71-aa27-afe8c5716ace@103.21.244.3:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE05
 vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@zula.ir:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE06
 vless://b48815b3-3ba9-4cdf-8776-fbaf6efefc5a@zula.ir:443?path=%2Fgraphql%3Fed%3D2048&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE06
 vless://c78731fa-1a44-4e71-aa27-afe8c5716ace@zula.ir:443?path=%2Fgraphql%3Fed%3D2560&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE06
