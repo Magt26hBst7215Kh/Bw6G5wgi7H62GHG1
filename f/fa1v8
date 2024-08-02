@@ -11,11 +11,6 @@ ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRnMg==@127.0.0.1:1080#https://t.me/mhtgbots/2
 # warp
 warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp ip-IRAN
 
-# arashvpn
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@zula.ir:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.187:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.181:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G
-
 # kmhtg configs:
 # serv01.20240706.Ir
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NO-TLS | noHost
@@ -52,6 +47,11 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.htm
 // 08
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 08 - d | no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 08 - d | tls
+
+# arashvpn
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@zula.ir:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.187:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.181:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G2
 
 
 # END OF SUBSCRIPTION
