@@ -1,7 +1,7 @@
-# 2024/08/02 11:38
+# 2024/08/02 11:40
 # family-a1-v8 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v8 | 08/02, 11:38 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v8 | 08/02, 11:40 :آخرین آپدیت
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUx@127.0.0.1:1080#⚠️ لینک‌های پایین رو در برنامه outline اضافه کنید ⚠️
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUy@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#moryOutline
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUz@127.0.0.1:1080#ssconf://sub.mhtg.ir/f/outline#moryOutline-2
@@ -13,40 +13,40 @@ warp://auto#%F0%9F%87%AE%F0%9F%87%B7 | warp ip-IRAN
 
 # kmhtg configs:
 # serv01.20240706.Ir
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NO-TLS | noHost
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NO-TLS
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | TLS | noHost
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | TLS | noHost , noSni
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NO-TLS | noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA | NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | TLS | noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA | TLS | noHost , noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | TLS
 
 # vless de1
 # cf
 // 01
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 01 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 01 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@154.83.2.4:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 01 | tls
 // 02
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 02 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 02 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@194.53.53.7:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 02 | tls
 // 03
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 03 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 03 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@185.238.228.6:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 03 | tls
 // 04
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 04 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 04 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.16.0.16:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 04 | tls
 // 05
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 05 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 05 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@103.21.244.3:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 05 | tls
 // 06
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 06 | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 06 | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 06 | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA | 06 | tls
 
 # gcore
 // 07
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 07 - G | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 07 - G | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html&security=none&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 07 - G | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html&security=tls&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 07 - G | tls
 // 08
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2Findex.html%3Fed%3D2048&security=none&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 08 - G | no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 08 - G | tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:80?path=%2Findex.html&security=none&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE.&type=ws#%F0%9F%87%A9%F0%9F%87%AA | 08 - G | no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2Findex.html&security=tls&encryption=none&host=gl1.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA | 08 - G | tls
 
 # arashvpn
 vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@zula.ir:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal
