@@ -1,7 +1,7 @@
-# 2024/08/02 11:40
+# 2024/08/04 16:33
 # family-a1-v8 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v8 | 08/02, 11:40 :آخرین آپدیت
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v8 | 08/04, 16:33 :آخرین آپدیت
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUx@127.0.0.1:1080#⚠️ لینک‌های پایین رو در برنامه outline اضافه کنید ⚠️
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUy@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#moryOutline
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUz@127.0.0.1:1080#ssconf://sub.mhtg.ir/f/outline#moryOutline-2
@@ -50,8 +50,9 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.181:443?path=%2Findex.htm
 
 # arashvpn
 vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@zula.ir:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.187:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G
-vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@93.123.17.181:443?path=%2Fgraphql&security=tls&encryption=none&host=gl3.mhtg1.fIlegeaR-Sg.mE&type=ws&sni=gcore.com#%F0%9F%87%AB%F0%9F%87%AE - G2
-
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@104.21.69.44:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal 2
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@172.67.204.84:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal 3
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@[2606:4700:3031:0000:0000:0000:ac43:cc54]:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal 4
+vless://f4c2c296-7464-48ba-9b84-5db74eb0ccae@[2606:4700:3032:0000:0000:0000:6815:452c]:443?path=%2Fgraphql&security=tls&encryption=none&host=v4.smartyevent.click&type=ws&sni=v4.smartyevent.click#%F0%9F%87%AB%F0%9F%87%AE - Normal 5
 
 # END OF SUBSCRIPTION
