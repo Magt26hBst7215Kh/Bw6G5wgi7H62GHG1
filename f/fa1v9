@@ -1,7 +1,7 @@
-# 2024/08/16 - 19:22
+# 2024/08/16 - 19:28
 # family-a1-v9 configs
 
-ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v9%20|%2008/16%20-%2019:22
+ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LXRpbWU=@127.0.0.1:1080#a1-v9%20|%2008/16%20-%2019:28
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUx@127.0.0.1:1080#⚠️%20لینک‌های%20پایین%20رو%20در%20برنامه%20outline%20اضافه%20کنید%20⚠️
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUy@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mory1
 ss://bm9uZTp0Lm1lL1RoZVJlYWxNb3J5LW91dGxpbmUz@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline2#mory2
@@ -41,17 +41,17 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html&secu
 
 # gcore
 // 01
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20-%20G%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20-%20G%20|%20tls
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20tls
 // 02
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20-%20G%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-fr5.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20-%20G%20|%20tls
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-fr5.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2002%20|%20tls
 // 03
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20-%20G%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-am3.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20-%20G%20|%20tls
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2003%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-am3.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2003%20|%20tls
 // 04
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20-%20G%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20-%20G%20|%20tls
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20tls
 
 
 # END OF SUBSCRIPTION
