@@ -1,7 +1,7 @@
-# 2024/08/27 - 11:23
+# 2024/08/27 - 11:47
 # family-a1-v9 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9%20|%2008/27%20-%2011:23
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9%20|%2008/27%20-%2011:47
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTE=@127.0.0.1:1080#⚠️%20لینک‌های%20پایین%20رو%20در%20برنامه%20outline%20اضافه%20کنید%20⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTI=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mory1
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTM=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline2#mory2
@@ -24,32 +24,20 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Finde
 # vless de1
 # cf
 // 01
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@discord.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@discord.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=login.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
 // 02
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@discordapp.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@discordapp.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=login.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
 // 03
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@time.cloudflare.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@time.cloudflare.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=login.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20tls
 // 04
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=login.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
 // 05
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
-// 06
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2006%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2006%20|%20tls
-// 07
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20tls
-// 08
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@metrix.ir:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2008%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@metrix.ir:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2008%20|%20tls
-// 09
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2009%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2009%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=login.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
 
 # gcore
 // 01
