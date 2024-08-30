@@ -1,7 +1,7 @@
-# 2024/08/30 - 01:39
+# 2024/08/30 - 18:04
 # family-a1-v9 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9%20|%2008/30%20-%2001:39
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9%20|%2008/30%20-%2018:04
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTE=@127.0.0.1:1080#⚠️%20لینک‌های%20پایین%20رو%20در%20برنامه%20outline%20اضافه%20کنید%20⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTI=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mory1
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTM=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline2#mory2
@@ -60,7 +60,6 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@2.189.59.7:443?path=%2Findex.html&s
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@2.189.59.11:80?path=%2Findex.html&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2012%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@2.189.59.11:443?path=%2Findex.html&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=lmlmlmlmklmlmlmm.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2012%20|%20tls
 
-
 # gcore
 // 01
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20no-tls.
@@ -74,6 +73,10 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2
 // 04
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20tls
+
+# serv00.com
+vmess://eyJhZGQiOiJzZXJ2MDMuMjAyNDA3MDYuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWJlMzExYWQtNjhmNi00ZWI0LTllZjAtYjA4Mjg4MjZjYmI2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MTciLCJwcyI6IuKBie+4jyBTTE9XIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjguMjA0LjIyMy40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YmUzMTFhZC02OGY2LTRlYjQtOWVmMC1iMDgyODgyNmNiYjYiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIzNzkxNyIsInBzIjoi4oGJ77iPIFNMT1cgLSBJUCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 
 # END OF SUBSCRIPTION
