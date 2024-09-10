@@ -1,7 +1,7 @@
-# 2024/08/31 - 13:21
+# 2024/09/10 - 15:31
 # family-a1-v9 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9 | 08/31 - 13:21
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v9 | 09/10 - 15:31
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTE=@127.0.0.1:1080#⚠️ لینک‌های پایین رو در برنامه outline اضافه کنید ⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTI=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mory1
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTM=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline2#mory2
@@ -52,6 +52,10 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2
 // 04
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:80?path=%2Findex.html&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20tls
+
+# others
+// fr
+vmess://eyJhZGQiOiJpbmRpYXZpZGVvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+HtyB8IEZSIHwg2YHYsdin2YbYs9mHIiwic2N5IjoiYXV0byIsInNuaSI6ImluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 # serv00.com
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c2xvd0NvbmYx@127.0.0.1:1080#⚠️ سرعت کانفیگ‌های پایین برای دانلود و آپلود مناسب نیست ⚠️
