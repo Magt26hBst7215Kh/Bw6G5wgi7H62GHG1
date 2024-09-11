@@ -1,0 +1,67 @@
+# 2024/09/11 - 23:15
+# family-a1-v10 configs
+
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/11 - 23:15
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTE=@127.0.0.1:1080#⚠️ لینک‌های پایین رو در برنامه outline اضافه کنید ⚠️
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTI=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline#mory1
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/b3V0bGluZTM=@127.0.0.1:1080#ssconf://sub.mhtg.workers.dev/f/outline2#mory2
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGcx@127.0.0.1:1080#⚠️ لینک پایین را در تلگرام ارسال و ربات‌هارا استارت و فیلترشکن دریافت کنید ⚠️
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGcy@127.0.0.1:1080#https://t.me/mhtgbots/2
+
+# warp
+warp://auto#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp
+warp://auto4#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp-v4
+warp://auto6#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp-v6
+
+# kmhtg configs:
+# serv01.20240706.Ir
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20NO-TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS%20|%20noHost%20,%20noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS
+
+# vless de1
+# cf
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=abababababba.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=bcbcbcbcbcbcc.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
+// 03
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=cdcdcddcdccdcd.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20tls
+// 04
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=dededdededede.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
+// 05
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
+
+# gcore
+// 01
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20tls
+// 02
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-fr5.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2002%20|%20tls
+// 03
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2003%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-am3.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2003%20|%20tls
+// 04
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv02.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.Ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20tls
+
+# others
+// fr
+vmess://eyJhZGQiOiJpbmRpYXZpZGVvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+HtyB8IEZSIHwg2YHYsdin2YbYs9mHIiwic2N5IjoiYXV0byIsInNuaSI6ImluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# serv00.com
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c2xvd0NvbmYx@127.0.0.1:1080#⚠️ سرعت کانفیگ‌های پایین برای دانلود و آپلود مناسب نیست ⚠️
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c2xvd0NvbmYy@127.0.0.1:1080#⚠️ فقط برای پیام و در صورتی بقیه کانفیگ‌ها متصل نمیشوند ⚠️
+vmess://eyJhZGQiOiJzZXJ2MDMuMjAyNDA3MDYuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWJlMzExYWQtNjhmNi00ZWI0LTllZjAtYjA4Mjg4MjZjYmI2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MTciLCJwcyI6IvCfkqIgU0xPVyB8IFRFWFQgT05MWSDwn5KiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjguMjA0LjIyMy40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YmUzMTFhZC02OGY2LTRlYjQtOWVmMC1iMDgyODgyNmNiYjYiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIzNzkxNyIsInBzIjoi8J+SoiBTTE9XIHwgVEVYVCBPTkxZIC0gSVAg8J+SoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+
+
+# END OF SUBSCRIPTION
