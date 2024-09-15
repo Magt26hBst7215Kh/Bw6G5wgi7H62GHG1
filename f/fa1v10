@@ -1,16 +1,11 @@
-# 2024/09/11 - 23:40
+# 2024/09/16 - 01:15
 # family-a1-v10 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/11 - 23:40
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/16 - 01:15
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dnBuQm90cw==@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzE=@127.0.0.1:1080#⚠️ لینک پایین رو در برنامه وارد و کانفیگ‌های جدید دریافت کنید ⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzI=@127.0.0.1:1080#https://sub.mhtg.workers.dev/f/fa2
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c3RhcnQ=@127.0.0.1:1080#شروع کانفیگ ها 👇🏼
-
-# warp
-warp://auto#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp
-warp://auto4#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp-v4
-warp://auto6#%F0%9F%87%AE%F0%9F%87%B7%20|%20warp-v6
 
 # kmhtg configs:
 # serv01.20240706.Ir
@@ -37,6 +32,12 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=%2Findex.html%3Fe
 // 05
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
+// 06
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2006%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2006%20|%20tls
+// 07
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20tls
 
 # gcore
 // 01
