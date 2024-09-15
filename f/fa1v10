@@ -1,7 +1,7 @@
-# 2024/09/16 - 01:15
+# 2024/09/16 - 01:34
 # family-a1-v10 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/16 - 01:15
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/16 - 01:34
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dnBuQm90cw==@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzE=@127.0.0.1:1080#⚠️ لینک پایین رو در برنامه وارد و کانفیگ‌های جدید دریافت کنید ⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzI=@127.0.0.1:1080#https://sub.mhtg.workers.dev/f/fa2
@@ -38,6 +38,15 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@23.227.38.188:443?path=%2Findex.htm
 // 07
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.21.94.39:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2007%20|%20tls
+// 08
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:3033::6815:23f5]:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2008%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:3033::6815:23f5]:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2008%20|%20tls
+// 09
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:45ec]:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2009%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:45ec]:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2009%20|%20tls
+// 10
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=edffffeffeef.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20tls
 
 # gcore
 // 01
