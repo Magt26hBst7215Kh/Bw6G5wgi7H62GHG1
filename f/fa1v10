@@ -1,7 +1,7 @@
-# 2024/09/21 - 15:38
+# 2024/09/21 - 15:48
 # family-a1-v10 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/21 - 15:38
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/21 - 15:48
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dnBuQm90cw==@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzE=@127.0.0.1:1080#⚠️ لینک پایین رو در برنامه وارد و کانفیگ‌های جدید دریافت کنید ⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzI=@127.0.0.1:1080#https://sub.mhtg.workers.dev/f/fa2
@@ -9,13 +9,13 @@ ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c3RhcnQ=@127.0.0.1:1080#شروع کانفیگ ها 
 
 # kmhtg configs:
 # w = ff1-de1-20240212.128128.Workers.Dev
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20w%20-%20NO-TLS
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws&sni=ff1-de1-20240212.128128.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%20w%20-%20TLS
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20w%20-%20NO-TLS
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128.Workers.Dev&type=ws&sni=ff1-de1-20240212.128128.Workers.Dev#%F0%9F%87%A9%F0%9F%87%AA%20w%20-%20TLS
 # p = ff1-de1-20240212-128128.Pages.Dev
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA%20p%20-%20TLS
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212-128128.Pages.Dev&type=ws&sni=ff1-de1-20240212-128128.Pages.Dev#%F0%9F%87%A9%F0%9F%87%AA%20p%20-%20TLS
 # d1 = dl1.ff1dew.TmBAX300.X10.Mx
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20d1%20-%20NO-TLS
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA%20d1%20-%20TLS%20%28F%E2%9A%A0%EF%B8%8F%29
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20d1%20-%20NO-TLS
+vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=dl1.ff1dew.TmBAX300.X10.Mx&type=ws&sni=dl1.ff1dew.TmBAX300.X10.Mx#%F0%9F%87%A9%F0%9F%87%AA%20d1%20-%20TLS%20%28F%E2%9A%A0%EF%B8%8F%29
 # d2 = serv01.20240706.Ir
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20d2%20-%20NO-TLS%20|%20noHost
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20d2%20-%20NO-TLS
