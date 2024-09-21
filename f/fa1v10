@@ -1,7 +1,7 @@
-# 2024/09/16 - 01:38
+# 2024/09/21 - 15:21
 # family-a1-v10 configs
 
-ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/16 - 01:38
+ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dGltZQ==@127.0.0.1:1080#a1-v10 | 09/21 - 15:21
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/dnBuQm90cw==@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzE=@127.0.0.1:1080#⚠️ لینک پایین رو در برنامه وارد و کانفیگ‌های جدید دریافت کنید ⚠️
 ss://bm9uZTp0Lm1lL0ppeW9vZ3k/ZnJhZzI=@127.0.0.1:1080#https://sub.mhtg.workers.dev/f/fa2
@@ -9,11 +9,11 @@ ss://bm9uZTp0Lm1lL0ppeW9vZ3k/c3RhcnQ=@127.0.0.1:1080#شروع کانفیگ ها 
 
 # kmhtg configs:
 # serv01.20240706.Ir
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20NO-TLS%20|%20noHost
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20NO-TLS
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS%20|%20noHost
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS%20|%20noHost%20,%20noSni
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%20TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20-%20NO-TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.Ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20-%20NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20-%20TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20-%20TLS%20|%20noHost%20,%20noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.Ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.Ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20-%20TLS
 
 # vless de1
 # cf
