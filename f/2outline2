@@ -1,1 +1,1 @@
-{"server": "emamkazem.qawqa.link", "server_port": "443", "password": "glQyKn6I4G8nfusc", "method": "chacha20-ietf-poly1305", "prefix": "K2758657"}
+{"server": "emamkazem.qawqa.link", "server_port": 443, "method": "chacha20-ietf-poly1305", "password": "glQyKn6I4G8nfusc", "prefix": "K2758657"}
