@@ -50,16 +50,6 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:45ec]:443?path=
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.ir&type=ws&sni=jkkjkjjkkjkkjjk.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20tls
 
-# gcore
-// 01
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@93.123.17.187:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.ir&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2001%20|%20tls
-// 02
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-fr5.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.ir&type=ws&sni=speedtest-fr5.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2002%20|%20tls
-// 03
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-am3.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.ir&type=ws&sni=speedtest-am3.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2003%20|%20tls
-// 04
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@speedtest-min4.gcore.com:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv02.20240706.ir&type=ws&sni=speedtest-min4.gcore.com#%F0%9F%87%A9%F0%9F%87%AA%20|%20G%20-%2004%20|%20tls
-
 # serv00.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9zbG93LWNvbmZpZzE=@127.0.0.1:1080#⚠️ سرعت کانفیگ‌های پایین برای دانلود و آپلود مناسب نیست ⚠️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9zbG93LWNvbmZpZzI=@127.0.0.1:1080#⚠️ فقط برای پیام و در صورتی بقیه کانفیگ‌ها متصل نمیشوند ⚠️
