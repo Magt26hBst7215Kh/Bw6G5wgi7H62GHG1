@@ -1,7 +1,7 @@
-# 2024/11/17 - 19:13
+# 2024/12/18 - 22:25
 # family-v2.0 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#v2.0 | 11/17 - 19:13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#v2.0 | 12/18 - 22:25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9tb3JlLXZwbi1ib3Rz@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9zdGFydA==@127.0.0.1:1080#شروع کانفیگ ها 👇🏼
 
@@ -49,6 +49,28 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:45ec]:443?path=
 // 10
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.ir&type=ws&sni=jkkjkjjkkjkkjjk.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20tls
+
+# pyip
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Dts.hpc.tw%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20%7C%20PY%20-%2001%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Dts.hpc.tw%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=abbababababab.20240706.Ir#%F0%9F%87%B9%F0%9F%87%BC%20%7C%20PY%20-%2001%20%7C%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3D%5B2a02%3A180%3A6%3A1%3A%3A46ed%5D%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20PY%20-%2002%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3D%5B2a02%3A180%3A6%3A1%3A%3A46ed%5D%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=bbccbcbcbcbc.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20PY%20-%2002%20%7C%20tls
+// 03
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Ds14.serv00.com%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2003%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Ds14.serv00.com%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=cdcdcdcdcdcd.20240706.Ir#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2003%20%7C%20tls
+// 04
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Ds10.serv00.com%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2004%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Ds10.serv00.com%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=dededdededde.20240706.Ir#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2004%20%7C%20tls
+
+# howdy fr
+trojan://3e990870-bd0b-11ef-a5bb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20H%20-%2001%20%7C%20tcp
+
+# outline
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9vdXRsaW5lLWNvbmZpZ3M=@127.0.0.1:1080#⚠️ کانفیگ‌های پایین را در برنامه outline وارد کنید ⚠️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@admin.c4.havij.co:443#https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline1%23mory1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@emamkazem.qawqa.link:443#https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline2%23mory2
 
 # serv00.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9zbG93LWNvbmZpZzE=@127.0.0.1:1080#⚠️ سرعت کانفیگ‌های پایین برای دانلود و آپلود مناسب نیست ⚠️
