@@ -1,0 +1,45 @@
+# 2025/01/10 - 02:25
+# family-v2.1.0 configs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#v2.1.0 | 01/10 - 02:25
+
+# kmhtg configs:
+# serv01.20240706.ir
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20NO-TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:80?path=%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=serv01.20240706.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20NO-TLS
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20TLS%20|%20noHost
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20TLS%20|%20noHost%20,%20noSni
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=serv01.20240706.ir&type=ws&sni=serv01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20TLS
+
+# warp
+warp://162.159.192.109:939?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2001%20%7C%20warp%20best
+warp://162.159.192.109:939?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2002%20%7C%20warp%20best
+
+# pyip
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Dts.hpc.tw%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20%7C%20PY%20-%2001%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Dts.hpc.tw%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=abbababababab.20240706.Ir#%F0%9F%87%B9%F0%9F%87%BC%20%7C%20PY%20-%2001%20%7C%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3D%5B2a02%3A180%3A6%3A1%3A%3A46ed%5D%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20PY%20-%2002%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3D%5B2a02%3A180%3A6%3A1%3A%3A46ed%5D%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=bbccbcbcbcbc.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20PY%20-%2002%20%7C%20tls
+// 03
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Ds14.serv00.com%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2003%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Ds14.serv00.com%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=cdcdcdcdcdcd.20240706.Ir#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2003%20%7C%20tls
+// 04
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:80?path=%2Fpyip%3Ds10.serv00.com%3A15661%3Fed%3D2560&security=none&encryption=none&host=serv04.20240706.ir.&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2004%20%7C%20notls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@serv04.20240706.ir:443?path=%2Fpyip%3Ds10.serv00.com%3A15661%3Fed%3D2560&security=tls&encryption=none&host=serv04.20240706.ir&fp=random&type=ws&sni=dededdededde.20240706.Ir#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20PY%20-%2004%20%7C%20tls
+
+# outline
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@admin.c4.havij.co:443#https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline1%23mory1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@emamkazem.qawqa.link:443#https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline2%23mory2
+
+# serv00.com
+vmess://eyJhZGQiOiJzZXJ2MDMuMjAyNDA3MDYuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWI5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI2MTc5OSIsInBzIjoi8J+SoiBTTE9XIC12bXMgfCBURVhUIE9OTFkg8J+SoiIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@serv03.20240706.ir:16496/?insecure=1&sni=www.bing.com#%F0%9F%92%A2%20SLOW%20-hy2%20%7C%20TEXT%20ONLY%20%F0%9F%92%A2
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@serv03.20240706.ir:16497/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#%F0%9F%92%A2%20SLOW%20-tuic%20%7C%20TEXT%20ONLY%20%F0%9F%92%A2
+vmess://eyJhZGQiOiIzMS4xODYuODYuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWI5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI2MTc5OSIsInBzIjoi8J+SoiBTTE9XIC12bXMgfCBURVhUIE9OTFkgLSBJUCDwn5KiIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.86.47:16496/?insecure=1&sni=www.bing.com#%F0%9F%92%A2%20SLOW%20-hy2%20%7C%20TEXT%20ONLY%20-%20IP%20%F0%9F%92%A2
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.86.47:16497/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#%F0%9F%92%A2%20SLOW%20-tuic%20%7C%20TEXT%20ONLY%20-%20IP%20%F0%9F%92%A2
+
+
+# END OF SUBSCRIPTION
