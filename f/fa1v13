@@ -1,7 +1,7 @@
-# 2025/01/06 - 12:53
+# 2025/01/10 - 02:20
 # family-a1-v13 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 01/06 - 12:53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 01/10 - 02:20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9tb3JlLXZwbi1ib3Rz@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 
 # kmhtg configs:
@@ -69,13 +69,10 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@20240706.ir:443?path=%2Fpyip%3D193.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@20240706.ir:80?path=%2Fpyip%3D141.148.229.106%3Fed%3D2560&security=none&encryption=none&host=SerV04.20240706.Ir.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20PY%20-%2006%20%7C%20notls
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@20240706.ir:443?path=%2Fpyip%3D141.148.229.106%3Fed%3D2560&security=tls&encryption=none&host=SerV04.20240706.Ir&fp=random&type=ws&sni=fggfgfggfgfgfg.20240706.Ir#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20PY%20-%2006%20%7C%20tls
 
-# howdy fr
-trojan://3e990870-bd0b-11ef-a5bb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#%F0%9F%87%AB%F0%9F%87%B7%20|%20H%20-%2001%20|%20tcp
-
 # emergency
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=www2.everyserver.workers.dev.&type=ws#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%201
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=www2.everyserver.workers.dev&fp=randomized&type=ws&sni=WWW2.eVerySerVer.WOrkerS.deV#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%202
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=everyserver.pages.dev&fp=randomized&type=ws&sni=eVeryServer.pageS.deV#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%203
+vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=www2.everyserver.workers.dev.&type=ws#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%201
+vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=www2.everyserver.workers.dev&fp=randomized&type=ws&sni=WWW2.eVerySerVer.WOrkerS.deV#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%202
+vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2FSerV01.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=everyserver.pages.dev&fp=randomized&type=ws&sni=eVeryServer.pageS.deV#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%203
 
 # outline
 s#s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@admin.c4.havij.co:443?outline=1&prefix=POST%20G2a1801T#K2758657
