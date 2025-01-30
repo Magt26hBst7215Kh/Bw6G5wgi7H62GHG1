@@ -1,12 +1,12 @@
 # START
 
-status - https://keep.ff1de1fm1.serv00.net/status
+status : https://keep.ff1de1fm1.serv00.net/status
 
-start - https://keep.ff1de1fm1.serv00.net/start
+start : https://keep.ff1de1fm1.serv00.net/start
 
-list - https://keep.ff1de1fm1.serv00.net/list
+list : https://keep.ff1de1fm1.serv00.net/list
 
-stop - https://keep.ff1de1fm1.serv00.net/stop
+stop : https://keep.ff1de1fm1.serv00.net/stop
 
 ----------------------------------------
 
