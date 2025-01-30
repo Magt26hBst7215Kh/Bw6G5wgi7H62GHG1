@@ -1,1 +1,12 @@
-.
+# START
+
+1- https://ff1de1fm1.serv00.net/sub_v2.log
+https://sub.mhtg.workers.dev/serv00/ff1de1fm1/v2ray.txt
+
+2- https://ff1de1fm1.serv00.net/get_sub.php?file=sub_singbox.yaml
+https://sub.mhtg.workers.dev/serv00/ff1de1fm1/singbox.txt
+
+3- https://ff1de1fm1.serv00.net/get_sub.php?file=sub_clash.yaml
+https://sub.mhtg.workers.dev/serv00/ff1de1fm1/clash.txt
+
+# END
