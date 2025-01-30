@@ -1,16 +1,12 @@
 # START
 
-1- https://keep.ff1de1fm1.serv00.net/status
-https://sub.mhtg.workers.dev/serv00/ff1de1fm1/status
+status - https://keep.ff1de1fm1.serv00.net/status
 
-2- https://keep.ff1de1fm1.serv00.net/start
-https://sub.mhtg.workers.dev/serv00/ff1de1fm1/start
+start - https://keep.ff1de1fm1.serv00.net/start
 
-3- https://keep.ff1de1fm1.serv00.net/list
-https://sub.mhtg.workers.dev/serv00/ff1de1fm1/list
+list - https://keep.ff1de1fm1.serv00.net/list
 
-4- https://keep.ff1de1fm1.serv00.net/stop
-https://sub.mhtg.workers.dev/serv00/ff1de1fm1/stop
+stop - https://keep.ff1de1fm1.serv00.net/stop
 
 ----------------------------------------
 
