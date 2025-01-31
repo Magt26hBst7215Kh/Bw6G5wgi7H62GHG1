@@ -1,7 +1,7 @@
-# 2025/01/31 - 16:06
+# 2025/01/31 - 16:27
 # family-a1-v13 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 01/31 - 16:06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 01/31 - 16:27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9tb3JlLXZwbi1ib3Rz@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 
 # kmhtg configs:
@@ -12,9 +12,13 @@ vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Find
 vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20TLS%20|%20noHost%20,%20noSni
 vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=SerV01.20240706.Ir&type=ws&sni=SerV01.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20TLS
 
-# warp
-warp://162.159.192.109:939?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2001%20%7C%20warp%20best
-warp://162.159.192.109:939?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2002%20%7C%20warp%20best
+# warp / wireguard
+wa#rp://162.159.192.109:939?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2001%20%7C%20warp%20best
+wa#rp://162.159.192.109:939?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2002%20%7C%20warp%20best
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@162.159.192.100:4500?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.97.238:8854?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2003
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@162.159.195.224:2371?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2004
 
 # vless de1
 # cf
