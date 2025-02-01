@@ -1,6 +1,6 @@
 # START
 
 1- https://getafreenode.com/subscribe/?uuid=cb2f19fc-0636-44da-a3cd-f3de975fca12
-https://sub.mhtg.workers.dev/gafn?uuid=cb2f19fc-0636-44da-a3cd-f3de975fca12
+https://sub.mhtg.workers.dev/gafn/cb2f19fc-0636-44da-a3cd-f3de975fca12
 
 # END
