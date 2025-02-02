@@ -1,7 +1,7 @@
-# 2025/01/31 - 16:27
+# 2025/02/02 - 13:51
 # family-a1-v13 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 01/31 - 16:27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-v13 | 02/02 - 13:51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9tb3JlLXZwbi1ib3Rz@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 
 # kmhtg configs:
@@ -83,12 +83,6 @@ s#s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@admin.c4.havij.co:443
 s#s://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbFF5S242STRHOG5mdXNj@emamkazem.qawqa.link:443?outline=1&prefix=POST%20v2a1801u#K2758657
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWHZVVlNyc2lqVnJzbUk0@admin.c3.havij.co:443#OUTLINE:%20https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline1%23mory1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWHZVVlNyc2lqVnJzbUk0@emambaqer.qawqa.link:443#OUTLINE:%20https%3A%2F%2Fsub.mhtg.workers.dev%2Ff%2Foutline2%23mory2
-
-# ss
-// sshmax
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRGcxWldZeg==@is2.opensocks.site:8388#SSHMAX-Shadowsocks IS 02_exp31Jan25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRGcxWldZeg==@is2.opensocks.site:8139/?plugin=obfs-local;obfs=http;obfs-host=ct.cloudflare.com;obfs-uri=/#SSHMAX-Shadowsocks IS 02-HTTP_exp31Jan25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRGcxWldZeg==@is2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/#SSHMAX-Shadowsocks IS 02-TLS_exp31Jan25
 
 # serv00.com Poland
 // argo
