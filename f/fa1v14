@@ -1,7 +1,7 @@
-# 2025/02/02 - 13:56
+# 2025/02/02 - 14:10
 # family-a1-v14 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-14 | 02/02 - 13:56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT91cGRhdGUtdGltZQ==@127.0.0.1:1080#a1-14 | 02/02 - 14:10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbT9tb3JlLXZwbi1ib3Rz@127.0.0.1:1080#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 
 # kmhtg configs:
@@ -15,8 +15,8 @@ vl#ess://6b3a0022-1037-4df2-ab6f-5856689c407a@serv01.20240706.ir:443?path=index.
 # warp / wireguard
 warp://188.114.98.224:880?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2001%20%7C%20warp%20best
 warp://188.114.98.224:880?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#%F0%9F%87%AE%F0%9F%87%B7%20%7C%2002%20%7C%20warp%20best
-wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
-wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
 
 # vless de1
 # cf
