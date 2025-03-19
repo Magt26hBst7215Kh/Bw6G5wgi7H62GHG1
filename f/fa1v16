@@ -1,7 +1,7 @@
-# 2025/03/19 - 15:22
+# 2025/03/19 - 15:28
 # family-a1-v16 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-16 | 03/19 - 15:22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-16 | 03/19 - 15:28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots:2#فیلترشکن‌های بیشتر: https://t.me/mhtgbots/2
 
 # warp / wireguard
@@ -43,9 +43,9 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:80?path=i
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@[2606:4700:20::ac43:42b1]:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=2g2I4j8g.20240706.Ir&type=ws&sni=2g2I4j8g.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2010%20|%20tls
 
 # emergency
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2F2g2I4j8g.20240706.Ir%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=www2.everyserver.workers.dev.&type=ws#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%201
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2F2g2I4j8g.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=www2.everyserver.workers.dev&fp=randomized&type=ws&sni=WWW2.eVerySerVer.WOrkerS.deV#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%202
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2F2g2I4j8g.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=everyserver.pages.dev&fp=randomized&type=ws&sni=eVeryServer.pageS.deV#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%203
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=%2F2g2I4j8gjdlcnohrtemfv2o9h095zzb2.20240706.Ir%2Findex.html%3Fed%3D2560&security=none&encryption=none&host=www2.everyserver.workers.dev.&type=ws#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%201
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2F2g2I4j8gjdlcnohrtemfv2o9h095zzb2.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=www2.everyserver.workers.dev&fp=randomized&type=ws&sni=WWW2.eVerySerVer.WOrkerS.deV#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%202
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=%2F2g2I4j8gjdlcnohrtemfv2o9h095zzb2.20240706.Ir%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=everyserver.pages.dev&fp=randomized&type=ws&sni=eVeryServer.pageS.deV#🇩🇪%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%203
 
 # serv00.com Poland
 // normal
