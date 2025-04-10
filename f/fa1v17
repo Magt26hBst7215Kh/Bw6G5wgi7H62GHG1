@@ -1,0 +1,30 @@
+# 2025/04/10 - 19:31
+# family-a1-v17 configs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-17 | 04/10 - 19:31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-2:3#⚠️لینک پایین را در تلگرام باز کنید.⚠️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-3:4#⚠️ https://t.me/mhtgbots/7 ⚠️
+
+# warp / wireguard
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
+
+# kmhtg configs:
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=gWIdfyen.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@www.speedtest.net:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=gWIdfyen.20240706.Ir&type=ws&sni=gWIdfyen.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=gWIdfyen.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@zula.ir:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=gWIdfyen.20240706.Ir&type=ws&sni=gWIdfyen.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
+// 03
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=gWIdfyen.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=gWIdfyen.20240706.Ir&type=ws&sni=gWIdfyen.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20tls
+// 04
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=gWIdfyen.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=gWIdfyen.20240706.Ir&type=ws&sni=gWIdfyen.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
+// 05
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=gWIdfyen.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=gWIdfyen.20240706.Ir&type=ws&sni=gWIdfyen.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
+
+
+# END OF SUBSCRIPTION
