@@ -1,7 +1,7 @@
-# 2025/05/27 - 20:45
+# 2025/06/06 - 18:05
 # family-a1-v18 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-18 | 05/27 - 20:45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-18 | 06/06 - 18:05
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-2:3#⚠️لینک پایین را در تلگرام باز کنید.⚠️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-3:4#⚠️ https://t.me/mhtgbots/7 ⚠️
 
@@ -25,6 +25,11 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=index.html%3Fed%3
 // 05
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=p0088Z13.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=p0088Z13.20240706.Ir&type=ws&sni=p0088Z13.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
+
+# cfworker.edtunnel.best
+# usa
+vless://f944dfb7-610b-4e08-8af9-7982d6a16473@visa.com:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=swift-forest-92.dlnuc3dvi6rg.workers.dev&type=ws#worker%E8%8A%82%E7%82%B9
+vless://f944dfb7-610b-4e08-8af9-7982d6a16473@visa.com:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=swift-forest-92.dlnuc3dvi6rg.workers.dev&type=ws&sni=swift-forest-92.dlnuc3dvi6rg.workers.dev#worker%E8%8A%82%E7%82%B9
 
 
 # END OF SUBSCRIPTION
