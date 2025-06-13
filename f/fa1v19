@@ -11,6 +11,9 @@ wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0
 // 01
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
 
 
 # END OF SUBSCRIPTION
