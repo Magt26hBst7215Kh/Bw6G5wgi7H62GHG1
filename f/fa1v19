@@ -1,7 +1,7 @@
-# 2025/06/14 - 18:10
+# 2025/06/14 - 18:53
 # family-a1-v19 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#⚠️Test⚠️ a1-19 | 06/14 - 18:10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#⚠️Test⚠️ a1-19 | 06/14 - 18:53
 
 # warp / wireguard
 wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
@@ -14,12 +14,6 @@ vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3c
 // 02
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
-// 03
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=p0088Z13.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@digg.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=p0088Z13.20240706.Ir&type=ws&sni=p0088Z13.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2003%20|%20tls
-// 04
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=p0088Z13.20240706.Ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@avval.ir:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=p0088Z13.20240706.Ir&type=ws&sni=p0088Z13.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
 
 
 # END OF SUBSCRIPTION
