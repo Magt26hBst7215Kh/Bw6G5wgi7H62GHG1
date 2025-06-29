@@ -1,0 +1,29 @@
+//base64:TW9ydGV6YSBGYW1pbHkgfCBmYTE=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/MoryMoghaddam
+//profile-web-page-url: https://sub.mhtg.workers.dev/f/fa1
+# 2025/06/30 - 1:36
+# family-a1-v20 configs
+
+
+# warp / wireguard
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
+
+# kmhtg configs:
+// 01
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+// 02
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
+
+# telegram
+vless://c057f724-53c0-484e-a85c-cb80eeaa661d@37.27.19.166:1636?mode=auto&path=%2F&security=&encryption=none&host=bmi.ir&type=xhttp#arashvpn-xhttp-9ai43s57
+vless://a804bb53-7504-4f06-96d8-ff56fb71539d@speedserver.panelsultraserver.com:32990?security=&encryption=none&headerType=http&type=tcp#Telegram%20%3A%20%40BugFreeNet
+vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiVGVsZWdyYW0gOiBAQnVnRnJlZU5ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+
+
+# END OF SUBSCRIPTION
