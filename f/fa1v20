@@ -1,47 +1,43 @@
-//profile-title: base64:TW9ydGV6YSBGYW1pbHkgfCBmYTE=
-//profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/MoryMoghaddam
-//profile-web-page-url: https://sub.mhtg.workers.dev/f/fa1
-# 2025/06/30 - 11:10
+# profile#-title: base64:TW9ydGV6YSBGYW1pbHkgfCBmYTE=
+# profile#-update-interval: 24
+# subscription#-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+# support#-url: https://t.me/MoryMoghaddam
+# profile#-web-page-url: https://sub.mhtg.workers.dev/f/fa1
+# 2025/07/01 - 21:26
 # family-a1-v20 configs
 
 
 # warp / wireguard
-wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2001
-wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#warp in warp
-warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅
+wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:880?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20Warp%20-%2001
+wi**reguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?wnoise=random&address=172.16.0.2%2F32&reserved=103%2C252%2C225&keepalive=0&wpayloadsize=5-20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-5&wnoisecount=5-15&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20Warp%20-%2002
+wireguard://cLAoqv%2FMjlq9xo1B9ELJSq3p92afLmixuMXe6E4vgG8%3D@188.114.96.130:945?wnoise=quic&address=172.16.0.2%2F32&reserved=241%2C153%2C39&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://CCxwGxwmpWbjN5L%2Bied%2Fimw2aPZ6PrXQp4touUjnEGQ%3D@188.114.96.181:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=198%2C92%2C137&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://uGcdKX8LYYIk%2FXj%2B0QB%2FfvRPEoHx1WziauH6khat3U8%3D@188.114.96.157:945?wnoise=quic&address=172.16.0.2%2F32&reserved=105%2C13%2C151&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://mEBkT7BYbHhUkIr%2Fq8Baz%2FA%2BzS7I%2BnBIUwUxKoJEuU8%3D@162.159.195.238:3581?wnoise=quic&address=172.16.0.2%2F32&reserved=143%2C245%2C224&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://uP0iioJFb73tf2ZD3F9vOOg8L4xJoJ6jNBwBUfQ%2BGHA%3D@188.114.98.224:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=133%2C30%2C186&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://uLLfJ9rWZQ9y%2ByGAG3YWkPaEyKDoCxNZI%2FNB7w8%2B6Hg%3D@188.114.96.251:928?wnoise=quic&address=172.16.0.2%2F32&reserved=122%2C231%2C205&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://mEDYtydZFZGtyUsOvCTrunokMmRcOab0uGa%2FFbc9A1k%3D@188.114.99.185:946?wnoise=quic&address=172.16.0.2%2F32&reserved=193%2C167%2C173&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://KK6iPC%2BiaZvpUSyl%2BnKXEuEcd1Fphk1nWF4%2FHep%2Fg0A%3D@162.159.192.161:8886?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A86b7%3A48ca%3Ac6e0%3A3136%3A1554%2F128&reserved=183%2C159%2C23&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#%40ShadowProxy66%20%28warp%29
+wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?wnoise=quic&address=172.16.0.2%2F32&reserved=200%2C94%2C100&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
+wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@188.114.98.224:891?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C172%2C244&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29
 
 # kmhtg configs:
 // 01
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
-vless://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
+vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20no-tls.
+vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2001%20|%20tls
 // 02
-vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
-vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
+vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
+vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
 
 # telegram
-vless://c057f724-53c0-484e-a85c-cb80eeaa661d@37.27.19.166:1636?mode=auto&path=%2F&security=&encryption=none&host=bmi.ir&type=xhttp#arashvpn-xhttp-9ai43s57
 socks://Og%3D%3D@185.93.89.190:35362#1594
-socks://Og%3D%3D@185.93.89.163:17142#126
 socks://Og%3D%3D@185.93.89.188:15590#1941
-socks://Og%3D%3D@185.93.89.191:12497#150
-socks://Og%3D%3D@185.93.89.188:15657#1942
-vless://a804bb53-7504-4f06-96d8-ff56fb71539d@speedserver.panelsultraserver.com:32990?security=&encryption=none&headerType=http&type=tcp#Telegram%20%3A%20%40BugFreeNet
 vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiVGVsZWdyYW0gOiBAQnVnRnJlZU5ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20382
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20381
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20380
-vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=&encryption=none&headerType=none&type=tcp#%40Surfboardv2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20384
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?security=&encryption=none&type=grpc#%40Surfboardv2ray%20%7C%20385
-vless://55246d84-4473-4277-bc9b-86033a63dfcd@78.109.200.19:80?security=&encryption=none&headerType=none&type=tcp#%40Surfboardv2ray%20%7C%20386
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=&encryption=none&type=ws#%40Surfboardv2ray%20%7C%20390
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40BugFreeNet%20-%20Fast%F0%9F%9A%80%20-soon%20%20%E2%81%B0%E2%81%B6
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.133.225.73:80?path=%2F&security=&encryption=none&type=ws#%40BugFreeNet%20-%20Fast%F0%9F%9A%80%20-soon%20%20%E2%81%B0%E2%81%B7
-vless://74696726-5d44-4321-9075-6e43de0af8c5@85.133.250.68:32336?security=&encryption=none&headerType=none&type=tcp#%E2%9C%A8%20%40Geek_Spot%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%2085.133.250.68%20%7C%20IR
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=&encryption=none&host=snapp.taxi&headerType=http&type=tcp#%E2%9C%A8%20%40Geek_Spot%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20212.33.201.222%20%7C%20IR
 
 
 
