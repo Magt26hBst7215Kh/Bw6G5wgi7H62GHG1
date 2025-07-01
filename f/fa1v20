@@ -3,7 +3,7 @@
 # subscription#-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 # support#-url: https://t.me/MoryMoghaddam
 # profile#-web-page-url: https://sub.mhtg.workers.dev/f/fa1
-# 2025/07/01 - 22:00
+# 2025/07/01 - 23:05
 # family-a1-v20 configs
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@ems:1#⚠️ممکنه پینگ ندن، متصل بشین و تلگرام رو چک کنید.
@@ -47,7 +47,7 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=&encrypti
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20384
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=&encryption=none&type=ws#%40Surfboardv2ray%20%7C%20390
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40BugFreeNet%20-%20Fast%F0%9F%9A%80%20-soon%20%20%E2%81%B0%E2%81%B6
-vless://Parsashonam-270@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%40Parsashonam%F0%9F%87%AB%F0%9F%87%AE
+vless://Parsashonam-271@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%40Parsashonam%F0%9F%87%AB%F0%9F%87%AE
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#azadnet001
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#azadnet002
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=a.azadnet002.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet002.ddns-ip.net#azadnet003
