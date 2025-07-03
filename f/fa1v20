@@ -3,7 +3,7 @@
 # subscription#-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 # support#-url: https://t.me/MoryMoghaddam
 # profile#-web-page-url: https://sub.mhtg.workers.dev/f/fa1
-# 2025/07/02 - 1:18
+# 2025/07/03 - 17:08
 # family-a1-v20 configs
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@ems:1#⚠️ممکنه پینگ ندن، متصل بشین و تلگرام رو چک کنید.
@@ -35,44 +35,40 @@ vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@ff1-de1-20240212.128128-hg5vwvdeo
 vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20no-tls.
 vl**ess://6b3a0022-1037-4df2-ab6f-5856689c407a@hallo.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV&type=ws&sni=ff1-de1-20240212.128128-hg5vwvdeo3crv8fwtix0zl0m.WOrKerS.deV#%F0%9F%87%A9%F0%9F%87%AA%20|%2002%20|%20tls
 
-# telegram
+# dont delete
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7
 wireguard://uGXmWtXUrm4UQSXgLdRb7T4FfTKUI2B4DPXEsaXxw0I%3D@188.114.98.224:500?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&reserved=0%2C0%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#%40Geek_Spot%F0%9F%9F%A0
 vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicTIuMTlrQWxhLmNvIiwiaWQiOiI1Y2NmNmMxMy1mNjBmLTRjMzQtOTFlNC1jZThjZDQ0YjVmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAR2Vla19TcG90IC0gU2FtYW50ZWzwn5+gIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.5.226:80?security=&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%40Geek_Spot%20%F0%9F%9F%A0
-socks://Og%3D%3D@185.93.89.190:35362#1594
-socks://Og%3D%3D@185.93.89.188:15590#1941
-vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiVGVsZWdyYW0gOiBAQnVnRnJlZU5ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20381
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20380
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Surfboardv2ray%20%7C%20384
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=&encryption=none&type=ws#%40Surfboardv2ray%20%7C%20390
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40BugFreeNet%20-%20Fast%F0%9F%9A%80%20-soon%20%20%E2%81%B0%E2%81%B6
+
+# telegram
+vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@pishgam.sdcards.ir:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#%40Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40Geek_Spot
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://aac76e15-76e8-df0c-41a3-74d2d5450043@lightning2025.top:606?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#%40Geek_Spot
+vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%40Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=&encryption=none&host=account.zula.ir&headerType=http&type=tcp#%40Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Geek_Spot
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#azadnet001
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#azadnet002
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=a.azadnet002.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet002.ddns-ip.net#azadnet003
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@www.okcupid.com:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#azadnet004
-vmess://eyJhZGQiOiJ6YWJhbi5sZWFybnByZW1pdW0udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXN0LmNvbix0ZWxld2ViaW9uLmNvbSIsImlkIjoiZTFhZWFlNjktNThlZi00OGExLTlmODMtOWRhM2JjMTYzZTI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzYwOTAiLCJwcyI6IiU0MEJpbm5lcl9pcmFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#azadnet004
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%B5
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%B5
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%94%B5
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=&encryption=none&host=netgoris.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%94%B5
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%40Surfboardv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%40Surfboardv2ray
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#%F0%9F%87%A9%F0%9F%87%AA%20%40Surfboardv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%40Surfboardv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%40Surfboardv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%40Surfboardv2ray
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?path=%2F&security=&encryption=none&host=q6.19kalA.co&type=ws#%40Surfboardv2ray
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#Telegram%3A%20%40vpnbaz
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=di.dibdibini.dpdns.org&type=ws#Telegram%3A%20%40vpnbaz
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#Telegram%3A%20%40vpnbaz
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Telegram%3A%20%40vpnbaz
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096?path=%2FvRpve4WyyyBMiVSu%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&security=tls&encryption=none&host=freedom.panotosu.store&type=ws&sni=FReedOM.pANoToSu.StorE#Telegram%20%3A%20%40Merlin_ViP%2079
-vless://Parsashonam-272@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%40Parsashonam%F0%9F%87%AB%F0%9F%87%AE
-vless://Parsashonam-272@172.66.168.210:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%40Parsashonam%F0%9F%87%AB%F0%9F%87%AE
-vless://Parsashonam-272@188.114.96.0:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%40Parsashonam%F0%9F%87%AB%F0%9F%87%AE
 
 
 
