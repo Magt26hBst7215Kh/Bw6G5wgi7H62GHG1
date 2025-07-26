@@ -13,13 +13,6 @@ wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@188.114.98.224:88
 wireguard://IH2%2BLcqM%2BysWoVDersnbBYCx96ceG8NM0KXv7mXGRFg%3D@[2606:4700:d0::c0de:45df:4fbc:a65f]:2506?address=172.16.0.2%2F32&reserved=103%2C252%2C225&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7%20%7C%20W%20-%2002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcXhxeGt6bmxRYmNQRVZo@admin.c4.havij.co:443#K3160321
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcXhxeGt6bmxRYmNQRVZo@emamkazem.qawqa.link:443#K3160321
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc%3D@93.152.207.167:443#%E5%BE%B7%E5%9B%BD-3.06MB%2Fs
-vless://Parsashonam-Bot-6@185.146.173.39:8080?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam_Bot🇦🇱
-vless://Parsashonam-Bot-6@[2a01:4f8:1c1a:dc2b::1]:4430?type=tcp&security=reality&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&fp=chrome&sni=refersion.com&sid=9aa6af3aa2d41f&spx=%2F#@Parsashonam_Bot🇦🇱ipv6
-vless://Parsashonam-Bot-6@104.17.147.22:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=Fi.Parsashonam.CfD.&security=none#@Parsashonam🇫🇮Bot
-vless://Parsashonam-Bot-6@[2a01:4f9:c011:76c2::1]:12059?type=tcp&security=reality&pbk=47PT8crL4enRdXrSwKRpbqDjWOqao-cUMABVJ9jq2SI&fp=chrome&sni=refersion.com&sid=da&spx=%2F#@Parsashonam🇫🇮Ipv6
-vless://Parsashonam-Bot-6@104.17.147.22:8880?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=Fi.Parsashonam.CfD.&security=none#@Parsashonam🇺🇲-Bot
-vless://Parsashonam-Bot-6@[2a01:4f9:c011:76c2::1]:12060?type=tcp&security=reality&pbk=ns_xXaKpN5PUjM6FuXjnFGVWN4JLiR-K5I6yDWerBlQ&fp=chrome&sni=refersion.com&sid=5ecd83e028&spx=%2F#@Parsashonam🇺🇲ipv6-Bot
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d&security=tls&encryption=none&host=sample.fullmargintraders.com&fp=firefox&type=ws&sni=sample.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=%2Fwsv%2F4c835bff-4f4d-4608-bb21-120099089688&security=tls&encryption=none&host=orange.fullmargintraders.com&fp=firefox&type=ws&sni=orange.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -30,27 +23,6 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=&encrypt
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@ai_duet%20%7C%205
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@tobevasl%20%7C%2016
 vmess://b368a86e-6fbc-431c-9f05-6e1fab896858@37.202.225.74:40521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vmess%20%7C%20@v2ray_sub%20%7C%209
-vless://062c145d-30ec-4e48-93d0-36094ef84d10@tt1.hennessypro.site:4001?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@vpnfastservice%20%7C%205
-vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.237.130.125:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L86
-vless://319f08ce-e369-4615-8eed-8c3c47945793@96.126.124.167:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Germany%20L202
-vless://60bb8ec1-fb7e-4e6a-89b7-5df1b743ec43@172.237.130.121:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Germany%20L624
-vless://363d0502-c36e-4e68-a18e-fa9f4abbcba1@172.236.127.210:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L627
-vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.192.122:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Germany%20L952
-vless://363d0502-c36e-4e68-a18e-fa9f4abbcba1@172.236.100.102:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L625
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@104.237.138.80:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L109
-vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.79.3.135:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L256
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.226:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L585
-vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.236.103.217:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Germany%20L495
-vless://079dfeef-8211-4374-9978-2f1883174f50@172.234.230.40:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L34
-vless://042b8df6-9c26-4bca-952b-0123f7497d8c@173.255.212.93:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L798
-vless://d6e6f9fd-8bc5-45c0-b456-f545aa879d0a@104.237.153.162:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Germany%20L799
-vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.233.223.148:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L83
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@45.33.14.90:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L531
-vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.233.164.217:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L304
-vless://0d482f53-d06f-4583-80b2-b12c9072afc6@50.116.37.9:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L685
-vless://4414fd58-952b-4c7e-bb1d-f75f76d1c752@172.233.158.107:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L656
-vless://7b953823-958e-42a1-9528-e2a0fd8260cf@69.164.201.55:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L368
-vless://498de120-ed30-4f7e-b498-da4917465793@172.232.162.100:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L485
-vless://fe858a71-b4e2-4767-bd6b-f4616773f112@172.235.143.48:443?encryption=none&mode=stream-one&path=%2F&security=none&type=xhttp#Germany%20L199
+
 
 
