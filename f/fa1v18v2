@@ -1,7 +1,7 @@
-# 2026/01/02 - 15:22
+# 2026/01/02 - 18:14
 # family-a1-v18-v2 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-18-2 | 01/02 - 15:22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@update-time:1#a1-18-2 | 01/02 - 18:14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-2:3#⚠️لینک پایین را در تلگرام باز کنید.⚠️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ%3D%3D@more-vpn-bots-3:4#⚠️ https://t.me/mhtgbots/7 ⚠️
 
@@ -20,6 +20,8 @@ vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@101reel.com:80?path=index.html%3F
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@101reel.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=l1v0u2d6.20240706.Ir&type=ws&sni=l1v0u2d6.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2004%20|%20tls
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:80?path=index.html%3Fed%3D2560&security=none&encryption=none&host=l1v0u2d6.20240706.Ir.&type=ws# ‌%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20no-tls.
 vl##ess://6b3a0022-1037-4df2-ab6f-5856689c407a@cdnjs.com:443?path=index.html%3Fed%3D2560&security=tls&encryption=none&host=l1v0u2d6.20240706.Ir&type=ws&sni=l1v0u2d6.20240706.Ir#%F0%9F%87%A9%F0%9F%87%AA%20|%2005%20|%20tls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org:80?path=index.html&security=none&encryption=none&host=qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org.&type=ws&sni=qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org#%E2%80%8Cnotls
+vless://6b3a0022-1037-4df2-ab6f-5856689c407a@qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org:443?path=index.html&security=tls&encryption=none&insecure=0&host=qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org&type=ws&allowInsecure=0&sni=qy7n447w.a9f65b5d8c6e2d6e917a7266ce98891f.dpdns.org#%E2%80%8Ctls
 //
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@172.66.213.38:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=l1v0u2d6.20240706.Ir&path=index.html&security=tls&sni=l1v0u2d6.20240706.Ir&type=ws# ‌
 vless://6b3a0022-1037-4df2-ab6f-5856689c407a@104.19.250.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=l1v0u2d6.20240706.Ir&path=index.html&security=tls&sni=l1v0u2d6.20240706.Ir&type=ws# ‌
