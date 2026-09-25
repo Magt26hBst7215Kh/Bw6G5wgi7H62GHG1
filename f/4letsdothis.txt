@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ@MoryMoghaddam.v2ray:1#%E2%9A%A0%EF%B8%8F%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%8C%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%DA%A9%D9%86%DB%8C%D8%AFaether://?protocol=wg&scan=balanced&noize=balanced&ip=v4#Warp
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ@MoryMoghaddam.v2ray:1#%E2%9A%A0%EF%B8%8F%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%8C%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%DA%A9%D9%86%DB%8C%D8%AF
+aether://?protocol=wg&scan=balanced&noize=balanced&ip=v4#Warp
 aether://?protocol=masque&scan=balanced&ip=v4&transport=h3&psiphon=only&psiphon_mode=auto#Psiphon
 aether://?protocol=wg&scan=balanced&ip=v4&psiphon=chain&psiphon_mode=auto#Warp%20-%3E%20Psiphon
 aether://?protocol=masque&scan=balanced&ip=v4&transport=h2#MASQUE%20HTTP2
