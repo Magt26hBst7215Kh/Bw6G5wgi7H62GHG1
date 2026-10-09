@@ -1,7 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ@0.0.0.0:1#%E2%9A%A0%EF%B8%8F%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A8%D8%B1%D9%88%D8%B2%20%D9%86%DA%AF%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF%20%E2%9A%A0%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lOi8vTW9yeU1vZ2hhZGRhbQ@0.0.0.0:2#%E2%9A%A0%EF%B8%8F%20%40mhtgbots%20%3A%20%D9%BE%DB%8C%D8%A7%D9%85%20%D9%85%D9%87%D9%85%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%E2%9A%A0%EF%B8%8F
-aether://?protocol=wg&scan=balanced&noize=balanced&ip=v4#Warp
-aether://?protocol=masque&scan=balanced&ip=v4&transport=h3&psiphon=only&psiphon_mode=auto#Psiphon
-aether://?protocol=wg&scan=balanced&ip=v4&psiphon=chain&psiphon_mode=auto#Warp%20%E2%86%92%20Psiphon
-aether://?protocol=masque&scan=balanced&ip=v4&transport=h2#MASQUE%20HTTP2
-aether://?protocol=masque&scan=balanced&ip=v4&transport=h3#MASQUE%20HTTP3
+
+aether://?protocol=wg&scan=balanced&ip=v4#%F0%9F%87%AE%F0%9F%87%B7%20WireGuard%20%F0%9F%9A%80
+aether://?protocol=gool&scan=balanced&ip=v4#%F0%9F%87%AE%F0%9F%87%B7%20WiW%20%F0%9F%90%8C
+aether://?protocol=masque&scan=balanced&ip=v4&transport=h2#%F0%9F%87%AE%F0%9F%87%B7%20MASQUE%20-%20H2%20%F0%9F%9A%80
+aether://?protocol=masque&scan=balanced&ip=v4&transport=h3#%F0%9F%87%AE%F0%9F%87%B7%20MASQUE%20-%20H3%20%F0%9F%9A%80
+aether://?protocol=mim&scan=balanced&ip=v4&transport=h2#%F0%9F%87%AE%F0%9F%87%B7%20MiM%20-%20H2%20%F0%9F%90%8C
+aether://?protocol=mim&scan=balanced&ip=v4&transport=h3#%F0%9F%87%AE%F0%9F%87%B7%20MiM%20-%20H3%20%F0%9F%90%8C
+aether://?protocol=wg-over-masque&scan=balanced&ip=v4&transport=h2#%F0%9F%8C%90%20WoM%20-%20H2%20%F0%9F%90%8C
+aether://?protocol=wg-over-masque&scan=balanced&ip=v4&transport=h3#%F0%9F%8C%90%20WoM%20-%20H3%20%F0%9F%90%8C
+
