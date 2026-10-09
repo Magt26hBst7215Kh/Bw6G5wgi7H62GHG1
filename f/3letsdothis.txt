@@ -11,5 +11,4 @@ aether://?protocol=mim&scan=balanced&ip=v4&transport=h3#%F0%9F%87%AE%F0%9F%87%B7
 aether://?protocol=wg&scan=balanced&ip=v4&psiphon=only&psiphon_mode=auto#%F0%9F%8C%90%20Psiphon%20%F0%9F%90%8C%E2%8F%B3
 aether://?protocol=wg&scan=balanced&ip=v4&psiphon=chain&psiphon_mode=auto#%F0%9F%8C%90%20WireGuard%20%E2%86%92%20Psiphon%20%F0%9F%9A%80
 aether://?protocol=wg&scan=balanced&ip=v4&tor=only&tor_bridges=first&tor_relays=auto#%F0%9F%8C%90%20TOR%20%F0%9F%90%8C%E2%8F%B3
-aether://?protocol=wg&scan=balanced&ip=v4&tor=chain&tor_bridges=first&tor_relays=auto#%F0%9F%8C%90%20WireGuard%20%E2%86%92%20TOR%20%F0%9F%9A%80
-
+aether://?protocol=wg&scan=balanced&ip=v4&tor=chain&tor_bridges=auto&tor_relays=auto#%F0%9F%8C%90%20WireGuard%20%E2%86%92%20TOR%20%F0%9F%9A%80
